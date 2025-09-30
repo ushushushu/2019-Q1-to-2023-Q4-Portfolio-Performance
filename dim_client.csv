@@ -1,0 +1,2001 @@
+client_uuid,company_size,industry,subindustry,company_type,country,state,city,zip_code
+1,small,manufacturing,Development,Corporation,PHILIPPINES,iloilo ,,1300
+2,med,Telecommunications,N/A,Corporation,Philippines,Unknown,Samal,8100
+3, Small,Import/Export,Automotive,Cooperative,Philippines,Cebu,Talisay,6015
+4,Micro,Financial Services,Insurance,Corporation,,,QUEZON CITY,8002
+5,Medium,Retail Trade, software,Partnership,Philippines,Iloilo,Kalibo,5600
+6,Small,Financial Services,Money Exchange,Sole Proprietorship,Philippines,Cebu,Cebu City,6000
+7,Medium,Manufacturing,Furniture,Partnership,N/A,Zamboanga,Dipolog,7016
+8,Large,Education,Vocational,LLC,Philippines,Cebu,Lapu-Lapu,6038
+9,Micro,Healthcare,Dental, LLC,Philippines,Davao,Tagum,8105
+10,Medium,Education,TEXTILES,Sole Proprietorship,Philippines,Davao,Davao City,8002
+11,Micro,Other,Car Rental,Sole Proprietorship,Philippines,Cebu,Mandaue,6000
+12,Small,Education,N/A,Sole Proprietorship,Philippines,Iloilo,Roxas,5800
+13, Small,,Car Rental,Sole Proprietorship,PH,metro manila,Makati,1740
+14,Micro,Manufacturing,Textiles,N/A,PH,Zamboanga,Pagadian,7100
+15,Medium,,grocery ,corporation,Philippines,Unknown,Dipolog,7100
+16,Medium,food&beverage,Residential,Partnership,Philippines,iloilo , cebu city,7016
+17,Medium,Telecommunications,Internet Provider,coop,Philippines,Unknown,Roxas,6100
+18,MEDIUM,Telecommunications,Call Center,LLC,Pilipinas,Davao,Davao City,8119
+19,med,Agriculture, software,Partnership,Philippines,Metro Manila,Pasay,1100
+20,Micro,Retail Trade,Electronics Store,Corporation, Philippines,Metro Manila,Caloocan,1100
+21,Micro,Construction,Renovation,Partnership,Philippines,Iloilo,Roxas,5600
+22,Large,Transportation,Public Transport,Corporation,Philippines,CEBU,Samal,8100
+23,Micro,Construction,Commercial,coop,,Cebu,,6045
+24,Small,Telecommunications,Internet Provider,LLC,Philippines,Iloilo,Bacolod,6100
+25,MEDIUM,,Rice Farming,Cooperative,Philippines,Metro Manila,Muntinlupa,1400
+26,N/A,Technology,E-commerce,N/A,,Unknown,Unknown,1400
+27,Small,Financial Services,Microfinance,Sole Proprietorship,Philippines,Iloilo,Roxas,5800
+28,Unknown,manufacturing,,Partnership,Philippines,metro manila,Kalibo,6100
+29,med,Import/Export,Electronics,coop,Philippines,iloilo ,manila,5800
+30,lg,Financial Services,Microfinance, LLC,Philippines,Cebu,Talisay,6045
+31,MEDIUM,manufacturing,Logistics,Sole Proprietorship,,metro manila,QUEZON CITY,7000
+32,Micro,Technology,grocery ,Partnership,N/A,Metro Manila, cebu city,1630
+33,small,Construction,Infrastructure,LLC,Philippines,Unknown,Pagadian,7000
+34,Micro,Transportation,Car Rental,sole prop,PHILIPPINES,Davao,Unknown,8100
+35,Small,Manufacturing,Electronics,Partnership,ph,Metro Manila,Las Piñas,1000
+36,Large,Manufacturing,Furniture,Partnership,Philippines,CEBU,Mandaue,6015
+37,Micro,Other,Tutorial,LLC,Philippines,Zamboanga,manila,7000
+38, Small,manufacturing,Electronics Store,Inc.,,Metro Manila,Las Piñas,1550
+39,large ,Food & Beverage,Bakery,corporation,PH,Cebu,Toledo,6014
+40,Unknown,Other,Commercial, LLC,Philippines,,QUEZON CITY,6038
+41,small,manufacturing,Car Rental,LLC,Philippines,Zamboanga,Pagadian,7000
+42,Micro,Technology,Digital Marketing,Corporation,Philippines,iloilo ,Bacolod,5000
+43,lg,Education,Tutorial,Corporation,Philippines,Metro Manila,Mandaluyong,1770
+44,Micro,Technology,Software Development,,Philippines,Davao,N/A,8119
+45,lg,food&beverage,Agricultural Supply,Corporation,Philippines, Davao,Zamboanga City,7000
+46,Medium,Agriculture,N/A,Corporation, Philippines,Iloilo,Kalibo,5600
+47,small,Financial Services,other,Corporation,Philippines,Iloilo,Kalibo,5600
+48,Medium,Manufacturing,Automotive Parts,Sole Proprietorship,Philippines,Metro Manila,Caloocan,1400
+49,Micro,Tourism & Hospitality,misc,coop,Philippines,metro manila,Tagum,8119
+50,Small,Food & Beverage,Catering,Corporation,Philippines,Davao,Tagum,8119
+51,Large,construction ,Vocational,LLC,Philippines,CEBU,Davao City,8105
+52,Large, Technology,Property Management,corporation,Philippines,iloilo ,Tagum,8100
+53,Large,Food & Beverage,Catering,Cooperative,Philippines,Davao,Davao City,8119
+54,MEDIUM,Import/Export,,Partnership, Philippines,iloilo ,Zamboanga City,7100
+55,Small,Financial Services,Investment,Corporation,Philippines,metro manila,Talisay,6015
+56,MEDIUM,Construction,Renovation,Partnership,Philippines,Davao,Panabo,8000
+57,,Agriculture,electronics,PARTNERSHIP,Philippines,Davao,Davao City,8105
+58,Medium,Manufacturing,Electronics,Partnership,ph,N/A,Mandaluyong,1000
+59,Small,RETAIL TRADE,Hardware,Cooperative,Philippines,,davao ,6045
+60,Small,manufacturing,Clothing,Cooperative,Philippines,Unknown,Davao City,8105
+61,Small,Telecommunications,Network Equipment,Partnership,Philippines, Davao,Pagadian,7100
+62,Large,Real Estate,TEXTILES,,Philippines,Metro Manila,Pasig,1630
+63,Large,food&beverage,Resort,LLC,Philippines,Metro Manila,manila,1100
+64, Small,Import/Export,TEXTILES,Partnership,ph,Iloilo,Unknown,5600
+65,Medium,Import/Export,Electronics,corporation,Philippines,Davao,Samal,8105
+66,Large,Construction,Infrastructure, LLC,Philippines,Davao,Unknown,8000
+67,Large,Tourism & Hospitality,electronics,LLC, Philippines,iloilo ,Davao City,8000
+68,Micro,construction ,Internet Provider,Corporation,N/A,Iloilo,Roxas,5600
+69,Large,Real Estate,Property Management, LLC,Philippines,Zamboanga,manila,7100
+70,Large,Food & Beverage, software,Corporation,,Metro Manila,davao ,1770
+71,Micro,Tourism & Hospitality,Event Planning,Cooperative,philippines,Unknown,Unknown,8002
+72,Large, Technology,Residential,Sole Proprietorship,Philippines,Iloilo,Kalibo,5000
+73,Unknown,Real Estate,other,PARTNERSHIP,Philippines,metro manila,Caloocan,1770
+74,Small,food&beverage,Livestock,Sole Proprietorship,Philippines,Cebu,Talisay,6038
+75,Large,Real Estate,electronics,PARTNERSHIP,PHILIPPINES,Cebu,Toledo,6038
+76,Micro,Transportation,N/A,Partnership,Philippines,Davao,Samal,8119
+77,large ,Education,N/A,coop,Philippines,Metro Manila,davao ,1400
+78,med,Telecommunications,Mobile Services,Partnership,Philippines,Metro Manila,Pasig,1740
+79,med,Healthcare,Clinic,Corporation,Philippines,Metro Manila,Taguig,1770
+80,Small, Technology,TEXTILES,PARTNERSHIP,Philippines,Cebu,Toledo,6014
+81,N/A,manufacturing,misc,Cooperative,Philippines,N/A,Mandaue,6014
+82,Micro,Tourism & Hospitality,misc,coop,Philippines,Iloilo,,5800
+83,med,Telecommunications,Network Equipment,Partnership,Philippines,Cebu,Toledo,6038
+84,Medium,Telecommunications,Internet Provider,PARTNERSHIP,PH,Iloilo,Roxas,5800
+85,Micro,Import/Export,TEXTILES,coop,Philippines,Iloilo,Iloilo City,5000
+86,med,Healthcare,Laboratory,Sole Proprietorship,Philippines,iloilo ,Quezon City,1000
+87,N/A,Construction,Infrastructure,Cooperative,N/A,Davao,N/A,8119
+88,Unknown,Telecommunications,Internet Provider,Sole Proprietorship,PHILIPPINES,CEBU,Cebu City,6015
+89,small,Education,Training Center,LLC,Pilipinas,iloilo , cebu city,1630
+90,Medium,Agriculture,Rice Farming,Sole Proprietorship,Philippines,Metro Manila,Pasig,1000
+91,small,Other,Call Center,Inc., Philippines,Zamboanga,Zamboanga City,7016
+92,MEDIUM,Retail Trade,Grocery,Sole Proprietorship,Philippines, Davao,Caloocan,1600
+93,Large,Food & Beverage,Restaurant,coop,Philippines,Zamboanga,Zamboanga City,7000
+94,Small,Financial Services,Insurance,Cooperative,Philippines,Davao,Samal,8100
+95,Medium,Food & Beverage,electronics,Sole Proprietorship,Philippines,Zamboanga,N/A,7000
+96,N/A,N/A,Dental,Inc.,philippines,Cebu,Cebu City,6000
+97,Medium,Financial Services,Investment,PARTNERSHIP,Philippines,N/A,Iloilo City,6100
+98,Medium,Financial Services,Insurance,Sole Proprietorship,Philippines,Cebu,N/A,6038
+99,N/A,Tourism & Hospitality,Event Planning,corporation,PHILIPPINES,Davao,Tagum,8119
+100,Small,Manufacturing,Electronics,Partnership,Philippines,Zamboanga,Pagadian,7016
+101,MEDIUM,Manufacturing, software,Sole Proprietorship,Philippines,Davao,Tagum,8002
+102,Large,construction ,Commercial,LLC,Pilipinas,Davao,Digos,8119
+103, Small,Food & Beverage,Catering,PARTNERSHIP,Philippines,N/A,Panabo,8119
+104,Medium,Construction,Infrastructure, LLC,Philippines,,Zamboanga City,7000
+105,Small,food&beverage,other,Sole Proprietorship,Philippines,Iloilo,,5800
+106,N/A,construction ,N/A,Partnership,Philippines,Iloilo, cebu city,5600
+107,Micro,Healthcare,Medical Equipment,Corporation,PH,,N/A,1200
+108,Large,Agriculture,other,N/A,Philippines,,davao ,6045
+109,Medium,RETAIL TRADE,Digital Marketing,Cooperative,philippines,Davao,Samal,8105
+110,Small,Construction,grocery ,Cooperative,PHILIPPINES,Metro Manila,Caloocan,1100
+111,Small,Transportation,Logistics,coop,Philippines,Iloilo,Iloilo City,5800
+112,Micro,Construction, software,Partnership, Philippines,Cebu, cebu city,6045
+113,Small,food&beverage,Network Equipment,Corporation,Philippines,iloilo ,N/A,8105
+114,Medium,RETAIL TRADE,Bakery,N/A,Philippines,Iloilo,Roxas,5000
+115,Medium,Financial Services,Insurance,LLC,Philippines,Metro Manila,Taguig,1550
+116, Small,Food & Beverage,Food Truck,Sole Proprietorship,Philippines,Cebu,manila,6015
+117,lg,Education,Training Center,sole prop,Philippines,Zamboanga,Dipolog,7100
+118,Unknown,food&beverage,Tutorial,Cooperative,PH,Metro Manila,Pasay,1400
+119,,construction ,Medical Equipment,Partnership,Philippines,Zamboanga,Zamboanga City,7016
+120,Small,Import/Export,Food Products,Corporation,Philippines,Cebu,Unknown,6000
+121,Small,Food & Beverage,Restaurant,sole prop,Philippines,Cebu,Cebu City,6038
+122,Medium,Retail Trade,grocery ,sole prop,Philippines,Iloilo,Bacolod,6100
+123,Unknown,Tourism & Hospitality,grocery ,sole prop,Philippines,Metro Manila,Pasay,1400
+124, Small,Transportation,Logistics,Cooperative,Philippines,Metro Manila, cebu city,1300
+125,Large,,E-commerce,coop,Philippines,N/A,QUEZON CITY,1100
+126,Large,Other,other,Sole Proprietorship,Philippines,Zamboanga,Dipolog,7016
+127,Small,Other,Investment,Cooperative,Philippines,,Kalibo,5000
+128,Large,food&beverage,Online Education,Sole Proprietorship, Philippines,iloilo ,Caloocan,1740
+129,Micro,Agriculture,electronics,corporation,Pilipinas,Iloilo,Unknown,6100
+130,Small,construction ,N/A,Cooperative,Philippines,Iloilo,Bacolod,6100
+131,MEDIUM,Tourism & Hospitality,Restaurant,Partnership,Philippines,Zamboanga,N/A,7016
+132,Micro,Agriculture,misc,LLC,ph,Cebu,Toledo,6045
+133,med, Technology,grocery ,Corporation,Philippines,N/A,manila,1740
+134,Large,Import/Export,TEXTILES,PARTNERSHIP,N/A,Unknown,Lapu-Lapu,6015
+135,Micro,construction ,Commercial,Cooperative,Philippines,Zamboanga,N/A,7100
+136,large ,Agriculture,N/A,corporation,philippines,CEBU,Pagadian,7100
+137,,Tourism & Hospitality,other,Sole Proprietorship,Philippines,Zamboanga,Dipolog,7000
+138,large ,Construction,Materials Supply,N/A,,Zamboanga,Dipolog,7000
+139,Micro,Construction, software,Sole Proprietorship,Philippines,iloilo ,Kalibo,5800
+140,Large,Healthcare,Dental,Cooperative,N/A,N/A,manila,1550
+141,Medium,Manufacturing,Textiles,LLC,N/A,Iloilo,Roxas,5800
+142,Medium,Import/Export,misc,Sole Proprietorship,,Zamboanga,Dipolog,7000
+143,,Healthcare,Medical Equipment,Corporation,Philippines,metro manila,manila,6100
+144,Micro,Transportation,Trucking,LLC,PH,Iloilo,Iloilo City,5600
+145,Large,,Residential,coop,Philippines,Zamboanga,Pagadian,7016
+146,Micro,Education,Training Center,,Philippines,CEBU,Pasay,1100
+147,Medium,food&beverage,Food Truck,Cooperative,Philippines,Cebu,Mandaue,6000
+148,Large,Education,Training Center,Cooperative,philippines,Davao, cebu city,8000
+149,Micro,Technology,Digital Marketing,Cooperative,Philippines,Zamboanga,Zamboanga City,7000
+150,Medium,Food & Beverage,Coffee Shop,LLC,Philippines,Davao,QUEZON CITY,8000
+151,med,Financial Services,Money Exchange,LLC,Philippines,Unknown,Cebu City,6015
+152,Large,Real Estate,Residential,N/A,Philippines,Iloilo,,5600
+153,Small,Technology,Digital Marketing,Sole Proprietorship,N/A,Unknown, cebu city,6045
+154,med,Construction,Commercial,Cooperative,N/A,Cebu,Toledo,6014
+155,Small,Healthcare,TEXTILES,Inc.,Philippines,Unknown,Davao City,8119
+156,MEDIUM,Transportation,,Cooperative,Philippines,Zamboanga,Dipolog,7000
+157,Unknown,Financial Services,grocery ,coop,PH,iloilo ,Quezon City,1600
+158,Micro,manufacturing,Online Education,Cooperative,Philippines,Metro Manila,N/A,1550
+159,med,Manufacturing,,Sole Proprietorship,Philippines,iloilo ,Roxas,5000
+160,,Technology,IT Services, LLC,Philippines,Metro Manila,Unknown,1200
+161,med,Healthcare,Medical Equipment,Sole Proprietorship,Philippines,Iloilo,Bacolod,5600
+162,Small,Tourism & Hospitality,Restaurant,Corporation,Philippines,Iloilo,Iloilo City,5800
+163,med,Education,Vocational,N/A,Philippines,Davao,Digos,8105
+164,Large,Transportation,Delivery Services,sole prop,ph,Davao,manila,8002
+165,Small,N/A,Logistics,Cooperative,Philippines,iloilo ,N/A,5600
+166,Medium,Import/Export,Food Products,N/A,Philippines,Unknown,Dipolog,7000
+167,Medium,Healthcare,Laboratory,PARTNERSHIP,Philippines, Davao,QUEZON CITY,1740
+168,Large,Telecommunications,Network Equipment,Partnership,Philippines,,Davao City,8105
+169,Micro,manufacturing,misc,LLC,Philippines,Iloilo,Roxas,5800
+170, Small,construction ,Renovation,sole prop,Philippines, Davao,Makati,1770
+171,Small,Import/Export,Consumer Goods,Partnership,Philippines,Cebu,Cebu City,6000
+172,small,N/A,Rice Farming,Inc.,Philippines,Zamboanga,Zamboanga City,7100
+173,Micro,Financial Services,Investment,sole prop,Philippines,Davao,N/A,8105
+174,Medium, Technology,Agricultural Supply,Partnership,philippines,Iloilo,davao ,6100
+175,small,Technology,IT Services,Partnership,Philippines,Metro Manila,Quezon City,1550
+176,Micro,Other,,Sole Proprietorship,Philippines,Cebu,Talisay,6045
+177,Small,construction ,Training Center,sole prop,Philippines,Davao,Tagum,8002
+178, Small,construction ,Trucking,LLC,Philippines,iloilo ,Samal,8100
+179,Small,Retail Trade,Grocery,coop,Philippines,iloilo ,Roxas,5800
+180,Large,RETAIL TRADE,Software Development,Sole Proprietorship,Philippines,Davao,Unknown,8002
+181,large ,RETAIL TRADE,grocery ,Partnership,Philippines,Davao,Tagum,8105
+182,Medium,Food & Beverage,Coffee Shop,coop,Philippines,Cebu,Talisay,6000
+183,Large,Education, software,Cooperative,Philippines,Iloilo,Roxas,5000
+184,Small,RETAIL TRADE,Food Processing,PARTNERSHIP,Philippines,Davao,Panabo,8119
+185,small,Transportation,Car Rental,LLC,Philippines,,Roxas,5600
+186,lg,Real Estate,Real Estate Brokerage,LLC,Philippines,Davao,Samal,8100
+187,Micro,RETAIL TRADE,Dental,PARTNERSHIP,PHILIPPINES,Metro Manila,Makati,1630
+188,Small,Manufacturing,Furniture,Sole Proprietorship,N/A, Davao,Lapu-Lapu,6000
+189,MEDIUM,Food & Beverage,electronics,Cooperative,Philippines, Davao,Unknown,1550
+190,Large,Real Estate,Property Management,Corporation,Philippines,,Zamboanga City,7016
+191,Large,Technology,E-commerce,Sole Proprietorship,ph,,Samal,8105
+192,Medium,Technology,E-commerce,LLC,ph,iloilo ,Pasig,1000
+193,med,Retail Trade,misc,Partnership,Philippines,Cebu,Mandaue,6000
+194,Micro,Import/Export,Automotive,Corporation,Philippines,Iloilo,Iloilo City,5800
+195,lg,Healthcare,Dental,LLC,Philippines,Zamboanga,davao ,7016
+196,Medium,Education,grocery ,Sole Proprietorship, Philippines,Davao,Davao City,8105
+197,Micro,construction ,Renovation,Corporation,Philippines,Davao,Tagum,8119
+198,Micro, Technology,grocery ,Partnership,Philippines,Iloilo,Bacolod,5000
+199,Small,Food & Beverage,Coffee Shop,Cooperative,PH,Cebu,QUEZON CITY,6000
+200,Medium, Technology,,Partnership,PH,Zamboanga,Dipolog,7100
+201,Small,Telecommunications,Call Center,LLC,Philippines,N/A,Pasay,1770
+202,Micro,Construction,Residential,Partnership,Philippines,Unknown,Panabo,8002
+203,, Technology,Mobile Services,Cooperative,Philippines,N/A,Caloocan,1770
+204,Small,N/A,Delivery Services,sole prop,Philippines,Davao,Davao City,8100
+205,Unknown,RETAIL TRADE,Laboratory,coop,philippines,Davao,Tagum,8002
+206,Medium,Agriculture,electronics,sole prop,philippines,Davao,Digos,8105
+207,Micro,Education,Tutorial,Corporation,Philippines,metro manila,Roxas,6100
+208,Medium,construction ,Rice Farming,Sole Proprietorship,Philippines,CEBU,N/A,5800
+209,,Tourism & Hospitality,Travel Agency,Inc.,Philippines,CEBU,davao ,6014
+210,Micro,Healthcare,Physical Therapy,LLC,Philippines,Zamboanga,Zamboanga City,7016
+211,Micro,N/A,Cable TV,Corporation,Philippines,Cebu,N/A,6038
+212,lg,Telecommunications,Mobile Services,Partnership,PHILIPPINES,Metro Manila,davao ,1740
+213,Large,,Vocational,PARTNERSHIP,,Zamboanga,Pagadian,7000
+214,Medium,RETAIL TRADE,Dental,sole prop,Philippines,N/A,Tagum,8100
+215,small,manufacturing,Development,N/A,Philippines,Iloilo,Bacolod,5000
+216,Small,Healthcare,Physical Therapy,Corporation,Philippines,Zamboanga,Pagadian,7000
+217,Large,Import/Export,N/A,Corporation,Philippines,Iloilo,,6100
+218,Small,N/A,Real Estate Brokerage,LLC,PHILIPPINES, Davao,Zamboanga City,7000
+219,Large,Financial Services,other,Inc.,Philippines,Zamboanga,Dipolog,7016
+220,Small,Construction,Infrastructure,LLC,N/A,Zamboanga,,7016
+221,med,Technology,Web Design,Partnership,Philippines,Cebu,Talisay,6014
+222,Small,Financial Services,Insurance,sole prop,Philippines,Cebu,Cebu City,6000
+223,Small,,Dental,Sole Proprietorship,Philippines,CEBU,Cebu City,6000
+224,Large,Telecommunications,other, LLC,Philippines,Cebu,Cebu City,6045
+225,Large,N/A,Trucking,N/A,Philippines,Metro Manila,Unknown,1630
+226,Small,Food & Beverage,grocery ,Partnership,Philippines,Cebu,manila,6038
+227,Small,Healthcare,Dental,N/A,Philippines,Zamboanga,manila,7016
+228,Unknown,food&beverage, software,Sole Proprietorship,Philippines, Davao,Manila,1600
+229,lg,manufacturing,Training Center, LLC,N/A,Davao,Samal,8002
+230,Medium,Financial Services,Remittance,Partnership,PH,Davao,Panabo,8002
+231,Medium,Construction,N/A,Corporation,Philippines, Davao,Caloocan,1300
+232,Large,Import/Export,Automotive,LLC,Philippines, Davao,manila,6100
+233,Micro,Healthcare,N/A,Corporation,Philippines,Davao,N/A,8119
+234,MEDIUM,Agriculture,Organic Farming,LLC,PHILIPPINES,metro manila,Lapu-Lapu,6045
+235,Micro,Healthcare,Dental,Partnership,Pilipinas,CEBU,Lapu-Lapu,6014
+236,MEDIUM,manufacturing,Clothing,Corporation,Philippines,Zamboanga,Dipolog,7016
+237,Medium,food&beverage,Textiles,N/A,Philippines,Davao,Tagum,8000
+238,Unknown,N/A,IT Services, LLC,PHILIPPINES,Zamboanga,Dipolog,7100
+239,Micro, Technology,Training Center,Sole Proprietorship,Philippines,CEBU,Iloilo City,5600
+240,Large,,Electronics,Corporation,Philippines,Zamboanga,Zamboanga City,7016
+241,Micro,Construction,other, LLC,Philippines,Cebu,Talisay,6038
+242,Medium,Financial Services,other,Cooperative,N/A,Metro Manila,Taguig,1630
+243,Medium,Food & Beverage,Bakery,Partnership,Philippines,, cebu city,7000
+244,Micro,manufacturing,other,Partnership,Philippines,Iloilo,Bacolod,5600
+245,N/A,Tourism & Hospitality,Hotel,Cooperative,N/A,Zamboanga,Pagadian,7000
+246,Micro,Financial Services,misc,Sole Proprietorship,Pilipinas,Davao,Samal,8105
+247,Small,Food & Beverage,Bakery,Cooperative,Philippines, Davao,Pasig,1740
+248,Large,manufacturing,Development,Partnership,Philippines,Zamboanga,Zamboanga City,7100
+249,med,Manufacturing,Electronics,,Philippines,Iloilo,manila,6100
+250,Micro,Healthcare,Laboratory, LLC,Philippines,Davao,Unknown,8100
+251,Large,Import/Export,Electronics,Partnership,Philippines, Davao,Mandaluyong,1400
+252,Medium,RETAIL TRADE,other,Partnership,Philippines,Metro Manila,Pasay,1100
+253,Medium,Education,Vocational,Partnership,Philippines, Davao,Tagum,8100
+254,med,Food & Beverage,Food Truck,,Philippines,Iloilo,davao ,6100
+255,Small,Food & Beverage,Bakery,N/A,Philippines,Davao,Panabo,8105
+256,large ,Education,Online Education,Inc.,Philippines,,QUEZON CITY,5800
+257,Micro,N/A, software,Partnership, Philippines,Iloilo,Kalibo,5600
+258,Small,Food & Beverage,Coffee Shop, LLC,PH,CEBU,Unknown,5800
+259,Medium,Technology,IT Services,Partnership,Philippines,Cebu,Talisay,6000
+260,Small,Financial Services,Insurance,Cooperative,Philippines,Cebu,Talisay,6000
+261,Medium,Real Estate, software,,PHILIPPINES,Unknown,Lapu-Lapu,6015
+262,Medium,Real Estate,Property Management,Cooperative,Pilipinas,Unknown,Pagadian,7016
+263,Small,construction ,N/A,Partnership,Philippines,N/A,manila,6000
+264,Small,Import/Export,Electronics,Partnership,Philippines,Davao,Digos,8119
+265,Large,food&beverage,Grocery,Cooperative,Philippines,Zamboanga,Pagadian,7000
+266,Small,Food & Beverage,Bakery,Cooperative,ph,metro manila,Zamboanga City,7100
+267,Small,Import/Export,Industrial Equipment,corporation,Philippines,Zamboanga,Pagadian,7000
+268,large ,food&beverage,Public Transport,Corporation,Philippines,Davao,Davao City,8002
+269,Small,Transportation,electronics,LLC,Philippines,metro manila,Zamboanga City,7000
+270,Small,Construction,Infrastructure, LLC,Philippines,Iloilo,Kalibo,5000
+271,med,Technology,E-commerce,Partnership,PH,iloilo ,Kalibo,5000
+272,Medium,Tourism & Hospitality,other,Cooperative,Philippines,metro manila,Quezon City,1740
+273,Medium,Telecommunications,Mobile Services,Corporation,N/A,Davao,N/A,8002
+274,Large,Retail Trade,Electronics Store,Cooperative,Philippines,iloilo ,Pagadian,7100
+275,Large,food&beverage,,Partnership,Philippines,CEBU,,1770
+276, Small,construction ,Dental,Cooperative,Philippines,Iloilo,Roxas,6100
+277,Small,Technology, software,coop,Philippines,Davao,,8105
+278,Medium,Import/Export,other,Sole Proprietorship,Pilipinas, Davao,Dipolog,7000
+279,,Healthcare,Laboratory,LLC,N/A,Iloilo,Kalibo,5800
+280,Medium,Technology,misc,PARTNERSHIP,Philippines,Metro Manila,Manila,1550
+281,Small,Financial Services,Investment,Cooperative, Philippines,Zamboanga,Pagadian,7000
+282,N/A, Technology,Residential,LLC,Philippines,Davao,Digos,8119
+283,Small,Transportation,Public Transport,Sole Proprietorship,philippines,Zamboanga,Zamboanga City,7000
+284,Micro,,Catering,Partnership,Philippines,Iloilo,Iloilo City,5600
+285,large ,Healthcare,TEXTILES,LLC,Philippines,Cebu,Mandaue,6038
+286,Large,RETAIL TRADE,Investment,Cooperative,Philippines,Unknown,Makati,1100
+287,Small,Retail Trade,misc,Partnership,N/A,Unknown,Zamboanga City,7000
+288,small,Agriculture, software,Cooperative,Philippines,iloilo ,Zamboanga City,7000
+289,Micro,Healthcare,other,Cooperative,Philippines,Cebu,,6014
+290,lg,Real Estate,Property Management,sole prop,Philippines,Iloilo,manila,5600
+291,small,Real Estate,Property Management,Corporation,Philippines,Metro Manila,Pasig,1100
+292,Small,RETAIL TRADE,Delivery Services,Corporation,Philippines,metro manila,Zamboanga City,7100
+293,Large,Financial Services,Microfinance,Cooperative,Philippines,Davao,Tagum,8002
+294,Small,Transportation,electronics,corporation,philippines,Metro Manila,Manila,1630
+295,Micro,Transportation,Trucking,LLC,Philippines,Zamboanga,Dipolog,7000
+296,Large,Technology,N/A,Cooperative,,N/A,davao ,1740
+297,Unknown, Technology,Livestock,N/A,PHILIPPINES,Zamboanga, cebu city,7016
+298,Large,RETAIL TRADE,electronics,,philippines,Zamboanga,Zamboanga City,7000
+299,Medium,N/A,Laboratory,Corporation,N/A,iloilo ,Tagum,8119
+300, Small,Transportation,Delivery Services,Corporation,Philippines,Cebu,Talisay,6015
+301,small,RETAIL TRADE,grocery ,Sole Proprietorship,Pilipinas,Iloilo,Bacolod,6100
+302,Medium,Telecommunications,,Cooperative,Philippines,Zamboanga,N/A,7000
+303,Micro,manufacturing, software,Cooperative,Philippines, Davao,Unknown,5600
+304,MEDIUM,Transportation,Delivery Services,Corporation,ph,Cebu,Mandaue,6014
+305,MEDIUM,Financial Services,Microfinance,Inc.,Philippines,Cebu,Lapu-Lapu,6015
+306,Micro,Education,Online Education,Sole Proprietorship,Philippines,Zamboanga,Pagadian,7016
+307,Small,Import/Export,electronics,LLC,Philippines,Iloilo,Kalibo,6100
+308,Small,Other,Automotive,Corporation,Philippines,,Pagadian,7100
+309,Medium,Telecommunications,Mobile Services,Partnership,PH,metro manila,QUEZON CITY,8119
+310,,Import/Export,other,Cooperative,Philippines,Cebu,Unknown,6038
+311,Medium,,misc,Partnership,Philippines,CEBU,Panabo,8105
+312,Unknown,,Tutorial,LLC,,CEBU,Cebu City,6000
+313,N/A,manufacturing,Trucking,Sole Proprietorship,Philippines,Cebu,Cebu City,6014
+314,Medium,N/A,Organic Farming,coop,Philippines,Cebu,Toledo,6045
+315,med, Technology,Hardware,Partnership,Philippines,iloilo ,Bacolod,6100
+316,Medium,Retail Trade,Electronics Store,Inc.,Philippines,Metro Manila,Pasig,1400
+317,Large,Retail Trade,Pharmacy,Sole Proprietorship,N/A,Iloilo,Iloilo City,5800
+318,Small,Transportation,grocery , LLC,Philippines,metro manila,QUEZON CITY,8100
+319,Large,Financial Services,Microfinance,Partnership,Philippines,metro manila,Mandaue,6015
+320,large ,Tourism & Hospitality,Event Planning,Partnership,Philippines,Cebu,davao ,6000
+321,lg,Import/Export,Consumer Goods,Sole Proprietorship,Philippines,Davao,,8119
+322,Medium,Import/Export,Consumer Goods,Corporation,PHILIPPINES,N/A,Tagum,8100
+323,Micro,Financial Services,Money Exchange,Partnership,Philippines,Iloilo,davao ,6100
+324, Small,Tourism & Hospitality,Restaurant,Cooperative,Pilipinas,Metro Manila,N/A,1300
+325,Micro,Tourism & Hospitality,TEXTILES,LLC,,Iloilo,davao ,5000
+326,Micro,Import/Export,Industrial Equipment,N/A,Philippines,CEBU,Iloilo City,5600
+327,Micro,Telecommunications,Network Equipment,Corporation,ph,Cebu,Lapu-Lapu,6015
+328,small,Food & Beverage,Bakery,Cooperative,Philippines,metro manila,Davao City,8119
+329,Micro,Real Estate,Real Estate Brokerage,Corporation,Philippines,Cebu,Mandaue,6045
+330,large ,manufacturing,electronics,N/A,Pilipinas,Iloilo,Bacolod,6100
+331,Small, Technology,Automotive,LLC,philippines,Metro Manila,Manila,1200
+332,Large,Manufacturing,Food Processing,Sole Proprietorship,,Iloilo,Iloilo City,5000
+333,Large,Construction,TEXTILES,Partnership,Philippines,Iloilo,Roxas,5800
+334,Small,Education,Private School,sole prop,N/A,Metro Manila,Taguig,1100
+335,Small,Technology,TEXTILES,Sole Proprietorship, Philippines,metro manila,Mandaue,6038
+336,MEDIUM,Healthcare,grocery ,Sole Proprietorship,Philippines,Cebu,Toledo,6038
+337,Small,N/A,Industrial Equipment,, Philippines,CEBU,Digos,8119
+338,Small,Technology, software,Cooperative,Philippines,Cebu,Mandaue,6014
+339,Small,RETAIL TRADE,Food Products,LLC,Philippines,metro manila,davao ,6038
+340,Large,Other,Resort,Cooperative,Philippines,Cebu, cebu city,6000
+341,Medium,Food & Beverage, software,Corporation,Philippines,Unknown,Davao City,8105
+342,Medium,Education,,Corporation,Philippines,Cebu,,6000
+343,Small,Tourism & Hospitality,TEXTILES,LLC, Philippines,Metro Manila,Pasig,1630
+344,small,,,LLC,Philippines,N/A,Dipolog,7016
+345,, Technology,Organic Farming,LLC,Philippines,Davao, cebu city,8000
+346,Large,Tourism & Hospitality,electronics,PARTNERSHIP,Philippines,Davao,Samal,8100
+347,N/A,,Network Equipment,LLC,Philippines, Davao,Zamboanga City,7000
+348,med,Food & Beverage,Restaurant,N/A,Philippines,Zamboanga,Pagadian,7000
+349,Small,Import/Export,Automotive,Sole Proprietorship,N/A,Metro Manila,Pasig,1400
+350,Micro,Retail Trade,Hardware,Partnership,Philippines,Metro Manila,Quezon City,1770
+351,Small,manufacturing,Internet Provider,LLC,Philippines,Davao,Davao City,8105
+352,,Food & Beverage,Catering,Sole Proprietorship,Philippines,Davao,Samal,8100
+353,Micro,Telecommunications,TEXTILES,LLC,Philippines,Unknown,manila,6100
+354,Small,Food & Beverage,TEXTILES,Partnership, Philippines,,davao ,1740
+355,Medium,,Renovation,corporation,Pilipinas,Metro Manila,Quezon City,1770
+356,N/A,Education,Private School,Sole Proprietorship,Philippines,Metro Manila,Las Piñas,1400
+357,Micro,Import/Export,Consumer Goods,Partnership,Philippines,,Toledo,6045
+358,Large,Manufacturing,TEXTILES,Partnership,Philippines,Iloilo,Kalibo,5600
+359,Medium,Financial Services,Insurance,,Philippines,Zamboanga,Pagadian,7000
+360, Small,Agriculture,other,Cooperative,Philippines,Iloilo,Iloilo City,5800
+361,Small,Real Estate,electronics,Partnership,Philippines,Zamboanga,Dipolog,7016
+362,Small,Real Estate,Commercial,LLC,Philippines,Metro Manila,N/A,1000
+363,Medium,Education,Private School,PARTNERSHIP,,Metro Manila,Caloocan,1400
+364,Large,RETAIL TRADE,Microfinance,LLC,Philippines,Cebu,,6014
+365,Small,RETAIL TRADE,,PARTNERSHIP,PHILIPPINES,CEBU,QUEZON CITY,6038
+366,Micro,Other,Real Estate Brokerage,Partnership,Philippines,Cebu,,6045
+367,Medium,Retail Trade,Electronics Store,LLC,Philippines,Metro Manila,Mandaluyong,1600
+368,Micro,Retail Trade,N/A,LLC,Philippines,CEBU,N/A,6015
+369,Micro,manufacturing,grocery ,Partnership,Philippines,Cebu,Mandaue,6014
+370,MEDIUM,Manufacturing,other,LLC,PH,Metro Manila,Caloocan,1740
+371,Large,Import/Export,Consumer Goods,Sole Proprietorship,Philippines,Metro Manila,davao ,1630
+372,Medium,N/A,Food Processing,Sole Proprietorship,Philippines, Davao,Pagadian,7000
+373, Small,manufacturing,,Cooperative,Philippines,Davao,davao ,8119
+374,Micro,construction ,Vocational,Cooperative,ph, Davao,Lapu-Lapu,6014
+375,Small,Manufacturing,grocery ,Cooperative,Philippines,Metro Manila,,1300
+376,Large,,Insurance,LLC,Philippines,N/A,Zamboanga City,7000
+377,MEDIUM,Other,Digital Marketing,Partnership,Philippines,Metro Manila,Makati,1200
+378,Small,food&beverage,Coffee Shop, LLC,Philippines,Davao,Samal,8105
+379, Small,construction ,Residential,Corporation,Philippines,Cebu,Cebu City,6015
+380,Medium,Education,electronics,Cooperative,ph,Davao,Digos,8100
+381,Large,Construction,Residential,Sole Proprietorship,Philippines,N/A,Las Piñas,1200
+382,Small,Transportation,Delivery Services,LLC,Pilipinas, Davao,Iloilo City,5800
+383,,Agriculture,Livestock,Inc., Philippines,Cebu,Cebu City,6000
+384,large ,N/A,Internet Provider,Corporation,Philippines,Davao,Tagum,8002
+385,Unknown,food&beverage,Food Truck,coop,,Metro Manila,Muntinlupa,1200
+386,Small,Healthcare,Laboratory, LLC,Philippines,Davao,Panabo,8000
+387,Medium,construction ,electronics,Cooperative,Philippines,Davao,Samal,8002
+388,Small,Import/Export,Industrial Equipment,LLC,Philippines,Davao,N/A,8100
+389,Micro,Agriculture,Livestock,LLC,PH,Cebu,Mandaue,6038
+390,small,Retail Trade,Grocery,,Philippines,Zamboanga,Dipolog,7100
+391,Small,N/A,Commercial,Cooperative,Philippines,Iloilo,Iloilo City,5600
+392,Large,Agriculture,,N/A,,Davao,Davao City,8100
+393,Large,Food & Beverage,Catering,Sole Proprietorship,Philippines,Metro Manila,Taguig,1740
+394,Medium,Retail Trade,Electronics Store,Partnership,Philippines,metro manila,Las Piñas,1000
+395,MEDIUM,Other,,Sole Proprietorship,Philippines,Zamboanga,Pagadian,7016
+396,Medium,N/A,Food Products,Partnership,Philippines,CEBU,Panabo,8002
+397,Medium,RETAIL TRADE,Food Products,Cooperative,Philippines,Iloilo,davao ,6100
+398, Small,manufacturing, software,Sole Proprietorship,Philippines,Zamboanga,N/A,7016
+399,,Education,Online Education,N/A,Philippines,Davao,Panabo,8119
+400,Medium,RETAIL TRADE,IT Services,Sole Proprietorship,Philippines, Davao,Kalibo,6100
+401,Large,Transportation,electronics,Partnership,Philippines,Davao,QUEZON CITY,8002
+402,N/A,Food & Beverage,Bakery,Sole Proprietorship,Philippines,,Pagadian,7100
+403,Large,Technology,E-commerce,coop, Philippines, Davao,Toledo,6015
+404,Large,Agriculture,Organic Farming,Partnership,Philippines,Metro Manila,Taguig,1550
+405,Small,Financial Services,Money Exchange,Cooperative,Philippines,iloilo ,Pagadian,7100
+406,Micro,Agriculture,Livestock,corporation,Pilipinas,Cebu,Talisay,6038
+407,med,Construction,Materials Supply,Cooperative, Philippines,,N/A,5000
+408, Small,,other,Sole Proprietorship,PH,Zamboanga,Pagadian,7100
+409,med,Real Estate,Real Estate Brokerage,Cooperative,N/A,Iloilo,Unknown,5600
+410,Medium,N/A,Online Education,LLC,Philippines,,Cebu City,6014
+411,N/A,Financial Services,TEXTILES,Partnership,PH,Zamboanga,Zamboanga City,7016
+412,lg,Financial Services,Money Exchange,corporation,Philippines,Cebu,N/A,6038
+413,Small,Transportation,N/A,LLC,Philippines,Metro Manila,Unknown,1200
+414,Medium,Agriculture,Rice Farming,Cooperative,PHILIPPINES,Iloilo,Iloilo City,5800
+415,Micro,Real Estate,Commercial,,Philippines,Metro Manila,Las Piñas,1100
+416,Small,Transportation,Public Transport,Cooperative,Philippines,Davao,Digos,8119
+417, Small,Import/Export,N/A,Cooperative,Philippines,Zamboanga,Dipolog,7016
+418,Micro,Financial Services,Remittance,Cooperative,Philippines,Metro Manila,Taguig,1000
+419,Micro,Food & Beverage,Restaurant,corporation,Philippines,Zamboanga,Unknown,7100
+420,Large,,Dental,Sole Proprietorship,Philippines,Davao,Samal,8000
+421,Medium,Other, software,Cooperative,Philippines,Metro Manila,Mandaluyong,1300
+422,Unknown,Education,Tutorial,Corporation,N/A,,,1400
+423,Micro,Tourism & Hospitality,Event Planning,Cooperative,Philippines,Metro Manila,Makati,1630
+424,N/A,,Mobile Services,Cooperative,Philippines,,manila,5800
+425,Small,Agriculture,Fishery,PARTNERSHIP,Philippines,Davao,Davao City,8105
+426,Unknown,Real Estate,Commercial,coop,Philippines,Zamboanga,Unknown,7016
+427,Small,manufacturing,Food Truck,Corporation,Philippines,iloilo ,Iloilo City,5600
+428,Large, Technology,Network Equipment,Corporation,Philippines,Metro Manila,Manila,1770
+429,lg,,Real Estate Brokerage,Cooperative,philippines,Davao,Davao City,8000
+430,Medium,,, LLC,Philippines,,Panabo,8119
+431,Medium,Tourism & Hospitality,Hotel,LLC,Philippines,Zamboanga,Pagadian,7000
+432,Micro,Real Estate,Property Management,Partnership,Philippines,,N/A,1400
+433,, Technology,Food Truck,Cooperative,Philippines,Zamboanga,Dipolog,7016
+434,Micro,Manufacturing,Textiles,Cooperative,Philippines,Zamboanga,Dipolog,7100
+435,small,Healthcare,Laboratory,Sole Proprietorship,,Metro Manila,N/A,1770
+436,Large,Manufacturing, software,N/A,Philippines,Davao,Digos,8119
+437,Small,N/A,grocery ,coop,,N/A,Panabo,8100
+438,Large,Import/Export,Industrial Equipment,Sole Proprietorship,ph,Iloilo,Kalibo,5000
+439,Medium,Real Estate,Property Management,Inc.,PH,metro manila,QUEZON CITY,5800
+440,Medium,Technology,E-commerce,sole prop,,Zamboanga,Zamboanga City,7000
+441,Micro,Education,Training Center,Partnership,Philippines,N/A,Zamboanga City,7100
+442,lg,Telecommunications,Internet Provider,Cooperative,,Cebu,Cebu City,6015
+443,Micro,Education,N/A,LLC,Philippines,CEBU,Roxas,5000
+444,Medium,Agriculture,,LLC,Philippines,Cebu,QUEZON CITY,6000
+445,Micro,Healthcare,,,Philippines, Davao,Makati,1550
+446,Micro,Healthcare,,LLC,Philippines,Cebu,Toledo,6038
+447,Medium,,Industrial Equipment, LLC,Philippines,Metro Manila,Makati,1300
+448,Micro,Construction,N/A,Partnership,Philippines,iloilo ,Talisay,6015
+449,Large,RETAIL TRADE,Textiles,Partnership, Philippines,Cebu,Mandaue,6045
+450,small,manufacturing,Property Management,Corporation,Philippines,Metro Manila,Pasig,1770
+451,Medium,food&beverage,Bakery,sole prop,Philippines,Iloilo,QUEZON CITY,6100
+452,small,Tourism & Hospitality,Resort,Cooperative,Philippines,N/A,Lapu-Lapu,6014
+453,Large,Education,Online Education,coop,Philippines,Metro Manila,Makati,1550
+454,Small,Financial Services,,Partnership,Philippines,metro manila,N/A,7100
+455,Micro,Real Estate,Real Estate Brokerage, LLC,N/A,Davao,Unknown,8105
+456,med,Healthcare,Physical Therapy,Cooperative,PHILIPPINES,Unknown,davao ,1200
+457,Large,N/A,Mobile Services,Sole Proprietorship,Philippines,Iloilo,Kalibo,6100
+458,Unknown,Construction,Renovation,LLC,PH,Iloilo,davao ,5600
+459,Micro,N/A,IT Services,Partnership,Philippines,Davao,Davao City,8105
+460,Medium,,Cable TV,N/A,Philippines,Zamboanga,Zamboanga City,7000
+461,N/A,Technology,E-commerce,Cooperative,Philippines,Metro Manila,Caloocan,1000
+462,Small,Technology, software,Corporation,Pilipinas,Iloilo,Bacolod,5800
+463,Medium,Manufacturing,electronics,LLC,Pilipinas,CEBU,Dipolog,7000
+464,N/A,Agriculture,Agricultural Supply, LLC,Philippines,Cebu,Mandaue,6015
+465,Large,RETAIL TRADE,grocery , LLC,Philippines,N/A,Bacolod,5000
+466,Large,Transportation,Delivery Services,Cooperative,Philippines,Zamboanga,Dipolog,7016
+467,Large,Agriculture,Rice Farming,LLC,philippines,Iloilo,QUEZON CITY,5600
+468,Large,Telecommunications,Call Center,Sole Proprietorship,Philippines, Davao,N/A,7016
+469,Small,Tourism & Hospitality,Hotel,PARTNERSHIP,Philippines,Cebu,Cebu City,6045
+470,Micro,Healthcare,Clinic,Cooperative,Philippines,Metro Manila,N/A,1740
+471,large ,construction ,Clinic,Inc.,Pilipinas,Metro Manila,Pasig,1600
+472,Unknown,Real Estate,Development,Corporation,Philippines,Davao,Unknown,8105
+473,large ,Food & Beverage,Bakery,Corporation,Philippines,Unknown,Dipolog,7000
+474,Micro,Manufacturing,,Cooperative,Philippines,Davao,Tagum,8000
+475,Large,Import/Export,Automotive,Partnership,Philippines,Iloilo,davao ,5600
+476,Micro,Construction,Materials Supply,Sole Proprietorship,PHILIPPINES,Iloilo,Bacolod,5000
+477,MEDIUM,Import/Export,electronics,LLC,Philippines,Iloilo,Bacolod,5000
+478,Micro,Healthcare,Laboratory,Partnership,Philippines,CEBU,N/A,5600
+479,Medium,,Livestock,Sole Proprietorship,Philippines,Unknown,Samal,8100
+480,Medium,Agriculture,grocery ,Inc.,philippines,Zamboanga,Zamboanga City,7100
+481,Unknown,,IT Services,Corporation,Philippines,Zamboanga,Dipolog,7016
+482,Medium,Manufacturing,Automotive Parts,Corporation,Philippines, Davao,Pagadian,7100
+483,Unknown,Telecommunications,Call Center,Sole Proprietorship,Philippines,Iloilo,Kalibo,6100
+484,Large,Retail Trade,electronics,Inc.,Philippines,Cebu,Talisay,6015
+485,Medium, Technology,grocery ,LLC,Philippines,Cebu,Talisay,6000
+486,Large,Agriculture,Rice Farming,Cooperative,Philippines,Zamboanga,Pagadian,7100
+487,Micro,Retail Trade,Pharmacy,corporation,Philippines,Davao,Unknown,8000
+488,Small,Construction,Materials Supply,Partnership,Philippines,Iloilo,Iloilo City,6100
+489,Micro,Import/Export,Consumer Goods,Cooperative,Philippines,Cebu,Talisay,6015
+490,Micro,Technology,Software Development,Cooperative,Philippines,Cebu,Lapu-Lapu,6000
+491,small,Retail Trade,misc,PARTNERSHIP,Philippines,Davao,Unknown,8000
+492,Medium,Food & Beverage,TEXTILES,sole prop,Philippines, Davao,Quezon City,1200
+493,Medium,Agriculture,N/A,Corporation,Philippines,Metro Manila,Manila,1740
+494,Unknown,Construction,,N/A,Philippines,Iloilo,Iloilo City,5800
+495,Small,Agriculture,Organic Farming,Partnership, Philippines,Metro Manila,Muntinlupa,1000
+496,Small,N/A,Tutorial,Sole Proprietorship,Pilipinas,,Toledo,6014
+497,Small,Other,other,Corporation,Philippines,Unknown,Muntinlupa,1600
+498,MEDIUM,Retail Trade,N/A,coop, Philippines,,QUEZON CITY,5600
+499,N/A,Construction,Renovation,sole prop,PH,Zamboanga,Zamboanga City,7100
+500,med,manufacturing,N/A,LLC,ph,Metro Manila,Quezon City,1400
+501,Medium,RETAIL TRADE,Vocational,PARTNERSHIP,Philippines,Cebu,Unknown,6014
+502,Medium,Retail Trade,Electronics Store,corporation,Philippines,Unknown,Samal,8100
+503,Medium,Retail Trade,other,,Philippines,CEBU,Bacolod,5000
+504,Small,Food & Beverage,TEXTILES,Corporation,,N/A,Davao City,8119
+505,Medium,Transportation,Car Rental,Cooperative,Philippines,iloilo , cebu city,1300
+506, Small,Agriculture,grocery ,Cooperative,,metro manila,Roxas,5800
+507,Large,manufacturing,Microfinance,coop,Philippines,metro manila,Zamboanga City,7000
+508,Large,Import/Export,Electronics,Corporation,Philippines,,Digos,8100
+509,Micro,,Physical Therapy, LLC,PHILIPPINES,Zamboanga,QUEZON CITY,7000
+510,Large,Construction,Residential,Cooperative, Philippines,Zamboanga,Dipolog,7100
+511,MEDIUM,Manufacturing,Furniture,Partnership,PHILIPPINES,Davao,,8000
+512,Small,Education,Private School,,Philippines,Davao,Tagum,8100
+513,med,Telecommunications,Cable TV,Partnership,Philippines,Zamboanga,Dipolog,7000
+514,Small,Agriculture,Fishery,corporation,Philippines,Cebu,Lapu-Lapu,6038
+515,Medium,manufacturing,Event Planning,Cooperative,Philippines,Cebu,Toledo,6000
+516,Large,Education,Private School,LLC,philippines,Cebu,Toledo,6000
+517,Micro,Tourism & Hospitality,misc,Corporation,Philippines,Metro Manila,Las Piñas,1740
+518,Micro, Technology,Commercial, LLC,ph,Cebu,N/A,6014
+519,Small,Import/Export,,corporation,PHILIPPINES,Metro Manila,Quezon City,1200
+520,Large,Other,Web Design,corporation,Pilipinas,Metro Manila,Mandaluyong,1770
+521,Micro,Food & Beverage,Coffee Shop, LLC,Philippines,,Samal,8000
+522,,N/A,Investment,Corporation,Philippines,Zamboanga,Zamboanga City,7000
+523, Small,Manufacturing, software,Partnership,Philippines,Cebu,Mandaue,6015
+524,Large,Import/Export,Electronics,Sole Proprietorship,Philippines,N/A,Toledo,6014
+525,MEDIUM,,Hardware,sole prop,Philippines,Zamboanga,manila,7100
+526,MEDIUM,Education,Tutorial,LLC,Philippines,Iloilo,Kalibo,6100
+527,Micro,Education,Training Center,LLC,Philippines,Davao,Samal,8002
+528,Medium,RETAIL TRADE,Restaurant,LLC,Philippines, Davao,Zamboanga City,7100
+529,Medium,,Agricultural Supply, LLC,Philippines,N/A, cebu city,5000
+530,Small,Financial Services,Microfinance,Inc.,philippines,iloilo ,Panabo,8100
+531,Small,Manufacturing,Automotive Parts,Inc.,Philippines,N/A,Dipolog,7016
+532,Large,Tourism & Hospitality,N/A,Partnership,Philippines, Davao,Pagadian,7000
+533,med,Financial Services,Investment,Cooperative,ph,,Pagadian,7100
+534,Small,Financial Services,Insurance,Corporation,Philippines,Davao,Tagum,8000
+535,Large,Agriculture,Fishery,Corporation,ph,Zamboanga,,7000
+536,Large,Real Estate,Real Estate Brokerage,LLC,Philippines,Davao,Tagum,8105
+537,Unknown,Telecommunications,Call Center,Corporation,Philippines,Cebu,davao ,6045
+538,Micro,Manufacturing,Automotive Parts,Corporation,Pilipinas,metro manila,Bacolod,6100
+539,lg,Healthcare,TEXTILES,Corporation,Philippines,Zamboanga,Pagadian,7100
+540,Large,Technology,Web Design,LLC,N/A,Iloilo,Iloilo City,5600
+541,Micro,manufacturing,Clinic,Sole Proprietorship,Philippines,Cebu,Mandaue,6015
+542,Micro,Tourism & Hospitality,Event Planning,Partnership,Pilipinas,Iloilo,Iloilo City,6100
+543,,Technology,Software Development,Cooperative,Philippines, Davao,Cebu City,6015
+544,,Food & Beverage,electronics,Corporation,Philippines,Metro Manila,Pasay,1550
+545,Large,Tourism & Hospitality,Event Planning,coop,Philippines,Iloilo,Iloilo City,5000
+546,Medium,Construction,other,Sole Proprietorship,Philippines,Cebu,davao ,6015
+547,Micro,Construction,Materials Supply,Sole Proprietorship,Philippines,Iloilo,manila,5000
+548,Micro,Import/Export,Consumer Goods,N/A,Philippines,Davao,Tagum,8119
+549,Medium,Financial Services,Microfinance,LLC,,Davao,Samal,8100
+550,Unknown,Import/Export,electronics,LLC,Philippines,CEBU,manila,7000
+551,Micro,Financial Services,Microfinance,Corporation,Philippines,iloilo ,Makati,1740
+552,Unknown,Healthcare,grocery ,Partnership,,Metro Manila,Muntinlupa,1400
+553,Large,Technology,Digital Marketing,Inc.,Philippines,iloilo ,Zamboanga City,7016
+554,N/A,Construction,Renovation,Inc.,ph,Zamboanga,Zamboanga City,7016
+555,large ,Construction,N/A,Sole Proprietorship,Philippines,iloilo ,Unknown,1770
+556,Medium, Technology,Food Processing,Sole Proprietorship,Philippines,Zamboanga,Pagadian,7000
+557,Medium,Agriculture,Agricultural Supply,Corporation,PH,Zamboanga,QUEZON CITY,7000
+558,Medium,Other, software,LLC,Philippines,,Mandaue,6045
+559,Medium,Agriculture,Livestock,sole prop,Philippines,Cebu,,6000
+560,Large,Construction,Infrastructure,corporation,N/A,Iloilo,Iloilo City,5800
+561,Small,Real Estate,,,,Davao,N/A,8000
+562,Small,Technology,misc,LLC,Philippines,Davao,Panabo,8100
+563,Small,Transportation,Public Transport,LLC,Philippines,Cebu,Toledo,6014
+564,Small,Import/Export,Industrial Equipment,Partnership,Philippines,Davao,Samal,8002
+565,lg,Technology,N/A,Sole Proprietorship,Philippines,Cebu,Unknown,6038
+566,Large,construction ,Online Education,,Philippines,,Dipolog,7016
+567,Large, Technology,Livestock,Partnership,Philippines,Cebu,,6014
+568,med,food&beverage,Grocery,Partnership, Philippines,N/A,Zamboanga City,7016
+569,Small,food&beverage,Renovation,Partnership,N/A,Iloilo,Roxas,5800
+570,Micro,Technology,Digital Marketing,Partnership,N/A,Zamboanga,Dipolog,7016
+571,Unknown,Agriculture,Fishery,coop,Philippines,Iloilo,Kalibo,5600
+572,Large,N/A,N/A,Sole Proprietorship,Philippines,,QUEZON CITY,8002
+573,lg,Technology,electronics,coop,Philippines,N/A,Mandaue,6000
+574,Large,Education,Private School,corporation,Philippines,Metro Manila,Muntinlupa,1600
+575,Large,RETAIL TRADE,Cable TV,,Philippines,Metro Manila,Las Piñas,1300
+576,Large,,Electronics,Sole Proprietorship,ph,iloilo ,QUEZON CITY,1630
+577,Medium,Tourism & Hospitality, software,Sole Proprietorship,philippines,Metro Manila,QUEZON CITY,1400
+578,Large,Import/Export,Industrial Equipment,Corporation,Philippines,iloilo ,Roxas,5800
+579,small,Other,Vocational, LLC,, Davao,Bacolod,5000
+580, Small,Healthcare,other,Corporation,Philippines,Metro Manila,Muntinlupa,1400
+581,Micro,Retail Trade,Pharmacy,Sole Proprietorship,Pilipinas,Cebu,Mandaue,6014
+582,small,Telecommunications,Network Equipment,LLC,Philippines,Iloilo,Bacolod,5000
+583,Large,Retail Trade,grocery ,Cooperative,Philippines,CEBU,Pagadian,7016
+584,Small,Other,Commercial,sole prop,ph,Iloilo,Bacolod,5600
+585,large ,food&beverage,grocery ,,ph,Metro Manila,Pasay,1600
+586,Small,Other,Web Design,Partnership,Philippines,Davao,Digos,8002
+587,Medium,Import/Export,Food Products,coop,Philippines,Iloilo,Roxas,5600
+588,Medium,Other,Commercial,Corporation,Philippines,Iloilo,Kalibo,5000
+589,Medium,manufacturing,Renovation,LLC,PHILIPPINES,Zamboanga,Zamboanga City,7100
+590,,Real Estate,Development,,Philippines,metro manila,Dipolog,7100
+591,Micro,Construction,Residential,LLC,Philippines,Cebu,QUEZON CITY,6045
+592,Medium,construction ,Microfinance,sole prop,Philippines,Metro Manila,QUEZON CITY,1600
+593,Medium,RETAIL TRADE,electronics,LLC,Philippines,Metro Manila,Pasig,1200
+594,Large,Technology,E-commerce,Cooperative,Philippines,Cebu,Mandaue,6000
+595,Medium,manufacturing,Trucking,sole prop,Philippines,CEBU,davao ,6045
+596,MEDIUM,Food & Beverage,Bakery,Partnership,Philippines,Cebu,Lapu-Lapu,6038
+597,Large,N/A,Bakery,Corporation,Philippines,Iloilo,Kalibo,5000
+598,med,Tourism & Hospitality,Event Planning,Corporation,Philippines,Cebu,davao ,6045
+599,Large,Telecommunications,Mobile Services,LLC,PH,Zamboanga,Pagadian,7100
+600,Micro,Tourism & Hospitality,Event Planning,LLC,Philippines,,Kalibo,6100
+601,Medium,Import/Export,Food Products,LLC,Philippines,CEBU,,1100
+602, Small,Manufacturing,Electronics,sole prop,Philippines,Iloilo,manila,6100
+603,Unknown,Financial Services,Investment,Corporation,Philippines,Davao,Davao City,8119
+604,large ,Financial Services, software,N/A,Philippines,N/A,Quezon City,1600
+605,large , Technology,Money Exchange,Partnership,Philippines,Metro Manila,Taguig,1000
+606,Micro,N/A,Agricultural Supply,coop,Philippines,Unknown,,8000
+607,Large,RETAIL TRADE,,,Philippines,iloilo ,Davao City,8119
+608,Unknown,Tourism & Hospitality,N/A,Partnership,,Davao,davao ,8105
+609,small,Construction,misc,coop,Philippines,Cebu,Cebu City,6015
+610,,Real Estate,misc,Cooperative,Philippines,Metro Manila,manila,1100
+611,Micro,Education,Online Education,N/A,philippines,,Pasig,1300
+612,Small,Financial Services,Investment,PARTNERSHIP,Philippines,Davao,Panabo,8105
+613,lg,RETAIL TRADE,other,sole prop,Philippines,Davao,Digos,8119
+614,Unknown,Telecommunications,Cable TV,Cooperative,Philippines,Iloilo,QUEZON CITY,5800
+615,Small, Technology,misc,Corporation,Philippines,,manila,6100
+616,Micro,Healthcare,TEXTILES,sole prop,Philippines,Cebu,Lapu-Lapu,6038
+617,med,Manufacturing,Automotive Parts,LLC,Pilipinas,Cebu,Cebu City,6015
+618,med,Transportation,Delivery Services,Corporation,Philippines,Zamboanga,Unknown,7016
+619,Micro,Manufacturing,electronics,Cooperative,philippines, Davao,Zamboanga City,7016
+620,Small,Transportation,electronics,Inc.,philippines,Metro Manila,Quezon City,1550
+621,Medium,Telecommunications,Network Equipment,PARTNERSHIP,Philippines,CEBU,Kalibo,5000
+622,Micro,Transportation,Car Rental,Cooperative,Philippines,Metro Manila,QUEZON CITY,1200
+623,Micro,Transportation,Car Rental,Cooperative,Philippines,Metro Manila,manila,1300
+624,Unknown,construction ,Network Equipment,Sole Proprietorship,ph,Davao,Davao City,8000
+625,large ,Tourism & Hospitality,other,LLC,Philippines,Davao,,8105
+626,Large,construction ,E-commerce,Corporation,Philippines,Cebu,QUEZON CITY,6045
+627,Medium,Transportation,Trucking,corporation,Philippines,Davao,Tagum,8000
+628,small,food&beverage,Restaurant,PARTNERSHIP,PH,Cebu,Cebu City,6015
+629,large ,N/A,IT Services,Corporation,Philippines,,Quezon City,1770
+630,Micro,Food & Beverage,Catering,Cooperative,Philippines,,Tagum,8000
+631,Small, Technology,Delivery Services, LLC,Philippines,N/A,davao ,1630
+632,Micro,Healthcare,Clinic,Partnership,,Metro Manila,Pasig,1400
+633,Micro,Food & Beverage,Restaurant,LLC,N/A,Metro Manila,Manila,1000
+634,Large,Tourism & Hospitality,Hotel,LLC,,Unknown,Panabo,8105
+635,Micro,Technology,grocery ,LLC,Philippines,Cebu,Mandaue,6045
+636,Micro,Construction, software,corporation,Philippines,Metro Manila,Mandaluyong,1400
+637,Large,Telecommunications,N/A,LLC,Philippines,Zamboanga,Zamboanga City,7100
+638,N/A,,,LLC,Philippines,Zamboanga,Zamboanga City,7100
+639,Micro,Construction,Residential,Partnership,Philippines,Metro Manila,Quezon City,1400
+640,Large,Construction,Commercial,Cooperative,,Zamboanga,Pagadian,7100
+641,Large,Import/Export,Industrial Equipment,Corporation,Philippines,CEBU,Pagadian,7000
+642,MEDIUM,N/A,Trucking,Partnership,Philippines,metro manila,Unknown,6015
+643,,Construction,Renovation,,Philippines,Metro Manila,Pasig,1400
+644, Small,Tourism & Hospitality,Travel Agency,,Philippines,Zamboanga,,7000
+645,Micro,,Residential,Partnership,Philippines,Metro Manila, cebu city,1740
+646,Large,Telecommunications,Network Equipment,Partnership,Philippines,,manila,8119
+647,Small,Import/Export,Consumer Goods,Cooperative,Philippines,Davao,Digos,8000
+648,Micro,manufacturing,IT Services,Partnership,Philippines,Davao,manila,8002
+649,Large,manufacturing,Investment,PARTNERSHIP,Philippines,Metro Manila,N/A,1300
+650,Medium,Healthcare,TEXTILES,Cooperative,Philippines,Davao,Digos,8002
+651,Micro,Import/Export,Automotive,Sole Proprietorship,Philippines,,Roxas,6100
+652,Micro,manufacturing,Food Processing,Cooperative,Philippines,Davao,N/A,8002
+653,Medium,Transportation,misc,Partnership,Pilipinas,,Mandaue,6015
+654,Micro,Real Estate,,PARTNERSHIP,N/A,Zamboanga,Pagadian,7016
+655,N/A,manufacturing,Consumer Goods,Corporation,Philippines,Zamboanga,Dipolog,7000
+656,MEDIUM,Other,IT Services,Cooperative,ph,Iloilo,Iloilo City,5000
+657,Medium,manufacturing,Catering,Corporation,Philippines,CEBU,Digos,8119
+658,Micro,Real Estate,Commercial,Partnership, Philippines,Zamboanga,Pagadian,7100
+659,Large,Construction,Commercial,Corporation,Philippines,Davao,Panabo,8000
+660,lg,Healthcare,Dental,Sole Proprietorship,Philippines, Davao,Mandaue,6014
+661,Micro,Food & Beverage,Food Truck,Inc.,Pilipinas,Davao,QUEZON CITY,8105
+662,Small,Financial Services,Money Exchange,Cooperative,PH,Cebu,Lapu-Lapu,6000
+663,Medium,construction ,Organic Farming,Partnership,Philippines,Davao,Davao City,8119
+664,small,Agriculture,grocery ,Cooperative,Philippines,Cebu,Cebu City,6015
+665,Small, Technology,grocery ,,Philippines,iloilo ,Makati,1770
+666,Micro,Other,Private School,,PH,Metro Manila,Pasay,1600
+667,,Education,grocery ,Partnership,N/A,Unknown,Manila,1100
+668,Large,Financial Services,Money Exchange,Cooperative, Philippines,Zamboanga,Unknown,7100
+669,Unknown,N/A,Textiles,N/A,Philippines,Iloilo,,5800
+670,MEDIUM,Telecommunications,Network Equipment,Cooperative,Philippines,Cebu,QUEZON CITY,6014
+671,Unknown,Telecommunications, software,Cooperative,ph,Metro Manila,Unknown,1740
+672,Medium,,Food Products,Cooperative,ph,Zamboanga,manila,7000
+673,Medium,Other,N/A,Partnership,PH,Zamboanga,Zamboanga City,7000
+674,N/A,Food & Beverage,Catering,sole prop,Philippines,Davao,,8100
+675,Micro,Tourism & Hospitality,Resort,coop,N/A,Unknown,Bacolod,6100
+676,Small,Financial Services, software,Sole Proprietorship,Philippines, Davao,Roxas,6100
+677,Small,Transportation,Car Rental,Partnership,Philippines,,Dipolog,7016
+678,Medium,Food & Beverage,Coffee Shop,Inc.,Philippines,Davao,Davao City,8105
+679,small,Financial Services,Money Exchange,Partnership,Philippines,Cebu,Cebu City,6000
+680,MEDIUM,Tourism & Hospitality,Restaurant,Sole Proprietorship,Philippines,Zamboanga,manila,7000
+681,Small,,Trucking,Partnership,Philippines,Iloilo,Bacolod,5800
+682,Micro,Education,grocery ,Cooperative,Philippines,CEBU,Roxas,5000
+683,lg, Technology,Electronics,LLC,Philippines,Iloilo,manila,6100
+684,Large,N/A,other,coop,PHILIPPINES,Iloilo,Roxas,5000
+685, Small,Education,,LLC,Philippines,CEBU,Unknown,8002
+686,Micro,Technology, software,Cooperative,Philippines,Davao,,8002
+687,Large,N/A,Dental,Cooperative,ph,Iloilo,Iloilo City,6100
+688,Small,Construction,Commercial,Partnership,N/A,Cebu,,6045
+689,Small,N/A,misc,Corporation,philippines,Metro Manila,QUEZON CITY,1000
+690,Small,Other,Food Processing,corporation,Philippines,Iloilo,Iloilo City,6100
+691,Medium,Other,Food Truck,Partnership,Philippines,Zamboanga,manila,7016
+692,Medium,Construction,,sole prop,Philippines,Iloilo,Unknown,5800
+693,Small,Manufacturing,Textiles,sole prop,PH,Cebu,manila,6014
+694,Medium,Import/Export,misc,Partnership,PHILIPPINES,Zamboanga,Pagadian,7016
+695,Medium,Healthcare,Medical Equipment,PARTNERSHIP,Philippines,Davao,,8105
+696,large ,manufacturing,Call Center,Corporation,Philippines,Iloilo,davao ,6100
+697,Large,food&beverage,Automotive,Cooperative,Philippines,Iloilo,Bacolod,5800
+698,,Telecommunications,Mobile Services,N/A,PH,Cebu,,6015
+699,Small,construction ,TEXTILES,sole prop,Philippines,iloilo ,Davao City,8100
+700,Small,Telecommunications,Cable TV,Sole Proprietorship,Philippines,Unknown,Roxas,6100
+701,Large,RETAIL TRADE,Web Design,Partnership,Philippines,Zamboanga,Zamboanga City,7016
+702,large ,,Training Center,LLC,Philippines,Cebu,Unknown,6015
+703,Small,Real Estate,electronics,Partnership,Philippines,Iloilo,Roxas,5600
+704,med,,Microfinance,LLC,Pilipinas,,Dipolog,7000
+705,Medium,Other,Private School,PARTNERSHIP,Philippines,Iloilo, cebu city,5800
+706,Large,Import/Export,Industrial Equipment,Sole Proprietorship,Philippines,Metro Manila,Mandaluyong,1200
+707,Large,N/A,Catering,LLC,Philippines,iloilo ,Toledo,6045
+708,lg, Technology,Renovation,Sole Proprietorship,N/A,Zamboanga,Zamboanga City,7000
+709,Small,construction ,Residential,Cooperative,ph,CEBU, cebu city,6100
+710,Medium,Import/Export,N/A,Sole Proprietorship,Philippines,Iloilo,Iloilo City,5600
+711,Small,Financial Services,Money Exchange,Sole Proprietorship,Philippines,metro manila,Pagadian,7100
+712,Small,Agriculture,Fishery,Corporation,Philippines,Zamboanga,Pagadian,7016
+713,Small,RETAIL TRADE,Rice Farming,PARTNERSHIP,Philippines,Metro Manila,manila,1630
+714,Small,Financial Services,Investment,N/A,philippines,Iloilo,Roxas,5000
+715,Small,Food & Beverage,Food Truck,LLC,ph,Iloilo,Roxas,5000
+716,Small,Construction,Residential,Corporation,Philippines,metro manila,Taguig,1100
+717,Large,Financial Services,Remittance,Corporation,Philippines,Iloilo,Iloilo City,5600
+718,Small, Technology,Consumer Goods,Partnership,N/A,Metro Manila,Makati,1200
+719,med,food&beverage,misc,LLC, Philippines,N/A,Caloocan,1100
+720,Unknown,construction ,misc,Partnership,Philippines,Metro Manila,Makati,1400
+721,Large,Real Estate,Development,LLC,Philippines,Iloilo,Roxas,5000
+722,Medium,,Web Design,LLC,Philippines,Cebu,Cebu City,6015
+723,Small,Financial Services,Money Exchange,LLC, Philippines,Zamboanga,Dipolog,7000
+724,Large,Retail Trade,Electronics Store,Corporation,N/A,Metro Manila,Quezon City,1200
+725,Large,Real Estate,Residential,Cooperative,Philippines,CEBU,davao ,5600
+726,Micro,construction ,other,Cooperative,Philippines,CEBU,Davao City,8000
+727,Large,,Internet Provider,,Philippines,Metro Manila,Mandaluyong,1550
+728,Medium,Telecommunications,,Corporation,PHILIPPINES,,Zamboanga City,7000
+729,Small,Import/Export,Electronics,corporation,Philippines,Iloilo,QUEZON CITY,5000
+730,Unknown,RETAIL TRADE,Industrial Equipment,corporation,Pilipinas,Cebu,Lapu-Lapu,6014
+731,Large,Technology,,N/A,Philippines,Davao,Davao City,8000
+732,N/A,N/A,grocery ,Partnership,Philippines, Davao,Pasig,1400
+733,Small,Manufacturing,,Corporation,Philippines,iloilo ,Pasay,1630
+734,Micro,Import/Export,Industrial Equipment,Sole Proprietorship,Philippines,Cebu,,6038
+735,Large,Manufacturing,Electronics, LLC,PH,Davao,Davao City,8119
+736,Medium,Healthcare,Dental,PARTNERSHIP,Philippines,Unknown,N/A,5800
+737,Small,Telecommunications,grocery ,Cooperative,Philippines,metro manila,Pagadian,7000
+738,Small,Retail Trade,Electronics Store,Partnership,Philippines,Davao,Tagum,8105
+739,Unknown, Technology,Hardware,Partnership,Philippines,N/A,QUEZON CITY,8000
+740,Medium,Agriculture, software,Corporation,Philippines,Zamboanga,Zamboanga City,7016
+741,,Tourism & Hospitality,Resort,Corporation,PHILIPPINES,Cebu,Toledo,6045
+742,Medium,manufacturing,Tutorial,,Philippines,Zamboanga,manila,7100
+743,lg,Financial Services,Investment,sole prop,Philippines,metro manila,Kalibo,5000
+744,Large,Telecommunications,, LLC,Philippines,Iloilo,manila,5600
+745,Medium,Technology,Digital Marketing,corporation,Philippines,Iloilo,Bacolod,5000
+746,Large,Technology, software,Cooperative,Philippines,Iloilo,N/A,6100
+747,Micro, Technology,electronics,Sole Proprietorship,Philippines,Zamboanga,Zamboanga City,7000
+748,Small,Retail Trade,Clothing,LLC,Pilipinas,iloilo ,davao ,5800
+749,lg,Retail Trade,Pharmacy,Inc.,ph,Iloilo,N/A,5600
+750,Medium,Construction,other,Sole Proprietorship,Philippines,Davao,Digos,8002
+751,MEDIUM,Transportation,Logistics,sole prop,ph,Davao,manila,8119
+752,Unknown,Import/Export,Industrial Equipment,PARTNERSHIP,Philippines,Metro Manila,Las Piñas,1100
+753,Small,,Materials Supply,Partnership,Philippines,Iloilo,Roxas,6100
+754,Medium,Construction,Residential,Sole Proprietorship,Philippines,Cebu,Talisay,6038
+755,lg,Retail Trade,Clothing,corporation,Philippines,Davao,N/A,8100
+756,Small,Tourism & Hospitality,Travel Agency,Sole Proprietorship,Philippines,Unknown,Talisay,6014
+757,Large,Construction,Infrastructure,Sole Proprietorship,Philippines, Davao,N/A,7000
+758,Medium,Tourism & Hospitality,Resort,Partnership,,Zamboanga, cebu city,7000
+759,Medium,Food & Beverage,Food Truck,Sole Proprietorship,PH,Iloilo,QUEZON CITY,6100
+760,Small,Technology,misc,N/A,Philippines,Zamboanga,Dipolog,7000
+761,Micro,Tourism & Hospitality,Travel Agency,Partnership,Philippines,, cebu city,6015
+762,Large,Education,Private School,,Philippines,N/A,Kalibo,6100
+763,Unknown,Construction,Residential,corporation,Philippines,Zamboanga,QUEZON CITY,7000
+764,Medium,Import/Export,Industrial Equipment,Cooperative,Philippines,Unknown,Cebu City,6014
+765,Micro,Healthcare,Laboratory,Partnership,Philippines,Metro Manila,N/A,1600
+766,,Telecommunications,Call Center,Cooperative,Philippines,Iloilo,Kalibo,5800
+767,Micro,Construction,Renovation,Partnership,N/A,Davao,Samal,8000
+768,Large,Education,Vocational,corporation,PH,,N/A,6045
+769,Large,Real Estate,Commercial,Partnership,Philippines,Zamboanga,Dipolog,7016
+770,Micro,Technology,TEXTILES,Sole Proprietorship,Philippines,Davao,,8002
+771,lg,food&beverage,grocery ,PARTNERSHIP,Philippines,Metro Manila,Makati,1400
+772,Micro,Transportation,other,LLC,Philippines,Metro Manila,Caloocan,1600
+773,Medium,Tourism & Hospitality,TEXTILES,LLC,Philippines,metro manila,Digos,8119
+774,Large,Education,, LLC,Philippines,Unknown,Pagadian,7016
+775,Small,construction ,Physical Therapy,LLC,Philippines, Davao,,1100
+776,Large,Retail Trade,N/A,LLC,Philippines,Iloilo,N/A,5600
+777,Medium,,Tutorial,LLC,philippines,Unknown,N/A,7000
+778,Small,Tourism & Hospitality,Travel Agency,Corporation,,Davao,Panabo,8119
+779,Micro,Other,Furniture,PARTNERSHIP,ph,Zamboanga,Pagadian,7016
+780,Large,Tourism & Hospitality,Resort,Cooperative,Philippines,iloilo ,Makati,1400
+781,Medium,Healthcare,,Sole Proprietorship,Philippines,Iloilo,Kalibo,5600
+782,Small,RETAIL TRADE,Public Transport,N/A,Philippines,N/A,Toledo,6014
+783,lg,Retail Trade,misc,Corporation,Philippines,Zamboanga,Zamboanga City,7100
+784,Micro,manufacturing,Restaurant,Sole Proprietorship,Philippines,Davao,,8105
+785,Micro,Construction,TEXTILES,Partnership,Philippines,Davao,davao ,8105
+786,Medium,Import/Export,Consumer Goods,,Philippines,Cebu,Mandaue,6015
+787,,Other,,LLC,Philippines,Metro Manila,Taguig,1550
+788,Medium,Real Estate,Property Management,sole prop,N/A,Cebu,Lapu-Lapu,6015
+789, Small,Telecommunications,electronics,Partnership,Philippines,Zamboanga, cebu city,7100
+790,Micro,Other,electronics,LLC,Philippines,Zamboanga,Pagadian,7100
+791,Small,Healthcare,Medical Equipment,Partnership,Philippines,N/A,Lapu-Lapu,6045
+792,Micro,Food & Beverage, software,Sole Proprietorship,Philippines,CEBU,Muntinlupa,1630
+793,Medium,RETAIL TRADE,TEXTILES,LLC,Philippines,metro manila,,1100
+794,Large,Other,Electronics,corporation,Philippines,Davao,Panabo,8000
+795,Large,RETAIL TRADE,other,Cooperative,Philippines,Unknown,N/A,1100
+796,Small,Telecommunications,Call Center,corporation,Philippines,CEBU,manila,1740
+797,Micro,Manufacturing,Automotive Parts,Cooperative,Philippines,Metro Manila,Muntinlupa,1600
+798,Large,Retail Trade,Pharmacy,sole prop,ph,Iloilo,Kalibo,5600
+799,Medium,Manufacturing,Furniture,Partnership, Philippines,Davao,Digos,8119
+800,Medium,RETAIL TRADE,Call Center,Inc.,Philippines,Zamboanga,Pagadian,7000
+801,Medium,Telecommunications,Call Center,Partnership,Philippines,Zamboanga,Zamboanga City,7016
+802,Large,Healthcare,TEXTILES,Corporation,Philippines,Iloilo,,6100
+803,Small,Healthcare,Medical Equipment,Corporation,Philippines,iloilo ,Mandaue,6038
+804,Small,Food & Beverage,Bakery,Partnership,Philippines,Iloilo,Kalibo,5800
+805,Micro,Retail Trade,Grocery,Corporation,Philippines,Iloilo,Kalibo,5600
+806,small, Technology,Network Equipment,Sole Proprietorship,ph,N/A,Zamboanga City,7016
+807,Micro,Education,,Partnership,Philippines,CEBU,Unknown,1200
+808,MEDIUM,Education,Training Center,PARTNERSHIP,Philippines,Cebu,Mandaue,6038
+809,small,Import/Export,Consumer Goods,sole prop,Philippines,Metro Manila,Caloocan,1770
+810,Small,food&beverage,Rice Farming,PARTNERSHIP,Philippines,Metro Manila,davao ,1000
+811,Small,Other,Food Products,,Philippines,Metro Manila,Taguig,1740
+812,N/A,Real Estate,Property Management,Sole Proprietorship,Philippines,Davao,,8119
+813,Small,Food & Beverage,grocery ,Sole Proprietorship,Philippines,Metro Manila, cebu city,1630
+814,Large,Healthcare,Dental,Corporation, Philippines,Zamboanga, cebu city,7016
+815,Small,Retail Trade,grocery ,,Philippines,Zamboanga,Pagadian,7100
+816,Medium,Financial Services,Investment,Cooperative,Philippines,Cebu,Talisay,6038
+817,large ,Retail Trade,Pharmacy,Partnership,Philippines,,Unknown,1600
+818,Medium,Construction,Renovation,sole prop,PH,Iloilo,Kalibo,5600
+819,Small,manufacturing,N/A,Sole Proprietorship,Philippines,iloilo ,Dipolog,7000
+820,MEDIUM,Retail Trade,Pharmacy,Partnership,Philippines,Iloilo,Kalibo,5800
+821,large ,Construction,Infrastructure,Cooperative,Philippines,Unknown,Dipolog,7100
+822,Unknown,Retail Trade,Grocery,coop,Philippines,N/A,N/A,1300
+823,Medium,Healthcare,Laboratory,sole prop,Philippines,Cebu,Talisay,6000
+824,Large,manufacturing,Infrastructure,LLC,Philippines,CEBU,Zamboanga City,7000
+825,Micro,Financial Services,Remittance,LLC,Philippines,Iloilo,manila,5000
+826,small,Education,Online Education,corporation,Philippines,Davao,Samal,8000
+827,Small,Telecommunications,electronics,LLC,Philippines,Iloilo,Roxas,5000
+828,Medium,Agriculture,Fishery,Corporation,Philippines,metro manila,Digos,8100
+829,Large,Manufacturing,Automotive Parts,,,Metro Manila,N/A,1600
+830,,Healthcare,Medical Equipment,,Philippines,Davao,N/A,8000
+831,Large,Food & Beverage,Catering,Corporation,Philippines,Davao,Davao City,8119
+832,Medium,Retail Trade,TEXTILES,Sole Proprietorship,Philippines,Zamboanga,Dipolog,7016
+833,Unknown,Education,Private School,N/A,Philippines,metro manila,Muntinlupa,1770
+834,Micro,Healthcare,grocery ,,,Iloilo,Kalibo,5800
+835, Small,Tourism & Hospitality,Resort,Corporation,Philippines,Cebu,manila,6038
+836,Small,Technology,Web Design,Partnership, Philippines,Iloilo,Bacolod,5600
+837,Large,Education,Training Center,corporation,Philippines,Unknown,Manila,1770
+838,Micro,Other,Industrial Equipment,Corporation,,Iloilo,N/A,5000
+839,Large,Manufacturing,Electronics,LLC,Pilipinas,Cebu,Lapu-Lapu,6014
+840,Small,Transportation,Car Rental,Sole Proprietorship, Philippines,Zamboanga,N/A,7100
+841,Micro,Agriculture,grocery ,Partnership,philippines,CEBU,,5000
+842,N/A,manufacturing,misc,Cooperative,PHILIPPINES,Iloilo,Iloilo City,5000
+843,Micro,Real Estate,Commercial,Partnership,,Zamboanga,N/A,7016
+844,MEDIUM,Healthcare,Physical Therapy,Corporation,Pilipinas,Cebu,Talisay,6038
+845,Unknown,Financial Services,Microfinance,Partnership,Philippines,Metro Manila,Taguig,1000
+846,Medium,Import/Export,other,LLC,PH,Metro Manila,Muntinlupa,1550
+847,Micro,Telecommunications,Call Center,Sole Proprietorship,Philippines,Zamboanga,manila,7016
+848,Large,Transportation,Trucking,corporation,Philippines,CEBU,Dipolog,7100
+849,MEDIUM,Transportation,,Sole Proprietorship,Philippines,Metro Manila,N/A,1400
+850,Micro,Agriculture,Fishery,Sole Proprietorship,Pilipinas,Zamboanga,Zamboanga City,7100
+851,Medium,Food & Beverage,Restaurant,Sole Proprietorship,Philippines,Cebu,Cebu City,6038
+852,Small,Transportation,N/A,Sole Proprietorship,,Metro Manila,Pasay,1740
+853,Medium,Agriculture,Agricultural Supply,Sole Proprietorship,Philippines,CEBU,Talisay,6014
+854,Micro,Healthcare,Physical Therapy,Corporation,Philippines,Iloilo,Bacolod,6100
+855,,,Electronics Store,Sole Proprietorship,Philippines,Iloilo,davao ,6100
+856,med,,Textiles,LLC,Philippines,Zamboanga,Dipolog,7100
+857,MEDIUM,manufacturing,TEXTILES,Inc.,Philippines,Davao,Samal,8119
+858,Medium,Agriculture,Organic Farming,Partnership,philippines,Iloilo,Kalibo,5000
+859,Large,Import/Export,,corporation,ph,Iloilo,Bacolod,6100
+860,Large,Technology,,LLC,ph,,davao ,8000
+861,Micro,Manufacturing,other, LLC,,Unknown,Pagadian,7016
+862,Micro,manufacturing,other,Cooperative, Philippines,Iloilo,,6100
+863,lg,Transportation,Delivery Services,,Philippines,CEBU,Tagum,8000
+864,Medium,Financial Services,,LLC,Philippines,N/A,Bacolod,6100
+865,small,Manufacturing,Food Processing,Sole Proprietorship,Philippines,Davao,Davao City,8000
+866,large ,Food & Beverage,Catering,LLC,PHILIPPINES,Cebu,QUEZON CITY,6014
+867, Small,Retail Trade,Grocery,Partnership, Philippines,Zamboanga,Zamboanga City,7100
+868,Small,Manufacturing,grocery ,Partnership, Philippines,CEBU,Quezon City,1400
+869,MEDIUM,RETAIL TRADE,Money Exchange,Cooperative,Philippines,Iloilo,QUEZON CITY,6100
+870,large ,Import/Export,Industrial Equipment,Partnership,PHILIPPINES,Iloilo,davao ,5600
+871,Micro,Import/Export,grocery ,Corporation,Philippines,Metro Manila,Pasay,1200
+872,large ,Other, software,Corporation,philippines,iloilo ,Pasay,1400
+873,Medium,Manufacturing,grocery ,Cooperative,Philippines,Cebu,Talisay,6000
+874,small,Food & Beverage,Food Truck,, Philippines,,Talisay,6038
+875,Large,manufacturing,Grocery,Cooperative,ph,Cebu,Talisay,6000
+876,Small,Food & Beverage,Bakery,corporation,,Cebu,Lapu-Lapu,6000
+877,Micro,Import/Export,misc,Cooperative,Philippines,Davao,Samal,8119
+878,Micro,Agriculture,Organic Farming,Corporation,Philippines,Cebu,Toledo,6014
+879,Medium,Other,Rice Farming,Sole Proprietorship,Philippines,Metro Manila,davao ,1400
+880,med,Food & Beverage,Coffee Shop,Cooperative,,Metro Manila, cebu city,1740
+881,Small,Food & Beverage,Restaurant,Sole Proprietorship,Philippines,N/A,QUEZON CITY,8000
+882,Small,Tourism & Hospitality,electronics,Sole Proprietorship,Philippines,metro manila,QUEZON CITY,6100
+883,Small,food&beverage,, LLC,Philippines, Davao,Kalibo,6100
+884,Micro,Import/Export,Electronics,,Philippines,Iloilo,Iloilo City,5600
+885,Medium, Technology,Renovation,Cooperative,Philippines,Zamboanga,N/A,7100
+886,Medium,Real Estate,grocery ,corporation,Philippines,Iloilo,Bacolod,5600
+887,Medium,Education,misc,Partnership,Philippines,Cebu,Talisay,6000
+888,Large,Food & Beverage,other,Sole Proprietorship,Philippines,N/A,Zamboanga City,7016
+889,,Other,other,Inc.,Philippines,Unknown,Muntinlupa,1630
+890,Medium,Financial Services,Investment,Corporation,Philippines,Metro Manila, cebu city,1100
+891,,N/A,Vocational, LLC,Philippines,Cebu,QUEZON CITY,6000
+892,Large,Manufacturing,grocery ,Corporation,philippines,Unknown,Davao City,8100
+893,Medium,,Grocery,Partnership, Philippines,N/A,Bacolod,5800
+894,Large,Retail Trade,N/A,Sole Proprietorship,Philippines,Metro Manila,QUEZON CITY,1600
+895,,,IT Services,LLC,Philippines,iloilo ,davao ,6100
+896,Micro,Other,Property Management,,Pilipinas,Zamboanga,Zamboanga City,7016
+897, Small,Agriculture,Organic Farming,corporation,Philippines,Davao,Davao City,8100
+898,Large,Agriculture,electronics,Partnership,PHILIPPINES,Iloilo,N/A,5000
+899,small,Technology,E-commerce,corporation,Philippines,Metro Manila,manila,1300
+900,Micro,Tourism & Hospitality,Hotel,Sole Proprietorship,Philippines,Davao,Panabo,8000
+901,Medium,manufacturing,Software Development,Sole Proprietorship,Philippines,iloilo ,Caloocan,1000
+902,Unknown,Tourism & Hospitality,Restaurant,Cooperative,Philippines,Davao,Panabo,8119
+903,lg,Healthcare, software,N/A,Philippines,Iloilo,QUEZON CITY,5000
+904,MEDIUM,food&beverage,Electronics,LLC,Pilipinas,,Toledo,6015
+905,,food&beverage,Public Transport,Cooperative,Philippines,CEBU,Makati,1740
+906,Small,Food & Beverage,electronics,Cooperative,Philippines,Davao,Samal,8100
+907,Unknown,Construction,Infrastructure,N/A,PHILIPPINES,Metro Manila,Taguig,1600
+908,lg,food&beverage,Restaurant,Partnership,PHILIPPINES,Metro Manila,Muntinlupa,1770
+909,Medium,Education,Training Center,,Philippines,Davao,Digos,8000
+910,Medium,Education, software,LLC,philippines,Cebu,Cebu City,6038
+911,Micro,Tourism & Hospitality,Event Planning,LLC,Philippines, Davao,Talisay,6015
+912,Micro,manufacturing,Car Rental,Corporation,Philippines,Cebu,Talisay,6045
+913,Small,Education,Tutorial,N/A,Philippines, Davao,Tagum,8000
+914,Micro,food&beverage,Call Center,Sole Proprietorship,Philippines,Cebu,Mandaue,6000
+915,Micro,Food & Beverage,Restaurant,PARTNERSHIP,Philippines,Iloilo,davao ,5000
+916,lg,Education,Training Center,N/A,philippines,,Pagadian,7016
+917,Large,Education,Training Center,Corporation,PHILIPPINES,Davao,Davao City,8002
+918,N/A,Tourism & Hospitality,Restaurant,Sole Proprietorship,Philippines,Cebu,Toledo,6038
+919,Medium,,Laboratory, LLC,, Davao,Unknown,5000
+920,Medium,Tourism & Hospitality,Travel Agency,Cooperative, Philippines,Zamboanga,Pagadian,7016
+921,large ,RETAIL TRADE,Trucking,Cooperative,Philippines,Iloilo,Iloilo City,5000
+922,Medium,Technology,IT Services,LLC,Philippines,Iloilo,Kalibo,6100
+923,Medium,N/A,Private School,N/A,philippines,Zamboanga,manila,7100
+924,Large,Manufacturing,Automotive Parts,coop,Philippines,Cebu,Cebu City,6014
+925,Micro,Transportation,TEXTILES,Partnership,Philippines,N/A,Mandaue,6000
+926,small,N/A,TEXTILES,Inc.,Philippines,Iloilo,Bacolod,5000
+927,Large,Agriculture,Livestock,Sole Proprietorship,Philippines,CEBU,Kalibo,5800
+928,med,Retail Trade,electronics,Sole Proprietorship,Philippines,Zamboanga,Zamboanga City,7016
+929,small,Healthcare,Clinic,Corporation,Philippines,Cebu,Toledo,6015
+930,Small,Tourism & Hospitality,Travel Agency,Partnership,Philippines,Iloilo,Bacolod,5800
+931,Small, Technology,Consumer Goods,Cooperative,PH,Iloilo,manila,6100
+932,lg,Education,Private School,Cooperative,Philippines,Cebu,Mandaue,6038
+933,N/A,Retail Trade,Clothing, LLC,Philippines,Iloilo,manila,5800
+934,Small,Transportation,Public Transport,Cooperative,Philippines,Iloilo, cebu city,6100
+935,Micro,Financial Services,Microfinance,N/A,Philippines, Davao,Talisay,6014
+936,Small,Telecommunications,electronics,Inc.,Philippines,Zamboanga,Zamboanga City,7100
+937, Small,Agriculture, software,Partnership,Philippines,iloilo ,Tagum,8100
+938,Large,Healthcare,Clinic,N/A,Philippines,Iloilo,Roxas,6100
+939,med,Import/Export,Electronics,corporation,Philippines,Cebu,Lapu-Lapu,6038
+940,Micro,RETAIL TRADE,Development,coop,Philippines,CEBU,Talisay,6045
+941,Large,N/A,Microfinance, LLC,Philippines,,Dipolog,7000
+942,Medium,Manufacturing,other,PARTNERSHIP,Philippines, Davao,Tagum,8105
+943,Large,manufacturing,N/A,Inc.,N/A,Zamboanga,N/A,7000
+944, Small,Import/Export,Consumer Goods,Partnership,Philippines,iloilo ,Pasay,1300
+945,Medium,Other,Hotel,Partnership,Philippines,Iloilo,Iloilo City,5800
+946,Medium, Technology,Property Management,Corporation,Philippines,Metro Manila,Makati,1600
+947,med,N/A,Hotel,Cooperative,N/A,Iloilo,Bacolod,5600
+948,Large,Agriculture,Fishery,LLC,Philippines,, cebu city,1100
+949,,Telecommunications,electronics,Partnership,Philippines,Cebu,manila,6045
+950,Medium,Import/Export,Electronics,PARTNERSHIP,Philippines, Davao,N/A,1630
+951,Micro,Technology,Digital Marketing, LLC,ph,Iloilo,Roxas,5800
+952,Micro, Technology,Investment,LLC,Philippines,Zamboanga,N/A,7100
+953,Micro,manufacturing,Livestock,Corporation,philippines,Zamboanga,Dipolog,7100
+954,Medium,Food & Beverage,,Corporation,Philippines,N/A,Bacolod,5800
+955,Micro,Manufacturing,TEXTILES,Partnership,Philippines,Cebu,Cebu City,6045
+956,Large,food&beverage,Electronics,Cooperative,Philippines,iloilo ,Unknown,6038
+957,Medium,Construction,Materials Supply,corporation,Philippines,Cebu,Mandaue,6000
+958,Large,Real Estate,Commercial,Sole Proprietorship,PHILIPPINES,Zamboanga,,7000
+959,Small,Real Estate,TEXTILES,Cooperative,Philippines,Davao,Tagum,8105
+960,Medium,Telecommunications,Cable TV,coop,Philippines,Davao,davao ,8002
+961,Medium,Telecommunications,Network Equipment,Cooperative,Philippines,Metro Manila,QUEZON CITY,1600
+962,Small,Education,Vocational,Cooperative,Philippines,iloilo ,,1100
+963,Medium,Telecommunications,Internet Provider,Partnership,,N/A,Las Piñas,1630
+964,Unknown,Transportation,Delivery Services,coop,PH,Davao,manila,8105
+965, Small,Real Estate,Development,Partnership,N/A,Metro Manila,manila,1200
+966,MEDIUM,RETAIL TRADE,Agricultural Supply,Inc.,Philippines,Zamboanga,Pagadian,7100
+967,large ,Transportation,Delivery Services,Sole Proprietorship,Philippines, Davao,Iloilo City,6100
+968,,Transportation,Car Rental,N/A,Philippines,Iloilo,Kalibo,5000
+969,Medium,Food & Beverage,Coffee Shop,corporation,Philippines,Davao,Unknown,8119
+970,lg,Telecommunications,N/A, LLC, Philippines,metro manila,Mandaluyong,1600
+971,,Construction,other,Sole Proprietorship,Philippines,iloilo ,Panabo,8105
+972,Large,Transportation,Public Transport,LLC, Philippines,Davao,Digos,8105
+973,Micro,Healthcare,Dental,Cooperative,Philippines, Davao,Cebu City,6038
+974,,Financial Services,N/A,Partnership,ph,Iloilo,Bacolod,6100
+975,Micro,Tourism & Hospitality,Event Planning,Sole Proprietorship,ph,Davao,Unknown,8105
+976,lg,Technology,grocery ,Sole Proprietorship,PHILIPPINES,metro manila,Digos,8105
+977,Small,manufacturing,Commercial,Sole Proprietorship,Philippines,Unknown,N/A,8002
+978,Large,Construction,Renovation,, Philippines,Unknown,,6015
+979,Medium,Other,grocery ,Corporation,PHILIPPINES,Zamboanga,QUEZON CITY,7016
+980,small,Education,Private School,Corporation,Philippines,Davao,davao ,8105
+981,N/A,Retail Trade,Pharmacy,Cooperative,N/A,Iloilo,Roxas,6100
+982,Large, Technology,Internet Provider,N/A, Philippines,Metro Manila,manila,1550
+983,Medium,Import/Export,electronics,corporation,Philippines,Metro Manila,Caloocan,1740
+984,Large,Technology,Web Design,Sole Proprietorship,Philippines,Iloilo,Bacolod,5800
+985,Micro,Import/Export,Electronics,Partnership,Philippines,Cebu,Toledo,6000
+986,Medium,Real Estate,Commercial,Cooperative,Philippines,Zamboanga,Dipolog,7000
+987,Large,N/A,Private School,N/A,Philippines,metro manila,Unknown,7100
+988,Small,Retail Trade,Electronics Store,Sole Proprietorship,Philippines,Zamboanga,Dipolog,7100
+989,Medium,Import/Export,,Corporation,Pilipinas,Cebu,Lapu-Lapu,6045
+990,med,Technology,Software Development,Corporation,Philippines,Iloilo,Iloilo City,6100
+991,MEDIUM,Real Estate,Development,LLC,Philippines,metro manila,Panabo,8119
+992,large ,RETAIL TRADE,,LLC,PHILIPPINES,Metro Manila,Pasig,1400
+993,Medium,Agriculture,Livestock,Cooperative,Philippines,Cebu,Lapu-Lapu,6000
+994,lg,Healthcare,misc,N/A,Philippines,Iloilo,Roxas,5800
+995,Micro,Education,other, LLC,ph,CEBU,Dipolog,7000
+996,Medium,manufacturing,IT Services,coop,philippines,Zamboanga,Pagadian,7016
+997,Small,Retail Trade,Clothing,Sole Proprietorship,Philippines,Metro Manila,Unknown,1770
+998,Medium,Transportation,Public Transport,PARTNERSHIP,Philippines,Iloilo,Bacolod,5000
+999,Micro,N/A,TEXTILES,Sole Proprietorship,Pilipinas,CEBU,Unknown,7016
+1000,Large,Education,Online Education,PARTNERSHIP,Philippines,Unknown,Muntinlupa,1770
+1001,,manufacturing, software,PARTNERSHIP,Philippines, Davao,Zamboanga City,7000
+1002,Small,Real Estate,Real Estate Brokerage, LLC,Philippines,Cebu,QUEZON CITY,6000
+1003,Large,Healthcare,N/A,Partnership,Philippines,Iloilo,N/A,5600
+1004,Medium,construction ,N/A,Inc.,Philippines,Iloilo,Kalibo,5600
+1005,Medium,Agriculture,Livestock,corporation,N/A,N/A,Muntinlupa,1400
+1006,Medium,Transportation,,LLC,PH,Zamboanga,Pagadian,7016
+1007,Small,Real Estate,grocery ,LLC,Philippines,, cebu city,6015
+1008,Medium,Telecommunications,Mobile Services,Sole Proprietorship,Philippines,Metro Manila,Caloocan,1100
+1009,Unknown,Transportation,Delivery Services,LLC,Philippines,,Quezon City,1300
+1010,Medium,food&beverage,,Sole Proprietorship,Philippines,Zamboanga,Pagadian,7100
+1011,Micro,Technology,grocery ,Corporation,Philippines,N/A,Samal,8100
+1012,med,Healthcare,Dental,Corporation,philippines,Davao,N/A,8100
+1013,Unknown,Agriculture,TEXTILES,Corporation,Philippines,,QUEZON CITY,5600
+1014,Micro,Financial Services,Investment, LLC,Philippines,Iloilo,Iloilo City,6100
+1015,N/A,Import/Export, software,Sole Proprietorship,Pilipinas,Zamboanga,davao ,7000
+1016,Small,Food & Beverage,grocery ,Partnership,,N/A,Dipolog,7100
+1017,Large,Financial Services,Investment,coop,Philippines,metro manila,Mandaue,6014
+1018,Small,Financial Services, software,Partnership,Philippines,Metro Manila,Taguig,1000
+1019,Large,manufacturing,,Cooperative,Pilipinas,CEBU,Pagadian,7000
+1020, Small,Retail Trade,Hardware,Corporation,Philippines,Davao,Davao City,8002
+1021,N/A,Healthcare,Dental,Corporation,Philippines,,Lapu-Lapu,6045
+1022,Micro,Healthcare,other,Cooperative,Philippines,metro manila,QUEZON CITY,6000
+1023,Small,Import/Export,other,PARTNERSHIP,Philippines,iloilo ,Kalibo,6100
+1024,Unknown,Construction,,Partnership,Philippines,Iloilo,manila,5000
+1025,Small,Financial Services,Remittance,Partnership,Philippines,Iloilo,Kalibo,5800
+1026,Large,Import/Export,Industrial Equipment,LLC,Philippines,CEBU,Las Piñas,1000
+1027,,,Web Design,LLC,Philippines,Cebu,Talisay,6045
+1028,Unknown,Financial Services,Remittance,Partnership, Philippines,Davao,Panabo,8002
+1029,Small,food&beverage,Electronics,Partnership,PHILIPPINES,Zamboanga,Pagadian,7000
+1030,Medium,Import/Export,other,LLC,Philippines,Cebu,Toledo,6014
+1031,,Technology, software,Sole Proprietorship,ph,metro manila,Toledo,6000
+1032,Small,Retail Trade,,Sole Proprietorship, Philippines,Zamboanga,Zamboanga City,7100
+1033,Large,Technology,Software Development,N/A,Philippines,Iloilo,Bacolod,5600
+1034,Small,Tourism & Hospitality,Event Planning,N/A,Philippines,Metro Manila,Pasay,1100
+1035,Medium,Technology,,Corporation,Pilipinas,Davao,Samal,8100
+1036,Large,Construction, software, LLC,Philippines,Cebu,Lapu-Lapu,6000
+1037,N/A,Transportation,Delivery Services,Cooperative,Philippines,N/A,Cebu City,6014
+1038,MEDIUM,Import/Export,Industrial Equipment,Sole Proprietorship,Philippines,Davao,Digos,8000
+1039,Large,Food & Beverage,Catering,Cooperative,Philippines,Metro Manila,Quezon City,1100
+1040,small,Financial Services,electronics,Corporation,Philippines,Zamboanga, cebu city,7100
+1041,Medium,RETAIL TRADE,grocery ,LLC,Philippines,N/A,Mandaluyong,1200
+1042,Micro,Education,Training Center,Partnership,Philippines,metro manila,davao ,7100
+1043,Large, Technology,,Sole Proprietorship,Philippines,N/A,davao ,6100
+1044,Small,Telecommunications,TEXTILES,PARTNERSHIP,Philippines,Zamboanga,Pagadian,7000
+1045,Small,Food & Beverage,Food Truck,LLC, Philippines,N/A,Roxas,6100
+1046,small,Transportation, software,Inc.,Pilipinas,Iloilo,Iloilo City,6100
+1047,Small,manufacturing,TEXTILES,Sole Proprietorship,Philippines,N/A,Makati,1770
+1048,Small,Import/Export,Food Products,Cooperative,Philippines, Davao,Davao City,8100
+1049,small,manufacturing,Restaurant,Cooperative,Philippines,Davao,Samal,8100
+1050,Large, Technology,N/A,corporation,Philippines,Metro Manila,Muntinlupa,1200
+1051,med,Retail Trade,Clothing,sole prop, Philippines,Zamboanga,Zamboanga City,7000
+1052,Medium,Real Estate,Residential,Cooperative, Philippines,Cebu,Mandaue,6038
+1053,Micro,Real Estate,Development,Sole Proprietorship,PH,Davao,Samal,8100
+1054,Small,manufacturing,Residential,Sole Proprietorship,,,Unknown,6015
+1055,Micro,Financial Services,Remittance,Cooperative,,Zamboanga,davao ,7000
+1056,MEDIUM,Technology,Digital Marketing,Cooperative,Philippines,Davao,Samal,8119
+1057,med,Education,electronics,LLC,Philippines,Iloilo,,5800
+1058,Medium,,Medical Equipment,Partnership,Pilipinas,CEBU,Toledo,6038
+1059,Large,construction ,Travel Agency,Partnership,PHILIPPINES,Iloilo,Iloilo City,6100
+1060,Micro,Tourism & Hospitality,N/A, LLC, Philippines,Zamboanga,Zamboanga City,7000
+1061,large ,Transportation,Public Transport,Cooperative,,metro manila,Taguig,1550
+1062,Small,Education,Training Center,Inc.,Philippines,N/A,Iloilo City,5800
+1063,small,Other,Residential,N/A, Philippines,Zamboanga,Dipolog,7000
+1064,MEDIUM,Telecommunications,Network Equipment,Corporation,Philippines,Davao,Digos,8000
+1065,Micro,Real Estate,Commercial,Partnership,Philippines,Iloilo,Iloilo City,5000
+1066,Medium,Food & Beverage,Food Truck, LLC,Philippines,Cebu,davao ,6015
+1067,Medium,,Textiles,LLC,Philippines,metro manila,Davao City,8002
+1068,Medium,Manufacturing,Food Processing,LLC,Philippines,Zamboanga, cebu city,7016
+1069,large ,Education,Online Education,Cooperative,,Davao,Panabo,8000
+1070,MEDIUM,Food & Beverage,Catering,coop,Philippines, Davao,Roxas,5000
+1071,Small,Other,Network Equipment,Partnership,ph,iloilo ,Toledo,6014
+1072,Micro,Education,other,Corporation,Philippines,Davao,Davao City,8100
+1073,Micro,N/A,Property Management,Cooperative,Philippines,,N/A,5000
+1074, Small,Manufacturing,Food Processing,sole prop,PHILIPPINES,Davao,Tagum,8119
+1075,Small,Construction,other,Sole Proprietorship,Philippines,N/A, cebu city,1600
+1076,Unknown,Technology,Web Design,coop,philippines,Cebu,Lapu-Lapu,6014
+1077,Medium,Education,Vocational,Cooperative,Philippines,Metro Manila,Mandaluyong,1300
+1078,MEDIUM,Other,Automotive Parts,LLC,,Davao,Samal,8100
+1079,MEDIUM,manufacturing, software,Sole Proprietorship,Philippines,Cebu,Talisay,6038
+1080,Small,Telecommunications,Network Equipment,Inc.,Philippines,N/A,Bacolod,5600
+1081,Small,Real Estate,Residential,PARTNERSHIP,Philippines,N/A,Zamboanga City,7000
+1082, Small,construction ,Property Management,Sole Proprietorship,Philippines,Iloilo,Bacolod,5000
+1083,Micro,Agriculture,Fishery,,Pilipinas,, cebu city,5000
+1084,Small,Education,TEXTILES,,,Cebu,Toledo,6038
+1085,lg,,Textiles,Corporation,,CEBU,Bacolod,6100
+1086,Medium,Food & Beverage,grocery ,Cooperative,ph,Metro Manila,,1550
+1087,lg,construction ,Car Rental,Sole Proprietorship,Philippines,Zamboanga,Pagadian,7000
+1088,Small,Retail Trade,Clothing,Corporation,PH, Davao,Pagadian,7000
+1089,lg,Healthcare,other,Partnership,Philippines,Zamboanga,Dipolog,7016
+1090,lg,Financial Services,Insurance,Sole Proprietorship,Philippines,metro manila,Lapu-Lapu,6000
+1091,Medium,Agriculture,Fishery,PARTNERSHIP,,Iloilo,Kalibo,5800
+1092,Large,Manufacturing,Automotive Parts,coop,,Metro Manila,Makati,1300
+1093,med,Retail Trade,electronics,sole prop,Philippines,, cebu city,5800
+1094,small,Telecommunications,Internet Provider,Partnership,philippines,Iloilo,Kalibo,6100
+1095, Small,Retail Trade,Grocery,LLC,Philippines,Zamboanga,Dipolog,7000
+1096,med,Food & Beverage,Catering,Cooperative,Philippines,Metro Manila,Pasay,1770
+1097,Large,Financial Services,Microfinance,sole prop,Philippines,Metro Manila,Makati,1550
+1098,Micro,Financial Services,Insurance,Cooperative,Philippines,Unknown,Pagadian,7000
+1099,Medium,Telecommunications,,Corporation,Philippines,Iloilo,Iloilo City,5800
+1100,,,Property Management,Cooperative,Philippines,iloilo ,Kalibo,5800
+1101, Small,manufacturing,,coop,philippines, Davao,Iloilo City,6100
+1102,Large,Education,Vocational,Sole Proprietorship,Philippines,Davao,Tagum,8002
+1103,Medium,Real Estate,Development,Sole Proprietorship,Philippines,iloilo ,Digos,8105
+1104,Small,Food & Beverage,Restaurant,N/A,N/A, Davao,Pasig,1770
+1105,small,Transportation,other,LLC,Pilipinas, Davao,manila,6045
+1106,Small,food&beverage,Automotive Parts,Sole Proprietorship,Philippines,Davao,davao ,8000
+1107,Micro,Education,Tutorial,Cooperative,Philippines,Metro Manila,QUEZON CITY,1770
+1108,large ,Manufacturing,Automotive Parts,Partnership,philippines, Davao,Unknown,7000
+1109,Large,Transportation,Car Rental, LLC,Philippines,Zamboanga,Zamboanga City,7000
+1110,Unknown,Technology,E-commerce,N/A,Philippines, Davao,Talisay,6014
+1111,Micro,food&beverage,Industrial Equipment,Sole Proprietorship,Philippines,Iloilo,Roxas,5800
+1112,MEDIUM,RETAIL TRADE,Internet Provider,sole prop,PHILIPPINES,Zamboanga,Pagadian,7016
+1113,lg,N/A,Trucking,LLC,Philippines,N/A,QUEZON CITY,5600
+1114,Micro,Food & Beverage,Catering,coop,Philippines,Unknown,N/A,5800
+1115, Small,,grocery ,,Philippines,Metro Manila,QUEZON CITY,1300
+1116,Medium,N/A,Investment,Sole Proprietorship,Philippines,,davao ,6015
+1117,Medium,Other,Food Products,Sole Proprietorship,Philippines,Metro Manila,Manila,1000
+1118,Micro, Technology,Agricultural Supply,corporation,Philippines,Cebu,Talisay,6045
+1119,Micro,Education,Vocational,LLC,ph,Zamboanga,Pagadian,7016
+1120,Micro,Technology,Digital Marketing,Corporation,Philippines,Cebu,Toledo,6014
+1121,N/A,food&beverage,grocery ,Cooperative,PHILIPPINES,Zamboanga,Zamboanga City,7100
+1122,Unknown,Agriculture,Livestock,Partnership,Philippines,Zamboanga,Dipolog,7000
+1123,small,Tourism & Hospitality,Resort,LLC,Philippines,N/A,Kalibo,5600
+1124,Small,Construction,,Cooperative,Philippines,Iloilo,QUEZON CITY,5000
+1125,MEDIUM,food&beverage,Renovation,LLC,Philippines,Metro Manila,Makati,1400
+1126,Large,Transportation,Logistics,Corporation,ph,Metro Manila,Taguig,1630
+1127,,Construction,Infrastructure,Cooperative,, Davao,N/A,8105
+1128,Small,Telecommunications, software,Partnership,Pilipinas,Davao,,8105
+1129,Micro,Technology,,LLC,philippines,Cebu,N/A,6014
+1130,,Retail Trade,Electronics Store,Partnership,Pilipinas,Zamboanga,Dipolog,7100
+1131,Large,Telecommunications,Mobile Services,Partnership,Philippines,Davao,Tagum,8119
+1132,Micro,Transportation,Car Rental,PARTNERSHIP,Philippines,Metro Manila,manila,1550
+1133,Small,Import/Export,misc,Corporation,Philippines,Iloilo,Iloilo City,6100
+1134,Large,RETAIL TRADE,Resort,Corporation,Philippines,Metro Manila,davao ,1000
+1135,Small,manufacturing,Hotel,Corporation,Philippines, Davao,Tagum,8000
+1136,Large,RETAIL TRADE,Automotive Parts,Partnership,Philippines,Cebu,QUEZON CITY,6038
+1137,Small,Real Estate,Development,Partnership,PH,metro manila,Samal,8000
+1138,N/A,N/A,Trucking,Inc.,Philippines,Zamboanga,Zamboanga City,7100
+1139,lg,Transportation,Logistics,Partnership,Pilipinas,metro manila,Iloilo City,6100
+1140,large ,N/A,,Partnership,Philippines,Metro Manila,Manila,1740
+1141,Large,food&beverage,Restaurant,Cooperative,Philippines,,Samal,8119
+1142,Small,,Online Education,coop,Pilipinas,Metro Manila,Manila,1600
+1143,Medium,N/A,N/A,LLC,Philippines,CEBU,Talisay,6014
+1144,Large,Manufacturing,Automotive Parts,Sole Proprietorship,Philippines,Metro Manila,Mandaluyong,1740
+1145,Unknown,N/A,Commercial,Cooperative,Philippines, Davao,Caloocan,1630
+1146,Micro,Technology,IT Services,LLC,Philippines,Cebu,Talisay,6045
+1147,Large,Food & Beverage,Food Truck,Corporation,PHILIPPINES,Davao,Digos,8002
+1148,Micro,Retail Trade,Electronics Store,Partnership,Philippines,Cebu,Unknown,6038
+1149,MEDIUM,Retail Trade,misc,PARTNERSHIP,PH,Davao,Unknown,8105
+1150,Large,Construction,N/A,Corporation,Philippines,Zamboanga,Pagadian,7016
+1151,Micro,N/A,Food Truck,Sole Proprietorship,Philippines,Zamboanga,Zamboanga City,7000
+1152,N/A,N/A,electronics,LLC,Philippines,Cebu, cebu city,6038
+1153,Unknown,Import/Export,Consumer Goods,Sole Proprietorship,Philippines,,N/A,6038
+1154,Large,,Residential,Sole Proprietorship,PH,Davao,Panabo,8000
+1155,Medium,Food & Beverage,Food Truck,Sole Proprietorship,Philippines,Metro Manila,N/A,1200
+1156,Large,Agriculture,Agricultural Supply,Sole Proprietorship,Philippines,,Panabo,8105
+1157,Micro,Food & Beverage,Restaurant,Partnership,Philippines,Unknown,N/A,1600
+1158,Large,Technology,E-commerce,Cooperative,PHILIPPINES,Iloilo,davao ,5600
+1159,large ,food&beverage,Software Development,sole prop,philippines,Davao,Tagum,8119
+1160,Micro,Retail Trade,Clothing,coop,Philippines,Iloilo,Roxas,6100
+1161,Small,Telecommunications,grocery ,Corporation,Philippines,Cebu,QUEZON CITY,6038
+1162,,Manufacturing,Automotive Parts,Sole Proprietorship,Philippines,Davao,Samal,8100
+1163, Small,Real Estate,Property Management,Cooperative,Philippines,Metro Manila,Muntinlupa,1600
+1164,Unknown, Technology,Call Center,Partnership,,,,8000
+1165,Large,food&beverage,Livestock,sole prop,Philippines,iloilo ,davao ,6000
+1166,Small,RETAIL TRADE,,N/A,Philippines,Iloilo,Iloilo City,5600
+1167,lg,Agriculture,Agricultural Supply,N/A, Philippines,Zamboanga,Pagadian,7000
+1168,Medium,Import/Export,misc,coop,Philippines,Metro Manila,Muntinlupa,1000
+1169,Large,Tourism & Hospitality,TEXTILES,LLC,Philippines,Metro Manila,Quezon City,1000
+1170,Micro,,Web Design,Partnership,PH,Cebu,Toledo,6000
+1171,Micro,RETAIL TRADE,,Partnership,Philippines,Iloilo, cebu city,5800
+1172,Micro,Real Estate,Residential,sole prop,Philippines,Cebu,Talisay,6038
+1173,Micro,manufacturing,TEXTILES,sole prop, Philippines, Davao,Iloilo City,5800
+1174,Medium,Real Estate,Residential,coop,PHILIPPINES,,N/A,1740
+1175,Medium,Construction,Infrastructure,Cooperative,Philippines,Zamboanga,Pagadian,7016
+1176,Large,Food & Beverage, software,Cooperative,Philippines,Zamboanga,Dipolog,7000
+1177,Small,food&beverage,Cable TV,Partnership,Philippines,metro manila,Mandaue,6000
+1178,Unknown,Tourism & Hospitality,Resort,Sole Proprietorship,Philippines,Metro Manila,Makati,1630
+1179,Micro,,Automotive,Cooperative,Philippines,Iloilo,Roxas,5000
+1180,Large,Food & Beverage,Bakery,LLC,Philippines,Metro Manila,Pasig,1770
+1181,N/A,Manufacturing,Electronics,Inc.,Philippines,Iloilo,Roxas,5600
+1182,lg,Manufacturing,Electronics,PARTNERSHIP,Philippines,Cebu,Cebu City,6038
+1183,Small,Construction,Renovation,Cooperative,Philippines, Davao,Quezon City,1770
+1184,Large,Construction,Materials Supply,Sole Proprietorship,Philippines,Davao,Panabo,8119
+1185,Small,Telecommunications,Internet Provider,Cooperative,Philippines,Metro Manila,Taguig,1770
+1186,Large,Education,Private School,PARTNERSHIP,Philippines,Metro Manila,Muntinlupa,1770
+1187,Small,Financial Services,Microfinance,PARTNERSHIP,Pilipinas,Davao,Digos,8119
+1188,Large,Retail Trade,Pharmacy,coop,Philippines,Davao,manila,8105
+1189,Small,Transportation,,Sole Proprietorship,Philippines, Davao,davao ,5600
+1190,Micro,Education,Online Education,LLC,PH,Metro Manila,Muntinlupa,1740
+1191,Small,Other,Infrastructure,LLC,Philippines,Metro Manila,Las Piñas,1630
+1192,Medium, Technology,TEXTILES,Sole Proprietorship,Philippines,Cebu,QUEZON CITY,6045
+1193,lg,RETAIL TRADE,Trucking,Partnership,Philippines,Cebu,Toledo,6000
+1194,Micro,Food & Beverage,Coffee Shop,Cooperative,Philippines,metro manila,Panabo,8105
+1195, Small,Construction,Commercial,Sole Proprietorship,philippines,CEBU,Muntinlupa,1200
+1196,Small,,,Inc.,Philippines,Zamboanga,Zamboanga City,7000
+1197,Small,Technology,N/A,Inc.,Philippines,Metro Manila,Pasig,1770
+1198,Large,Telecommunications,N/A,Sole Proprietorship,Philippines,,Digos,8105
+1199,Small,Retail Trade,Electronics Store,coop,,iloilo ,Bacolod,6100
+1200,N/A,food&beverage,Commercial,Corporation,ph,Iloilo,Kalibo,5600
+1201,Large,Financial Services,Remittance,sole prop,N/A,Iloilo,Bacolod,5600
+1202,Small,Transportation,Public Transport,N/A,N/A,Cebu,Talisay,6038
+1203,Small,Food & Beverage,Restaurant,N/A,Philippines,Davao,Digos,8100
+1204,large ,Construction,Materials Supply,Partnership,Philippines,Davao,Panabo,8100
+1205,Large,manufacturing,misc,Sole Proprietorship,N/A,Davao,manila,8000
+1206, Small,,Pharmacy,corporation,PHILIPPINES,Zamboanga,Zamboanga City,7000
+1207,large ,Real Estate,Residential,Partnership,ph,Metro Manila, cebu city,1550
+1208,Large,Construction,Materials Supply,Cooperative,Philippines,metro manila,Lapu-Lapu,6045
+1209,Small,Retail Trade,misc,Partnership,,Cebu,Toledo,6045
+1210,Unknown,Telecommunications,grocery ,Cooperative,Philippines,iloilo ,Roxas,5800
+1211,Medium,Import/Export,other,Sole Proprietorship,Pilipinas,Cebu,Toledo,6014
+1212,MEDIUM,Other,electronics,Cooperative,ph,iloilo ,Unknown,1200
+1213,Medium,N/A,Automotive Parts,Cooperative,Philippines,Iloilo,Kalibo,6100
+1214,Large,Telecommunications,Call Center, LLC,Philippines,Iloilo,Iloilo City,6100
+1215,Small,manufacturing,Physical Therapy,Partnership,philippines,metro manila,Digos,8105
+1216,med,Real Estate, software,LLC,Philippines,Zamboanga,Dipolog,7000
+1217,Small,Real Estate,,Corporation,ph,metro manila,QUEZON CITY,1300
+1218,Small,Tourism & Hospitality,N/A,Cooperative,PH,Iloilo,Kalibo,5600
+1219, Small,Tourism & Hospitality,Hotel,Partnership,Philippines,Cebu,Talisay,6000
+1220,Micro,,Resort,Corporation,Philippines,Cebu,Toledo,6014
+1221,Medium,Agriculture,Rice Farming,Partnership,PHILIPPINES,Cebu,Lapu-Lapu,6015
+1222,med,Transportation,Delivery Services,Sole Proprietorship,Philippines,,QUEZON CITY,5600
+1223,lg,food&beverage,TEXTILES,Cooperative,Philippines,Zamboanga,Dipolog,7016
+1224,small,RETAIL TRADE,Rice Farming,Inc.,Philippines,Unknown,Toledo,6015
+1225,N/A,food&beverage, software,LLC,PH,Davao,Samal,8000
+1226, Small,N/A,Car Rental,Cooperative,Philippines,N/A,Iloilo City,5800
+1227,Small,Technology,electronics,LLC,,Iloilo,,5600
+1228,Large,construction ,Laboratory,Cooperative,Philippines,Cebu,manila,6000
+1229,Small,food&beverage,Food Products,Cooperative,Philippines,Cebu, cebu city,6014
+1230,Medium,N/A,Training Center,Sole Proprietorship,Philippines,Davao,Samal,8002
+1231,Micro,Education,misc,Partnership,Philippines,Metro Manila,Mandaluyong,1630
+1232,Medium,Financial Services, software,N/A,Philippines,Metro Manila,QUEZON CITY,1200
+1233,lg,Retail Trade, software,corporation,Philippines,Davao,Samal,8119
+1234,Medium,Manufacturing,Furniture,PARTNERSHIP,Philippines,Iloilo,Iloilo City,5800
+1235,Micro,Education,grocery ,Inc.,Philippines,Iloilo,Bacolod,5000
+1236,Medium,Telecommunications,Mobile Services,Cooperative,Philippines,Zamboanga,Dipolog,7100
+1237,MEDIUM,RETAIL TRADE,N/A,Cooperative,Philippines,Zamboanga,Zamboanga City,7100
+1238,Medium,Manufacturing,grocery ,N/A,Philippines,Metro Manila,Taguig,1600
+1239,Large,,Restaurant,Sole Proprietorship,Philippines,Metro Manila,Las Piñas,1200
+1240,N/A,Manufacturing,Food Processing,LLC,Philippines,metro manila,Tagum,8105
+1241,Small,,Public Transport,Corporation,Pilipinas,Zamboanga,Pagadian,7016
+1242,,Education,Tutorial,Sole Proprietorship,Philippines,Cebu,Lapu-Lapu,6000
+1243,N/A,Technology,Digital Marketing,Partnership,Philippines,Zamboanga,Zamboanga City,7100
+1244,Small,Manufacturing,Food Processing,PARTNERSHIP,Philippines,Metro Manila,Makati,1200
+1245,Large,,,Sole Proprietorship,ph,N/A,N/A,6015
+1246,Medium,Technology,TEXTILES,Partnership,Pilipinas,Unknown,manila,1000
+1247,Large,Tourism & Hospitality,Restaurant,Cooperative,Philippines,Iloilo,Iloilo City,5000
+1248,Micro,Financial Services,Microfinance,Corporation,Philippines,Cebu,Mandaue,6045
+1249,Micro,Financial Services, software, LLC,Philippines,Metro Manila,Makati,1770
+1250,Large,construction ,E-commerce,Sole Proprietorship,Philippines,N/A,,6014
+1251,Medium,Financial Services,electronics, LLC,Philippines,Metro Manila,,1770
+1252,Large,Tourism & Hospitality,N/A,Corporation,Philippines,,Unknown,6038
+1253,Micro,Transportation,,N/A,Philippines,CEBU,Mandaue,6038
+1254,Medium,Construction,Commercial,Cooperative,N/A,,QUEZON CITY,7016
+1255,Micro,Real Estate,Property Management,Partnership,N/A,Cebu,Toledo,6015
+1256,Micro,Construction,Residential,LLC,Philippines, Davao,Muntinlupa,1770
+1257,Medium,food&beverage,Medical Equipment,LLC,Philippines,Davao,Samal,8000
+1258,lg,Import/Export,Automotive,Partnership,Philippines,metro manila,,6100
+1259,MEDIUM,RETAIL TRADE,Food Truck,Sole Proprietorship, Philippines,Davao, cebu city,8119
+1260,Large,Education,Tutorial,Sole Proprietorship,Philippines,metro manila,Talisay,6015
+1261,Micro,Retail Trade,Electronics Store,Corporation,Philippines,Cebu,Lapu-Lapu,6015
+1262,Medium,food&beverage,Residential,Sole Proprietorship,Philippines,Davao,Tagum,8119
+1263,N/A,Food & Beverage,Catering,Partnership,N/A,Iloilo,Bacolod,5000
+1264,MEDIUM,Agriculture,,PARTNERSHIP,ph,Cebu,N/A,6000
+1265,MEDIUM,construction ,Hotel,LLC,philippines,Davao,manila,8100
+1266,Large,Agriculture, software,Partnership,Pilipinas,Zamboanga,Dipolog,7000
+1267,Medium,Construction,,LLC,Philippines,metro manila,Kalibo,5000
+1268,Medium,Other,Vocational,Partnership,,CEBU, cebu city,1100
+1269,Micro,Healthcare,Dental,Cooperative,philippines,Zamboanga,davao ,7100
+1270,Medium,food&beverage,Public Transport,coop,Philippines,Iloilo,Kalibo,5000
+1271,med,manufacturing,Logistics,Sole Proprietorship,, Davao,Unknown,1630
+1272,Micro,Real Estate,Real Estate Brokerage,coop,Philippines,N/A,Pagadian,7016
+1273,Medium,Technology,,Partnership,Philippines,Zamboanga,N/A,7100
+1274,Small,Education,other,sole prop,Philippines,Zamboanga,QUEZON CITY,7100
+1275,Small,Retail Trade,Hardware,Cooperative,Philippines,,Tagum,8105
+1276,Medium,,Commercial,Sole Proprietorship,Pilipinas,Cebu,Toledo,6015
+1277,Small,Other,Fishery,Cooperative,Philippines,Davao,Tagum,8100
+1278, Small,Transportation,Car Rental,Sole Proprietorship,Philippines,Iloilo,Roxas,5000
+1279,large ,RETAIL TRADE,Clothing,Partnership,Philippines,Zamboanga,Dipolog,7100
+1280,Large,RETAIL TRADE,,LLC,Philippines,Unknown,N/A,8000
+1281,Small,manufacturing,Call Center,LLC,Philippines,Iloilo,Kalibo,5000
+1282,Medium,Construction, software,Sole Proprietorship,ph,Zamboanga,Dipolog,7000
+1283,Small,N/A,Mobile Services, LLC,Philippines,Davao,Tagum,8119
+1284,Unknown,Transportation,Trucking,Partnership,,Davao,Samal,8000
+1285,Medium,construction ,Residential,Sole Proprietorship,Philippines,Davao,Samal,8000
+1286,Large,Food & Beverage,TEXTILES,Partnership,Philippines,Davao,Panabo,8000
+1287,Large,Healthcare,Medical Equipment,Sole Proprietorship,Philippines,Iloilo, cebu city,5800
+1288,Micro,Food & Beverage, software, LLC,N/A,Metro Manila,Mandaluyong,1200
+1289,small,Tourism & Hospitality,Resort,Cooperative,Philippines,Iloilo,Bacolod,5600
+1290,Unknown,Healthcare,Dental,Sole Proprietorship,,N/A,N/A,8002
+1291,Small,Retail Trade,Grocery,Partnership, Philippines,Davao,QUEZON CITY,8119
+1292,Large,Financial Services,Investment,Sole Proprietorship,,Zamboanga,Zamboanga City,7100
+1293,Large,Food & Beverage,Food Truck,Corporation,PHILIPPINES, Davao, cebu city,7000
+1294,Unknown,Other,Call Center,Partnership,Philippines,Cebu,Lapu-Lapu,6038
+1295,small,Retail Trade,Clothing,Partnership,Philippines,Zamboanga,Pagadian,7000
+1296,Large,Education,electronics,Sole Proprietorship,philippines,metro manila,Dipolog,7000
+1297,Micro,Technology,Digital Marketing,LLC,Philippines,Iloilo,Kalibo,5000
+1298,Micro,Construction,Renovation,sole prop,Philippines,Metro Manila,Quezon City,1630
+1299, Small,Financial Services,Insurance,Partnership,Philippines,Cebu,Lapu-Lapu,6014
+1300,Micro,Financial Services,Investment,Sole Proprietorship,Philippines,metro manila,davao ,7000
+1301,Micro,RETAIL TRADE,electronics,LLC,Philippines,iloilo ,Bacolod,6100
+1302,,Food & Beverage,Food Truck,Sole Proprietorship,Philippines,N/A,Manila,1200
+1303,Medium,Healthcare,Medical Equipment,Sole Proprietorship,,Zamboanga,Unknown,7016
+1304,Micro,Agriculture,grocery ,sole prop,Philippines,, cebu city,7000
+1305,Large, Technology,Fishery,Corporation,N/A,metro manila,manila,7100
+1306,Small,Technology,electronics,Corporation,Philippines, Davao,Las Piñas,1600
+1307,Large,Financial Services,Microfinance,LLC,Philippines, Davao,davao ,5800
+1308,Medium,Import/Export,Consumer Goods,,Philippines,Metro Manila,Unknown,1600
+1309,Large,Other,TEXTILES,Partnership,Philippines,Cebu,N/A,6045
+1310,lg,food&beverage,TEXTILES,Sole Proprietorship,philippines,Metro Manila,Pasay,1550
+1311,Large,Telecommunications,Call Center,Partnership,Philippines,Iloilo,Bacolod,5600
+1312,Micro,Healthcare, software,Cooperative,Philippines,Cebu,Cebu City,6014
+1313,Medium,Food & Beverage,Restaurant,LLC,PH,Metro Manila,Unknown,1400
+1314,Medium,Construction,Residential,Cooperative,Philippines,Metro Manila,davao ,1630
+1315,Micro,RETAIL TRADE,N/A,Partnership,Philippines,metro manila,Cebu City,6014
+1316,lg,Other,Textiles,LLC,Philippines,Davao,Tagum,8105
+1317,lg,Telecommunications,Network Equipment,N/A,Philippines,Zamboanga,Dipolog,7000
+1318,Small,Retail Trade,Clothing,Corporation,Philippines,Iloilo,,6100
+1319, Small,RETAIL TRADE,E-commerce,Partnership,Philippines,,Unknown,8000
+1320,Large,Healthcare,N/A,Corporation,N/A,iloilo ,Panabo,8119
+1321,Small,Food & Beverage,other,Cooperative,Philippines,metro manila,Dipolog,7000
+1322,Large,RETAIL TRADE, software,Cooperative,Philippines,Iloilo,QUEZON CITY,5800
+1323,Medium,Manufacturing,Food Processing,Cooperative,Philippines,Zamboanga, cebu city,7000
+1324,N/A,Manufacturing,other,Cooperative,ph,iloilo ,Roxas,5600
+1325, Small,Transportation,Public Transport,Sole Proprietorship,Philippines,,Digos,8100
+1326,,Agriculture,Agricultural Supply,Sole Proprietorship,Philippines,Metro Manila,Manila,1770
+1327, Small,Telecommunications,Internet Provider,Sole Proprietorship,Philippines,Metro Manila,QUEZON CITY,1400
+1328,N/A,Food & Beverage,Catering,Partnership,Philippines,Cebu,Lapu-Lapu,6014
+1329,Large,construction ,Car Rental,Corporation,Philippines,,davao ,6014
+1330,Small,Healthcare,Dental,LLC,Philippines,Zamboanga,Pagadian,7100
+1331,Medium,Retail Trade,Clothing,Sole Proprietorship,, Davao,Iloilo City,6100
+1332,Medium,Agriculture,TEXTILES,PARTNERSHIP,Philippines,CEBU,Kalibo,5800
+1333,Medium, Technology,Automotive,Cooperative,Philippines,Cebu,Talisay,6000
+1334,Micro,Telecommunications,Network Equipment,Cooperative,Philippines,Davao,Davao City,8100
+1335,Micro,construction ,Commercial,corporation,Philippines,CEBU,Dipolog,7100
+1336,N/A,Real Estate,Development,Cooperative,PHILIPPINES,Zamboanga,Zamboanga City,7100
+1337,Micro,Import/Export,Automotive,,Philippines,Davao,Samal,8002
+1338,Large,Healthcare, software,,Philippines,Davao,Davao City,8100
+1339,Small,Agriculture,Agricultural Supply,,Pilipinas,metro manila,manila,6014
+1340,large ,Education,Private School,Partnership,Philippines, Davao,Dipolog,7000
+1341,Large,Retail Trade,Grocery,Partnership,PHILIPPINES,N/A,N/A,6045
+1342,Medium,Healthcare,Physical Therapy,,Philippines,Metro Manila,Unknown,1600
+1343,Medium,Tourism & Hospitality,Travel Agency, LLC,Philippines,iloilo ,QUEZON CITY,8002
+1344,Small,manufacturing,misc,Sole Proprietorship,Philippines,Metro Manila,Pasay,1100
+1345,Small,Healthcare,other,PARTNERSHIP,Philippines,Zamboanga,Zamboanga City,7000
+1346,Large,Healthcare,Physical Therapy,Inc.,ph,Cebu,Mandaue,6038
+1347,Large, Technology,Electronics,Sole Proprietorship,Philippines,Iloilo,Kalibo,5600
+1348,Large,Education,Vocational, LLC,Philippines,Iloilo,N/A,5600
+1349,MEDIUM,Manufacturing,Automotive Parts,Sole Proprietorship,Philippines,Zamboanga,Dipolog,7016
+1350,large ,manufacturing,misc,Sole Proprietorship,Philippines,Iloilo,QUEZON CITY,6100
+1351,Unknown,Tourism & Hospitality,Resort,Sole Proprietorship,ph,CEBU, cebu city,1770
+1352,Large,N/A,Organic Farming,coop,Philippines,Iloilo,Bacolod,5600
+1353,Large,N/A,Mobile Services,PARTNERSHIP,N/A,Metro Manila,Taguig,1200
+1354,,construction ,,,PH,,Cebu City,6038
+1355,Medium,,Tutorial,Corporation,Philippines,Zamboanga,Unknown,7016
+1356,Medium,Real Estate,Development,PARTNERSHIP,Philippines,Cebu,davao ,6038
+1357,Micro,Other,Food Processing, LLC,ph, Davao,Pasay,1100
+1358,Medium,Transportation,Logistics,Corporation,Philippines,Davao,Davao City,8100
+1359,Large,Other, software,PARTNERSHIP,Pilipinas,Metro Manila,Makati,1550
+1360,lg,Manufacturing,Food Processing,coop,Philippines,Unknown,Iloilo City,6100
+1361,Medium,Transportation,Public Transport,PARTNERSHIP,Philippines, Davao,Quezon City,1630
+1362,Medium,Financial Services,grocery ,Sole Proprietorship,Philippines,Metro Manila,QUEZON CITY,1740
+1363,MEDIUM,Real Estate,,N/A,philippines,Iloilo,Bacolod,5000
+1364,Medium,food&beverage,Industrial Equipment,LLC,Philippines,Cebu,davao ,6038
+1365,Micro,Manufacturing,Textiles,Partnership,Philippines,Zamboanga,Dipolog,7100
+1366,small, Technology,Catering,Sole Proprietorship,Philippines,Iloilo,Unknown,5600
+1367,Large,Technology,Digital Marketing,Inc.,Philippines,Metro Manila,Muntinlupa,1000
+1368,Large,Import/Export,misc,LLC,N/A,Davao,Digos,8000
+1369,Micro,Technology,E-commerce,Cooperative,Philippines,Iloilo,N/A,6100
+1370, Small,Transportation,Delivery Services,Inc.,PH,Davao,Unknown,8002
+1371,Small,Retail Trade,Clothing,Cooperative,Philippines,Metro Manila,manila,1100
+1372,MEDIUM,Other,Medical Equipment,Corporation,Philippines,CEBU,,7000
+1373,Small,Agriculture,Fishery,Cooperative,PH,Metro Manila,Unknown,1770
+1374,lg,Manufacturing,Textiles,Partnership,Philippines,Iloilo,N/A,5800
+1375,Small,,Infrastructure,LLC,Philippines,Davao, cebu city,8002
+1376,small,Telecommunications,Internet Provider,Cooperative,Philippines,Zamboanga,Pagadian,7016
+1377,,Telecommunications,Internet Provider,Sole Proprietorship,Philippines,Cebu,Cebu City,6038
+1378,Micro,RETAIL TRADE,Hotel,Partnership,Philippines,Cebu,Cebu City,6045
+1379,,food&beverage,Renovation,LLC,Pilipinas,Metro Manila,N/A,1200
+1380,small,Other,electronics,Sole Proprietorship,N/A,Metro Manila,Caloocan,1000
+1381,small,construction ,Hardware, LLC,Philippines, Davao,Roxas,5600
+1382,Medium,Healthcare,Dental,corporation,ph,Zamboanga,Zamboanga City,7100
+1383,Small,Retail Trade,Pharmacy,corporation,Philippines,Iloilo,,5800
+1384,Micro,Food & Beverage,,Corporation,philippines,,Davao City,8105
+1385,Large,Manufacturing,Automotive Parts,Sole Proprietorship,Philippines,Metro Manila,Las Piñas,1550
+1386,Medium,Real Estate,Real Estate Brokerage,LLC,Philippines,Unknown,Pagadian,7100
+1387,,Food & Beverage,Coffee Shop,Sole Proprietorship,Philippines,Cebu,Mandaue,6000
+1388,Medium,construction ,Restaurant,Partnership,Philippines,Iloilo,Roxas,5000
+1389,Small,RETAIL TRADE,Call Center,Inc.,Pilipinas,CEBU,Bacolod,5000
+1390,lg,Technology,E-commerce,N/A,Philippines, Davao,Pagadian,7100
+1391,Micro,Construction,Infrastructure,LLC,Philippines,Cebu, cebu city,6014
+1392,Small,Retail Trade,Hardware,Cooperative,Philippines,Metro Manila,N/A,1770
+1393,Large,Education,Vocational,Partnership,Philippines,Iloilo,Bacolod,5000
+1394,Medium,Education,Vocational,Corporation,N/A,Zamboanga,,7100
+1395,lg,Technology,Software Development,N/A,Philippines,Metro Manila,Pasig,1550
+1396,Medium,RETAIL TRADE,Laboratory,,Philippines,Zamboanga,Pagadian,7000
+1397,Unknown,Technology,Digital Marketing,Cooperative,Philippines,Davao,davao ,8100
+1398,large ,Manufacturing,Automotive Parts,Partnership,Philippines,Zamboanga,davao ,7100
+1399,Large,Construction,Renovation,Cooperative,philippines,Davao,Tagum,8105
+1400,Large,N/A,Tutorial,, Philippines,Davao,davao ,8002
+1401,Small,Real Estate,Residential,N/A,Philippines,Iloilo,Kalibo,6100
+1402,Micro,Food & Beverage,Catering,LLC,Philippines,Cebu,Cebu City,6045
+1403,lg,manufacturing,Electronics Store,PARTNERSHIP,Philippines,Davao,Panabo,8105
+1404,Small,RETAIL TRADE,IT Services,Inc.,Philippines,iloilo ,Unknown,7016
+1405,large ,Technology, software,N/A,Philippines,iloilo ,davao ,1000
+1406,Large,Manufacturing,Food Processing,Partnership,Philippines,Zamboanga,Dipolog,7016
+1407,med,Technology,N/A,Sole Proprietorship,Philippines,,Digos,8105
+1408,Large,Financial Services,Insurance,Corporation,ph, Davao,Kalibo,6100
+1409,med,,Logistics,Cooperative,Pilipinas,Davao,Tagum,8119
+1410,Unknown,construction ,Food Products,LLC,Philippines,Davao,QUEZON CITY,8100
+1411,Medium,Telecommunications,Call Center,Cooperative,ph,Cebu,Mandaue,6045
+1412,,Manufacturing,Electronics,corporation,Philippines,Cebu,Mandaue,6014
+1413,Medium,Import/Export,TEXTILES,N/A,Philippines,Cebu,Cebu City,6015
+1414,Small,Retail Trade,Pharmacy,Cooperative,Philippines,,Mandaue,6014
+1415,Large,RETAIL TRADE,Electronics,coop,Philippines,CEBU,manila,7100
+1416,Micro,RETAIL TRADE,Public Transport,LLC,Philippines,CEBU,Pagadian,7016
+1417, Small,Financial Services, software,Partnership,Philippines,Iloilo,Iloilo City,5800
+1418,Large,construction ,Real Estate Brokerage,Partnership,Philippines,Cebu,Mandaue,6038
+1419,Small,construction ,Electronics Store,PARTNERSHIP,N/A,Davao,Panabo,8105
+1420,Unknown,Manufacturing,Food Processing,,Philippines,Zamboanga,Pagadian,7000
+1421,,Transportation,Public Transport,Corporation,Philippines,Iloilo,manila,5800
+1422,Medium,Retail Trade,Electronics Store,Corporation,Philippines,Davao,Panabo,8100
+1423,Large,Financial Services,Insurance,Corporation,Philippines,Iloilo,Unknown,5600
+1424,Large,Food & Beverage,,Sole Proprietorship,Philippines,Cebu,Cebu City,6038
+1425,med,Financial Services,Investment,Partnership,Philippines,Metro Manila,Pasay,1630
+1426,Large,Construction,Commercial,Sole Proprietorship,PH,N/A,Toledo,6038
+1427,Micro,Retail Trade,Hardware,Corporation,Philippines,Metro Manila,Unknown,1740
+1428,Large,RETAIL TRADE,Remittance,Inc.,Philippines,Cebu,Talisay,6015
+1429,lg,Agriculture,Rice Farming,LLC,philippines,Davao,Davao City,8002
+1430,Large,food&beverage,misc,Cooperative,Philippines,Zamboanga,N/A,7000
+1431,MEDIUM,Real Estate,Property Management,Sole Proprietorship,N/A,Cebu,Cebu City,6015
+1432,med,N/A,Materials Supply,Cooperative,N/A,Iloilo,Roxas,5600
+1433,Large,Transportation, software,LLC,Philippines,Zamboanga,Zamboanga City,7016
+1434,Medium,Real Estate,grocery ,N/A,Philippines,metro manila,Davao City,8105
+1435,Small,Telecommunications,Cable TV,Sole Proprietorship,Philippines,Davao,Tagum,8119
+1436,Micro,Transportation,,PARTNERSHIP,Philippines,,Lapu-Lapu,6000
+1437,Small,Healthcare,Laboratory,Corporation,PH,Iloilo,Bacolod,6100
+1438,N/A,N/A,N/A,Cooperative,Philippines, Davao,Pagadian,7000
+1439,Medium,Retail Trade,Clothing,Cooperative,philippines,Zamboanga,Zamboanga City,7016
+1440,large ,Manufacturing,Food Processing,Corporation,Philippines,Zamboanga,QUEZON CITY,7016
+1441,Unknown,Tourism & Hospitality,Restaurant,Cooperative,Philippines,N/A,davao ,1100
+1442,Medium,N/A,Logistics,,,Zamboanga,Pagadian,7016
+1443,med,Agriculture,Livestock,Corporation,PHILIPPINES,Cebu, cebu city,6038
+1444,Medium,construction ,Call Center,Partnership,Philippines,Cebu,,6014
+1445,Medium,Real Estate,Development,Sole Proprietorship,Philippines,Cebu,Lapu-Lapu,6000
+1446,Medium,Agriculture,Livestock,Sole Proprietorship,,N/A,,7100
+1447,large ,Education,Private School,Partnership,Philippines,,Manila,1600
+1448,Large,Financial Services,electronics,LLC,Philippines,Metro Manila,Mandaluyong,1300
+1449,Small,Manufacturing,misc,N/A,Philippines,,Kalibo,5800
+1450,MEDIUM,Education,Vocational,LLC,Philippines,Metro Manila,Pasay,1770
+1451,Micro,construction ,Electronics Store, LLC,Philippines,Cebu,Cebu City,6000
+1452,Large,Technology,E-commerce,Partnership,Philippines,Davao, cebu city,8000
+1453,Small,Construction,Residential,Cooperative,Philippines,Iloilo,Bacolod,5600
+1454,MEDIUM,Transportation,,LLC,Philippines,Davao, cebu city,8100
+1455,large ,Technology,Web Design,Cooperative,Philippines,N/A,Toledo,6000
+1456,Micro,Food & Beverage,grocery ,sole prop,Philippines,Unknown,davao ,6015
+1457,MEDIUM,Transportation,Trucking,coop,philippines,,Unknown,6100
+1458,Large, Technology,Rice Farming,Cooperative,Philippines,Metro Manila,Manila,1550
+1459,Micro,Financial Services,,LLC,Philippines,Zamboanga,manila,7100
+1460,Medium,Financial Services,Microfinance,Partnership,N/A,CEBU,Kalibo,5600
+1461,Large,manufacturing,,coop,Philippines,Zamboanga,Dipolog,7000
+1462,Small,Import/Export,Industrial Equipment,Cooperative,Philippines,iloilo ,Roxas,5000
+1463,Micro,Food & Beverage,grocery ,Cooperative,Philippines,Cebu,Unknown,6045
+1464,lg,Agriculture,Agricultural Supply,Inc.,Philippines,Metro Manila,Quezon City,1200
+1465,med,Telecommunications,Internet Provider,PARTNERSHIP,,CEBU,Lapu-Lapu,6045
+1466,N/A,Healthcare,Physical Therapy,Cooperative,Philippines,iloilo ,Roxas,6100
+1467,Small,Telecommunications,Cable TV,Cooperative,Philippines,Iloilo,Iloilo City,5800
+1468,Micro,N/A,Car Rental,Cooperative,Philippines,iloilo ,Unknown,1300
+1469,Large,Food & Beverage,Coffee Shop, LLC,philippines,Cebu,,6045
+1470,Micro,Transportation,misc,Sole Proprietorship,Pilipinas,Unknown,Mandaluyong,1740
+1471,Large,food&beverage,Agricultural Supply,Partnership,Philippines,metro manila,Mandaue,6015
+1472,Large,Import/Export,Consumer Goods,LLC,Philippines,N/A,Makati,1600
+1473,MEDIUM,Technology,IT Services,Corporation,Philippines,metro manila,Roxas,5800
+1474,MEDIUM,Retail Trade, software,Corporation,Philippines,Zamboanga,manila,7016
+1475,Micro,Manufacturing,Furniture,LLC,N/A, Davao,Kalibo,5600
+1476,Unknown,manufacturing,E-commerce,Cooperative,Philippines,Davao,Digos,8002
+1477,MEDIUM,Technology,Digital Marketing,Partnership,Philippines, Davao,Zamboanga City,7000
+1478,,Tourism & Hospitality,electronics,Inc.,Philippines,Metro Manila,Makati,1400
+1479,lg,Telecommunications,,PARTNERSHIP,Philippines, Davao,Talisay,6045
+1480,Large, Technology,Coffee Shop,LLC, Philippines,Metro Manila,Makati,1630
+1481,Medium,Construction,Commercial, LLC,Philippines, Davao,Zamboanga City,7100
+1482,N/A,Technology,IT Services,Partnership,ph,metro manila,Panabo,8002
+1483,N/A,Food & Beverage,Bakery,PARTNERSHIP,Philippines,Zamboanga,Pagadian,7100
+1484,Micro,Transportation, software,Sole Proprietorship,Philippines,metro manila,Pasay,1550
+1485,Small,Retail Trade,Electronics Store,corporation,Philippines,Zamboanga,Dipolog,7000
+1486,Small,RETAIL TRADE, software,Sole Proprietorship,Philippines,Metro Manila,Caloocan,1400
+1487,Small,Tourism & Hospitality,other,Partnership,Philippines,Zamboanga, cebu city,7100
+1488,Large,RETAIL TRADE,Software Development,LLC,,Iloilo,Bacolod,6100
+1489,Medium,,grocery ,Sole Proprietorship,Philippines,metro manila,Unknown,8002
+1490,Medium,Technology,TEXTILES,LLC,PHILIPPINES,Metro Manila,Manila,1200
+1491,lg,,,Sole Proprietorship,Philippines,Metro Manila,Pasig,1630
+1492,N/A,Import/Export,Electronics,corporation,ph,Metro Manila,Quezon City,1000
+1493,large ,Other,other,N/A,Pilipinas,CEBU,Roxas,5600
+1494,Unknown,Real Estate,N/A,Partnership,Philippines,Zamboanga,Zamboanga City,7100
+1495,Small,Technology,other,Cooperative,Philippines,Cebu,Unknown,6015
+1496,Medium,Agriculture,Rice Farming,LLC,Philippines,Cebu,Toledo,6038
+1497,Small,construction ,Trucking,LLC,Philippines,Metro Manila,,1550
+1498,Medium,Transportation,Logistics,Partnership, Philippines,Davao,Panabo,8105
+1499,Large,Education,TEXTILES,LLC,Philippines,Cebu,Cebu City,6038
+1500,Large,Agriculture,Agricultural Supply,Sole Proprietorship,PH,Cebu,Cebu City,6014
+1501,Micro,Construction,Renovation,Corporation,ph,Cebu,Lapu-Lapu,6045
+1502,Small,Education,Online Education,LLC,Philippines,Cebu,Toledo,6000
+1503,Medium,food&beverage,TEXTILES,,Philippines,Zamboanga,QUEZON CITY,7100
+1504,Large,Construction,misc,Sole Proprietorship,Philippines,Davao,Panabo,8100
+1505,N/A,Retail Trade,Hardware,Partnership,Philippines,Cebu,Toledo,6038
+1506,Medium,Healthcare,misc,N/A,Philippines,CEBU,Zamboanga City,7000
+1507,Medium,Transportation,Trucking,LLC,philippines,Metro Manila,,1740
+1508,Large,Technology,misc,Partnership,Philippines,Zamboanga,Zamboanga City,7100
+1509,Medium,Tourism & Hospitality,N/A,Cooperative,Philippines,Iloilo,Bacolod,5800
+1510,Small,Education,Private School,Sole Proprietorship,PHILIPPINES,CEBU,Roxas,5000
+1511,Medium,Tourism & Hospitality,TEXTILES,LLC,Philippines,Metro Manila,Pasay,1400
+1512,large ,Agriculture,grocery ,Sole Proprietorship,Philippines,Metro Manila,Manila,1600
+1513,Micro,Telecommunications, software,,Philippines,Zamboanga,Pagadian,7000
+1514,Micro,Education,Private School,sole prop,Pilipinas,Davao,QUEZON CITY,8105
+1515,Small,,Food Processing,LLC,Philippines,Zamboanga,Unknown,7000
+1516,Large,Healthcare,Medical Equipment,LLC,,Zamboanga,Pagadian,7100
+1517,Large,Retail Trade,other,corporation,ph,Davao,Tagum,8002
+1518,Small,Transportation,Car Rental,LLC,Philippines,Cebu,Lapu-Lapu,6000
+1519,Large,Other,Renovation,Corporation,Philippines,Zamboanga,Pagadian,7000
+1520,large ,Construction,Infrastructure,Cooperative,PHILIPPINES,Iloilo,Iloilo City,5600
+1521, Small,Healthcare,Clinic,Partnership,Philippines,Cebu,Mandaue,6015
+1522,Large,Construction,Infrastructure,corporation,Pilipinas,Zamboanga,Unknown,7100
+1523,,Manufacturing,Food Processing,Cooperative,Philippines,metro manila,Unknown,7016
+1524,Small,Education,Training Center,Partnership,Philippines,Metro Manila,Muntinlupa,1200
+1525,large ,,Textiles, LLC,Philippines,CEBU, cebu city,6045
+1526,,Transportation,Trucking,Corporation,Philippines,Metro Manila,Pasig,1740
+1527,large ,RETAIL TRADE,Remittance,Corporation,Pilipinas,,Mandaluyong,1770
+1528,Large,Education,Vocational,Sole Proprietorship,Philippines, Davao,davao ,1400
+1529,Small,Other,Car Rental,,Philippines,Metro Manila,Pasay,1300
+1530,Small, Technology,Bakery,Corporation,ph,Zamboanga,Dipolog,7016
+1531,Small,Financial Services,grocery , LLC,N/A,Zamboanga,Dipolog,7016
+1532,Small,Tourism & Hospitality,Hotel,Sole Proprietorship,N/A,Zamboanga,Pagadian,7100
+1533, Small,Retail Trade, software,PARTNERSHIP,Philippines,Metro Manila,Muntinlupa,1000
+1534,N/A,Construction,,Cooperative,Philippines,Iloilo,Iloilo City,5800
+1535,Medium,Tourism & Hospitality,Hotel,Partnership,Philippines,Davao,QUEZON CITY,8100
+1536,Small,manufacturing,Clinic,Cooperative,N/A,Davao,Davao City,8000
+1537,,Agriculture,Rice Farming,PARTNERSHIP,Pilipinas, Davao,Mandaluyong,1400
+1538,lg,Food & Beverage,grocery ,Sole Proprietorship,ph,Iloilo,Roxas,5000
+1539,Medium,,electronics,LLC,Philippines,Cebu,Talisay,6014
+1540, Small,Import/Export,Consumer Goods,Corporation,Pilipinas,,Dipolog,7000
+1541,Medium,Import/Export,Consumer Goods,Corporation,Philippines,Metro Manila,Caloocan,1000
+1542,Medium,Education,Vocational,Cooperative,Philippines,Cebu,Toledo,6045
+1543,Micro,food&beverage, software,Inc.,Philippines,Unknown,,5600
+1544,Small,Education,Tutorial,,Philippines,N/A,davao ,6100
+1545,Large,Manufacturing,Furniture,Sole Proprietorship,PHILIPPINES,,Talisay,6045
+1546,N/A,Import/Export,Consumer Goods,Sole Proprietorship,Philippines,Iloilo,Roxas,5000
+1547,Small,N/A,Coffee Shop, LLC,philippines,Unknown,Las Piñas,1600
+1548,Medium,Transportation,Trucking,N/A,Philippines,Zamboanga,QUEZON CITY,7016
+1549,Medium,Other,Online Education,LLC,Philippines,Cebu,Cebu City,6014
+1550,MEDIUM,Import/Export,, LLC,,Iloilo,Bacolod,6100
+1551,Micro,Food & Beverage,misc,Partnership,Pilipinas,Cebu,,6015
+1552,Medium,Tourism & Hospitality,Event Planning, LLC,Philippines,Zamboanga,Dipolog,7100
+1553,med,Transportation,Public Transport,N/A,Philippines,Zamboanga,Pagadian,7100
+1554,lg,Healthcare,Laboratory,LLC,Philippines,Cebu,QUEZON CITY,6014
+1555,med,Construction,grocery ,Sole Proprietorship,Philippines,Metro Manila,davao ,1400
+1556,Micro,Agriculture,Rice Farming,Cooperative,Philippines,Iloilo,Kalibo,6100
+1557,Medium, Technology,electronics,N/A,PHILIPPINES,metro manila,Mandaue,6015
+1558,large ,Manufacturing,Textiles,Sole Proprietorship,Philippines,Cebu,Toledo,6015
+1559,Medium,Financial Services,Money Exchange,Cooperative,Philippines,Cebu,QUEZON CITY,6038
+1560,Medium,Education,Private School,Partnership,Philippines,Iloilo,Roxas,5800
+1561,Micro,Real Estate,Residential,Corporation,PH,N/A,Davao City,8000
+1562,Micro,Healthcare,Dental,Corporation,Philippines,Zamboanga,Dipolog,7016
+1563,large ,Financial Services,Investment,Inc.,philippines,Unknown,Davao City,8100
+1564,Large, Technology,Commercial,Sole Proprietorship,Philippines,Iloilo,Iloilo City,5800
+1565,Micro,Retail Trade,Clothing,N/A,Pilipinas,Iloilo,Iloilo City,5000
+1566,Small,Tourism & Hospitality,Event Planning,LLC,Philippines,N/A,,5600
+1567,Medium,Telecommunications,Network Equipment,Partnership,Philippines,Iloilo,Iloilo City,6100
+1568,Small,Manufacturing,Electronics,sole prop,Philippines,Davao,Samal,8000
+1569,Micro,Telecommunications,Mobile Services,LLC,Philippines,Cebu,Toledo,6038
+1570,Small,Telecommunications,electronics,Sole Proprietorship,N/A,Cebu,Toledo,6015
+1571,Micro,N/A,electronics,Partnership,,Zamboanga,Zamboanga City,7016
+1572,Unknown,food&beverage,Commercial,Partnership, Philippines,N/A,,1630
+1573,Medium,Technology,IT Services,Sole Proprietorship,Philippines,Zamboanga,davao ,7016
+1574,Small,Real Estate,Real Estate Brokerage,sole prop,Pilipinas,Iloilo,Bacolod,5800
+1575,Micro,Agriculture,Fishery,Cooperative,Philippines, Davao,,7000
+1576,Medium,Import/Export,Food Products,Corporation,Philippines,metro manila,davao ,1770
+1577,Medium,RETAIL TRADE,Catering,Sole Proprietorship,Philippines,Zamboanga,Dipolog,7000
+1578,Medium,Education,Training Center,Cooperative, Philippines,Cebu,Cebu City,6038
+1579,Micro,RETAIL TRADE,,Sole Proprietorship,Philippines,Zamboanga,Pagadian,7016
+1580, Small,Import/Export,Automotive,LLC,Philippines,iloilo ,manila,6015
+1581,Micro,Tourism & Hospitality,Restaurant,Inc.,Philippines, Davao,davao ,5800
+1582,Small,Tourism & Hospitality,Hotel,LLC,Philippines,,Cebu City,6045
+1583,Micro,Food & Beverage,,sole prop,Philippines,,Caloocan,1400
+1584,N/A,Healthcare,Medical Equipment,LLC,PH,CEBU,Mandaue,6045
+1585,Micro,Food & Beverage,Bakery,Sole Proprietorship,Philippines,Iloilo,Iloilo City,5800
+1586,Medium,Retail Trade,Clothing,Sole Proprietorship,Philippines,Unknown,Talisay,6000
+1587,Large,Education,TEXTILES,Sole Proprietorship,Philippines,Cebu,Talisay,6014
+1588,,Tourism & Hospitality,Resort,Corporation,Philippines,Zamboanga,Pagadian,7000
+1589,Large,Construction,Residential,N/A,philippines,Iloilo,N/A,6100
+1590,Micro,,Food Processing,Partnership,Philippines,Iloilo,,6100
+1591,Large,Import/Export,Consumer Goods,coop,Philippines,,Talisay,6014
+1592,Medium,N/A,Infrastructure,Partnership,Philippines,Metro Manila,manila,1200
+1593,Small,Real Estate,Property Management,LLC,Philippines,Zamboanga, cebu city,7100
+1594,Unknown, Technology,Electronics Store,PARTNERSHIP,Philippines,,Talisay,6014
+1595,Micro,Telecommunications,Network Equipment,Sole Proprietorship,PH,Davao,Tagum,8100
+1596,med,Real Estate,electronics,Cooperative,Philippines,, cebu city,7016
+1597,Medium,Healthcare,Laboratory,Sole Proprietorship,Philippines,Cebu,,6014
+1598,Medium,Construction,Infrastructure,Sole Proprietorship, Philippines,Unknown,Bacolod,5000
+1599,Medium,Tourism & Hospitality,TEXTILES,Partnership,Philippines,Zamboanga,Dipolog,7016
+1600,Large,Healthcare,,LLC,PHILIPPINES,Davao,Samal,8002
+1601,small,Import/Export,Food Products,LLC,Philippines,Zamboanga,Zamboanga City,7016
+1602,N/A,Retail Trade,Grocery,Partnership,N/A,Zamboanga,Pagadian,7016
+1603,Medium,Food & Beverage,Coffee Shop,Corporation,Philippines,Cebu,,6015
+1604,Small,construction ,Organic Farming,corporation,Philippines,Davao,Samal,8100
+1605,Small,N/A,Hotel,Corporation, Philippines,,,7000
+1606,Medium,manufacturing,Call Center,LLC,Philippines,N/A, cebu city,1550
+1607, Small,construction ,Automotive,coop,Philippines,Zamboanga,manila,7000
+1608,Small,Construction,misc,Partnership,PHILIPPINES,Davao,Samal,8002
+1609,Medium,Transportation,misc, LLC,Philippines,Metro Manila,Muntinlupa,1740
+1610,Medium,,Textiles,Sole Proprietorship,Philippines,Davao,Unknown,8002
+1611,med,food&beverage,E-commerce,Cooperative,Philippines,Iloilo,Kalibo,5800
+1612,,Telecommunications,Mobile Services,Corporation,PHILIPPINES,Cebu,manila,6014
+1613,lg,Import/Export,Food Products,Corporation,Philippines,Metro Manila,Muntinlupa,1100
+1614,Medium,food&beverage,Electronics Store,sole prop,Philippines,Davao,QUEZON CITY,8002
+1615,Large,Tourism & Hospitality,Resort,Corporation,Philippines,Metro Manila,Manila,1770
+1616,Small,Food & Beverage,Catering,Cooperative,philippines,Zamboanga,Dipolog,7000
+1617,Unknown,Other,Consumer Goods,LLC, Philippines,Davao,Digos,8002
+1618,Medium,Healthcare,Dental,PARTNERSHIP,N/A,Iloilo,Roxas,5600
+1619,Micro,Agriculture,electronics,Sole Proprietorship, Philippines,,Zamboanga City,7000
+1620,Small,Financial Services,Insurance,corporation,Philippines,Cebu,manila,6015
+1621,N/A,RETAIL TRADE,Vocational,LLC,PH,Iloilo,Roxas,5600
+1622,Micro,Import/Export,Consumer Goods,Inc.,Philippines,,Toledo,6045
+1623,large ,food&beverage,N/A,Sole Proprietorship,Philippines,Metro Manila,davao ,1770
+1624,Large,N/A,misc,LLC,Philippines,Metro Manila,Makati,1400
+1625, Small, Technology,Cable TV,Corporation,Philippines,Metro Manila,Manila,1630
+1626,Micro,Education,Online Education,LLC,Philippines,Metro Manila,Quezon City,1400
+1627,N/A,Agriculture,Livestock,coop,Philippines,Davao,Davao City,8100
+1628,Large,Other,Commercial,LLC,Philippines,Unknown,Roxas,5600
+1629,Micro,Retail Trade,Clothing,Sole Proprietorship,Philippines,Cebu,Toledo,6038
+1630, Small,Food & Beverage,,Sole Proprietorship,Philippines,Cebu,Toledo,6014
+1631,Micro,Other, software,Corporation,Philippines,Metro Manila,Makati,1100
+1632,Medium,Food & Beverage,Food Truck,LLC,Philippines,Zamboanga,Pagadian,7100
+1633,Micro,Manufacturing,Textiles,Sole Proprietorship,Pilipinas,Zamboanga,Dipolog,7016
+1634,Unknown,Financial Services,Money Exchange,Corporation,Philippines,metro manila,Iloilo City,5000
+1635,Large,Transportation,Logistics,Cooperative,Philippines,Zamboanga,Zamboanga City,7100
+1636,Large,Construction,Materials Supply,Partnership,Philippines,Davao,,8105
+1637,Micro,Telecommunications,Internet Provider, LLC,Philippines,Cebu,Lapu-Lapu,6015
+1638,Small,Other, software,N/A, Philippines, Davao,QUEZON CITY,7016
+1639, Small,Healthcare,Dental,Cooperative,Philippines,Metro Manila,Pasig,1630
+1640,Micro,Manufacturing,Food Processing,LLC,Philippines,Metro Manila,davao ,1550
+1641,Small,manufacturing,Property Management,Cooperative,Philippines,Metro Manila,Pasig,1400
+1642,Medium,Transportation,N/A,Inc.,Philippines,Zamboanga,Dipolog,7016
+1643,small,Education,Online Education,Corporation,Philippines,Zamboanga,Zamboanga City,7016
+1644,Small,Import/Export,Automotive,Cooperative,Philippines,Zamboanga,N/A,7000
+1645,Large,Education,N/A,Corporation,,Iloilo,QUEZON CITY,5800
+1646,Micro,RETAIL TRADE,Agricultural Supply,LLC,Philippines,Metro Manila,Pasay,1600
+1647,Micro,Manufacturing,Automotive Parts,Cooperative,Philippines,Metro Manila,Pasig,1300
+1648,Medium,Import/Export,Consumer Goods,Corporation,N/A,Cebu,QUEZON CITY,6014
+1649,Large,Import/Export,Electronics,Partnership,Pilipinas,iloilo ,Zamboanga City,7100
+1650,large ,Manufacturing,Food Processing,coop,PH,,,1550
+1651,Small,food&beverage,Internet Provider,Cooperative,Philippines,Davao,Samal,8000
+1652,Micro,Healthcare,Laboratory,LLC,PH,Cebu,Talisay,6014
+1653,Medium,Other,TEXTILES,LLC,Philippines,Davao,Panabo,8000
+1654,Micro,Technology,Web Design,Partnership,PH,Iloilo,N/A,5600
+1655,Small,food&beverage,Catering,sole prop,Philippines,iloilo , cebu city,1630
+1656,Micro,Healthcare,other,LLC,Philippines,Iloilo,Bacolod,5800
+1657,Micro,Real Estate,Real Estate Brokerage,corporation,N/A,Cebu,Mandaue,6015
+1658,Medium,Real Estate,Commercial,Sole Proprietorship,philippines,Unknown,N/A,1770
+1659,Micro,Tourism & Hospitality,Event Planning,Corporation,PH,iloilo ,Pagadian,7016
+1660,med,Food & Beverage,Food Truck,Inc.,Philippines,,Mandaue,6045
+1661,med,RETAIL TRADE,TEXTILES,N/A,Philippines,Cebu,Cebu City,6015
+1662,small,,Vocational,Sole Proprietorship,PH,Cebu,Mandaue,6045
+1663,small,Manufacturing,grocery ,Sole Proprietorship,Philippines,Cebu,Talisay,6000
+1664,Small,food&beverage,Commercial,LLC,Philippines,Metro Manila,Mandaluyong,1770
+1665,Micro,Other,Food Truck,Sole Proprietorship,philippines,Iloilo,Bacolod,5600
+1666,Large,Construction,Infrastructure,,Philippines,Davao,Unknown,8000
+1667,Small,Healthcare,Dental,Sole Proprietorship,Philippines,iloilo ,Unknown,7016
+1668,large ,Real Estate,Development,Sole Proprietorship,Philippines,Davao,Panabo,8119
+1669,small,Agriculture,Rice Farming,Partnership,,CEBU,Bacolod,6100
+1670,Small,Telecommunications,N/A,Partnership, Philippines,Zamboanga, cebu city,7100
+1671,Medium, Technology,Hotel,Corporation,Philippines,Unknown,Digos,8119
+1672,Small,Financial Services,Investment,corporation,Philippines,Metro Manila,Pasig,1000
+1673,N/A,manufacturing,Hotel,LLC,Philippines, Davao,davao ,7100
+1674,Large,N/A,Logistics,corporation,Philippines,Zamboanga,QUEZON CITY,7000
+1675,Medium,,Clothing,Sole Proprietorship,Philippines,Metro Manila,Manila,1550
+1676,Medium,Financial Services,Microfinance,Sole Proprietorship,Philippines,N/A,Caloocan,1600
+1677,Micro,Manufacturing,Furniture, LLC,Philippines,Cebu,Lapu-Lapu,6015
+1678,lg,Manufacturing,Electronics,Corporation,Philippines,CEBU,Samal,8105
+1679,Micro,Tourism & Hospitality,Event Planning,LLC,,Metro Manila,N/A,1550
+1680,Small,Manufacturing,electronics,Sole Proprietorship,Philippines,Davao,QUEZON CITY,8119
+1681,Small,Import/Export,Industrial Equipment,sole prop,Philippines,Zamboanga,Zamboanga City,7016
+1682,Unknown,Agriculture,Rice Farming,Sole Proprietorship,Philippines,metro manila,Talisay,6000
+1683,Large,Tourism & Hospitality,Hotel,,Philippines,Cebu,Talisay,6014
+1684,,construction ,Hardware,Corporation,Philippines,Cebu,Unknown,6000
+1685,,Financial Services,Remittance,PARTNERSHIP,N/A,N/A,Manila,1100
+1686,Large,Education,Tutorial,Corporation,Philippines,Zamboanga,Zamboanga City,7016
+1687,med,Other,,corporation,Philippines,Metro Manila,Makati,1740
+1688,N/A,Import/Export,other,LLC,,Iloilo,Roxas,5000
+1689,Large,Food & Beverage,other,LLC,Philippines,Cebu,Cebu City,6038
+1690,Micro,Retail Trade,Electronics Store,Partnership,Philippines,Cebu,Mandaue,6014
+1691,Large,Food & Beverage,TEXTILES,Partnership,Philippines,CEBU,Cebu City,6045
+1692,Large,N/A,Grocery,Inc.,Philippines,,davao ,1630
+1693,Small,Telecommunications,Call Center,Partnership,,Cebu,,6038
+1694, Small,Healthcare,Dental,Cooperative,Philippines,Metro Manila, cebu city,1300
+1695,Medium,Agriculture,Rice Farming,Cooperative,ph,Davao,Panabo,8119
+1696,Medium,Financial Services,,Inc.,ph,Unknown,Unknown,6000
+1697,Large,construction ,Microfinance,Sole Proprietorship,Philippines,Zamboanga,Dipolog,7016
+1698,MEDIUM,Technology,Software Development,Corporation,Philippines,Davao,Panabo,8105
+1699,lg,Transportation,Trucking,Sole Proprietorship,Philippines,Iloilo,Roxas,6100
+1700,Medium,RETAIL TRADE,Tutorial,LLC,Philippines,Metro Manila,Caloocan,1100
+1701,Medium,Other,,Sole Proprietorship,Philippines,Zamboanga,Dipolog,7016
+1702,Unknown,Agriculture,Livestock,LLC,PHILIPPINES,Zamboanga,N/A,7000
+1703,small,Transportation,TEXTILES,PARTNERSHIP,philippines,Davao,davao ,8002
+1704,,Construction,electronics,Cooperative, Philippines,Zamboanga,Dipolog,7016
+1705,small,manufacturing,Hardware,Corporation,Philippines,Davao,Tagum,8105
+1706,med,Construction,Residential,Partnership,Philippines,Zamboanga,Dipolog,7100
+1707, Small,Construction,Commercial,Sole Proprietorship,Philippines,,manila,6014
+1708,, Technology,Car Rental,Partnership,N/A,Cebu,davao ,6045
+1709,Micro,N/A,Remittance,LLC,Pilipinas,Zamboanga,,7100
+1710,,construction ,Furniture,sole prop,ph,iloilo ,Iloilo City,5600
+1711,Medium,Tourism & Hospitality,Resort,Partnership, Philippines, Davao,N/A,1630
+1712,Micro,Education,Vocational,Corporation,Philippines,Zamboanga,Zamboanga City,7000
+1713,Large, Technology,other,Cooperative,Philippines,,Quezon City,1770
+1714,,construction ,Food Truck,LLC,Philippines,Iloilo,Kalibo,5800
+1715,large ,,grocery ,Corporation,Philippines,Davao,manila,8000
+1716,Micro,N/A,Investment,sole prop,Philippines,Iloilo,QUEZON CITY,6100
+1717,Large,Telecommunications,Network Equipment,,,Cebu,Mandaue,6000
+1718,Medium,Transportation,Logistics,LLC,Philippines,Davao,QUEZON CITY,8100
+1719,Medium,Manufacturing,N/A,Corporation,Philippines,Zamboanga,manila,7016
+1720,Large,Tourism & Hospitality,Event Planning,Corporation,Philippines,Metro Manila,Makati,1550
+1721,Small, Technology,,Partnership,Philippines,Iloilo,Bacolod,6100
+1722,Micro,Tourism & Hospitality,electronics,Cooperative,Philippines,Iloilo,Kalibo,6100
+1723,Large,Manufacturing,Textiles,Partnership,Philippines,Zamboanga,Dipolog,7100
+1724,Large,Transportation,other,Partnership,Philippines,Iloilo,QUEZON CITY,5600
+1725,Small,Transportation,Car Rental,,,Metro Manila,Taguig,1000
+1726,Medium,Retail Trade, software,Cooperative,,Iloilo,Kalibo,6100
+1727,MEDIUM,Telecommunications,Mobile Services,Corporation,Philippines,Iloilo,Kalibo,5000
+1728,Small,Import/Export,Automotive,sole prop,Philippines,Iloilo,Iloilo City,5000
+1729,Large,Transportation, software,Inc.,Philippines,Cebu,Cebu City,6015
+1730,Micro,N/A,Restaurant,Partnership,Philippines,Metro Manila,N/A,1550
+1731,large , Technology,,Cooperative,philippines,,Kalibo,5000
+1732,Unknown,Telecommunications,Network Equipment,Partnership,ph,Unknown,manila,7000
+1733,MEDIUM,Financial Services,TEXTILES,Corporation,Philippines,Iloilo,Iloilo City,5000
+1734,Medium,Education,Training Center,Partnership,Philippines,CEBU,Dipolog,7000
+1735,Small,Financial Services,Microfinance,Cooperative,Philippines,Metro Manila,QUEZON CITY,1770
+1736,MEDIUM,Financial Services,Insurance,LLC,Philippines,Metro Manila,Taguig,1400
+1737,Small,Other,Renovation,Cooperative,, Davao, cebu city,8000
+1738,Large,construction ,Development,Partnership,Philippines,N/A,Las Piñas,1630
+1739,Large,Telecommunications,Network Equipment,Partnership,Philippines,Unknown,Tagum,8000
+1740,,food&beverage,Insurance,Cooperative, Philippines,N/A,Pagadian,7000
+1741,Large,Import/Export,Consumer Goods,LLC,Philippines, Davao,Zamboanga City,7000
+1742,large ,construction ,Food Truck,Partnership,Philippines,Zamboanga,Pagadian,7100
+1743,Micro,Technology,Digital Marketing,Sole Proprietorship,ph,Metro Manila,Las Piñas,1630
+1744,Small,Telecommunications,Internet Provider,Corporation,Philippines,Metro Manila,,1770
+1745,Unknown,Tourism & Hospitality,Event Planning, LLC,N/A,metro manila,,5800
+1746,Micro,Transportation,Car Rental,,Philippines,Zamboanga,Dipolog,7100
+1747,Large,Retail Trade,Clothing,Corporation,Philippines,Metro Manila,Pasig,1300
+1748,Micro,Real Estate,Property Management,LLC,N/A,Metro Manila,Pasig,1740
+1749,Medium, Technology,misc,coop,Philippines,Zamboanga,Dipolog,7000
+1750,Medium,Real Estate,Property Management,Corporation,Philippines,Metro Manila,N/A,1600
+1751,N/A,Tourism & Hospitality,Hotel,Sole Proprietorship,Philippines,metro manila,Muntinlupa,1550
+1752,MEDIUM,Food & Beverage,Catering,sole prop,Philippines,Zamboanga,Pagadian,7100
+1753,Micro,Transportation,Delivery Services,Partnership,Philippines,Zamboanga,Pagadian,7100
+1754,,food&beverage,grocery ,Sole Proprietorship,philippines,metro manila,Pagadian,7000
+1755,Small,Agriculture,Fishery,PARTNERSHIP,Philippines,Zamboanga,Dipolog,7100
+1756,large ,Tourism & Hospitality,Event Planning,Cooperative,Philippines,Davao,Samal,8002
+1757,Medium,Financial Services,Microfinance,Partnership,Philippines,Iloilo,Unknown,5800
+1758,Micro,Technology,electronics,Partnership,Philippines,Unknown,Dipolog,7016
+1759,Small,RETAIL TRADE,Dental,LLC,Philippines,Zamboanga,QUEZON CITY,7100
+1760,,Food & Beverage,N/A,Partnership,Philippines,Metro Manila, cebu city,1740
+1761,lg,Technology,grocery ,Sole Proprietorship,Philippines,N/A, cebu city,1200
+1762,Small,Real Estate,Real Estate Brokerage,LLC,Philippines,Iloilo,Unknown,5000
+1763,Small,Technology, software,Corporation,Philippines,Davao,Panabo,8002
+1764,Large,Import/Export,Automotive,,philippines,Iloilo,N/A,5600
+1765,Small,RETAIL TRADE,Resort,Sole Proprietorship,Philippines,Metro Manila,Mandaluyong,1200
+1766,Medium,Manufacturing, software,corporation,Philippines,Cebu,Talisay,6000
+1767,Medium,Technology,misc,Partnership,Philippines,N/A,Samal,8105
+1768,Micro,Import/Export,other,Inc.,philippines,Zamboanga,QUEZON CITY,7100
+1769,Small,RETAIL TRADE,Event Planning,Partnership,Philippines,Iloilo,Kalibo,5800
+1770,Micro,Import/Export,Food Products,Sole Proprietorship,Philippines,Davao,Unknown,8000
+1771,Micro,Import/Export,Food Products,Partnership,Philippines,Metro Manila, cebu city,1000
+1772,Medium,Import/Export,Industrial Equipment,Sole Proprietorship,Philippines,Zamboanga,Zamboanga City,7000
+1773,Medium,Financial Services,Insurance,Cooperative,philippines,Davao,Panabo,8105
+1774,Micro,Import/Export,Electronics,PARTNERSHIP,Philippines,Metro Manila, cebu city,1000
+1775, Small,Import/Export,Electronics,Partnership,Philippines,Cebu,,6014
+1776,Large,food&beverage,Medical Equipment,Cooperative,Philippines,Davao,Tagum,8100
+1777,Small,N/A,Internet Provider,Partnership,Philippines,Davao,N/A,8105
+1778,Small,Tourism & Hospitality,Restaurant,Sole Proprietorship,Philippines,Iloilo,Kalibo,5000
+1779,Small,Healthcare,electronics,PARTNERSHIP,PH,Iloilo,manila,6100
+1780,Unknown,Import/Export,,Sole Proprietorship,Philippines,Iloilo,Bacolod,5600
+1781,Micro,Agriculture,Agricultural Supply,LLC,Philippines,CEBU,Iloilo City,5000
+1782,Medium,Tourism & Hospitality,grocery ,LLC,Philippines,Iloilo,Roxas,6100
+1783,Small,Technology,E-commerce, LLC,Philippines,Davao,Digos,8000
+1784,Small,Construction,Infrastructure,Sole Proprietorship,Philippines,CEBU,Zamboanga City,7000
+1785,MEDIUM,Retail Trade,Pharmacy,Sole Proprietorship,Philippines,Metro Manila,Pasig,1630
+1786,small,Financial Services,Money Exchange, LLC,Philippines,Metro Manila,Makati,1300
+1787,Micro,Real Estate,Development,corporation,Pilipinas,Davao,Digos,8105
+1788,Large,Tourism & Hospitality,Hotel,,Philippines,Unknown,N/A,6000
+1789,Micro,Telecommunications,electronics,LLC,Philippines,iloilo ,Davao City,8000
+1790,Medium,Financial Services,Investment,PARTNERSHIP,Philippines,iloilo ,Toledo,6045
+1791,Small,,IT Services,Corporation,ph,N/A,Bacolod,5800
+1792,Micro,Telecommunications, software,Sole Proprietorship,Philippines,metro manila,Iloilo City,5800
+1793,small,Real Estate,electronics,Cooperative,Philippines,Metro Manila,,1000
+1794,N/A,N/A,Residential, LLC,Philippines,Davao,Digos,8000
+1795,small,Food & Beverage,electronics,Partnership,ph,N/A,Kalibo,5600
+1796,Micro, Technology,other,Cooperative,Philippines,Cebu,davao ,6000
+1797,Small,N/A,,Inc.,Philippines,Iloilo,Bacolod,5000
+1798,MEDIUM,Agriculture,misc,LLC,Philippines,iloilo ,Bacolod,5000
+1799,Large,Tourism & Hospitality,Restaurant,Cooperative, Philippines,Zamboanga,Dipolog,7100
+1800,Large,Telecommunications,Internet Provider,Cooperative,Philippines, Davao,Panabo,8000
+1801,med,Food & Beverage,Bakery,Partnership, Philippines,Iloilo,Iloilo City,5000
+1802,Large,Telecommunications,grocery ,coop,Philippines,Iloilo,Bacolod,6100
+1803,med,Agriculture,TEXTILES, LLC,Philippines,Cebu,Lapu-Lapu,6000
+1804,Small,Construction,Residential,PARTNERSHIP,Philippines,Iloilo,Kalibo,5600
+1805,lg,Technology,Digital Marketing,Sole Proprietorship,PH,Davao, cebu city,8119
+1806,Medium,Other,Consumer Goods,Cooperative,Philippines,Cebu,Toledo,6045
+1807,Large,Financial Services,misc,Cooperative,Philippines,Zamboanga,manila,7016
+1808,Small,Other,Insurance,N/A,Philippines,Zamboanga,QUEZON CITY,7016
+1809,Large,Import/Export,Automotive,Partnership, Philippines,iloilo ,Pagadian,7000
+1810,Micro,Import/Export,misc,PARTNERSHIP,Philippines,Metro Manila,manila,1770
+1811,Medium,manufacturing,Travel Agency,LLC, Philippines,Zamboanga,Unknown,7100
+1812,N/A,Import/Export,misc,sole prop,Philippines,Iloilo,Bacolod,5800
+1813,Micro,Transportation,TEXTILES,Cooperative, Philippines,metro manila, cebu city,8002
+1814,Small,construction , software,Sole Proprietorship,Philippines,Unknown,Makati,1000
+1815,Small,Tourism & Hospitality,Travel Agency,corporation,Philippines,Metro Manila,Unknown,1000
+1816,Medium,Other,Cable TV,Corporation,Philippines,metro manila,Dipolog,7016
+1817,,N/A,Software Development,coop,Philippines,Metro Manila,Manila,1630
+1818,Medium,Import/Export,,,ph,Metro Manila,Makati,1630
+1819,Medium,food&beverage,Industrial Equipment,Sole Proprietorship,,Unknown,Dipolog,7016
+1820,Large,Technology,TEXTILES, LLC,Philippines,metro manila,manila,8119
+1821,Micro,manufacturing, software,Partnership,Philippines,Cebu,Mandaue,6045
+1822,Medium,Transportation,Public Transport,Cooperative,Philippines,Iloilo,Roxas,5800
+1823,N/A,Financial Services,grocery ,Cooperative,N/A,Cebu,Unknown,6000
+1824,Large,Transportation,Delivery Services,corporation,Philippines,Metro Manila,Manila,1740
+1825,Medium,Healthcare,Clinic,Cooperative,philippines,Metro Manila,Caloocan,1550
+1826, Small,Healthcare,Laboratory,Cooperative,philippines,Iloilo,Iloilo City,6100
+1827,small,Import/Export,Consumer Goods,corporation,Philippines,Metro Manila,Unknown,1630
+1828,Medium,Construction,Residential,Partnership,Philippines,Davao,Digos,8000
+1829, Small,N/A,Investment,coop,Philippines,Metro Manila,Manila,1770
+1830,Large,Import/Export,electronics,Sole Proprietorship,Philippines,Cebu,Lapu-Lapu,6045
+1831,Small,Import/Export,Consumer Goods,Inc.,Philippines,metro manila,N/A,5000
+1832,med,Manufacturing, software,Partnership,Philippines,Iloilo,Iloilo City,6100
+1833,Large,Retail Trade,Grocery,Cooperative,Philippines,Cebu,Cebu City,6045
+1834,Micro,Construction,Renovation,Partnership,, Davao, cebu city,7000
+1835,large ,Food & Beverage,TEXTILES,corporation,PH,Cebu,,6014
+1836,Small,Food & Beverage,N/A,LLC,Philippines,Metro Manila,Caloocan,1740
+1837,Medium,Import/Export,Electronics,Cooperative,Philippines,Unknown,Toledo,6000
+1838,Micro,Technology,Software Development,Cooperative,philippines,Davao,Panabo,8002
+1839,Small,Transportation,N/A,,Philippines,Davao,N/A,8000
+1840,Small,Agriculture,Livestock,corporation,Philippines,Davao,davao ,8119
+1841,Small,Education,Tutorial,Partnership,Philippines,Metro Manila,,1400
+1842,small,manufacturing,Dental,Inc.,ph,iloilo ,Davao City,8000
+1843,Small,food&beverage,N/A,Inc.,Philippines,Zamboanga,Dipolog,7000
+1844,Small,Telecommunications,TEXTILES,Sole Proprietorship,N/A,Cebu,Talisay,6045
+1845,N/A,Healthcare,Dental, LLC,Philippines,Davao,Digos,8100
+1846,lg, Technology,misc,Partnership,PHILIPPINES, Davao,Dipolog,7000
+1847,Medium,Construction,Commercial,Partnership,Philippines,,Unknown,7016
+1848, Small,Import/Export,TEXTILES,Sole Proprietorship,Philippines,CEBU,Taguig,1550
+1849,Small,Telecommunications,Network Equipment,Cooperative,Philippines,CEBU,Caloocan,1770
+1850,Micro,Tourism & Hospitality,Resort,,Philippines,Davao,Digos,8002
+1851,Medium,Healthcare,misc,Partnership,Philippines,Cebu,Toledo,6038
+1852,Micro, Technology,Textiles,Cooperative,Philippines,Cebu,Mandaue,6014
+1853,Small,Import/Export,Consumer Goods,Cooperative,Philippines,Davao,Digos,8002
+1854,Large,RETAIL TRADE,Travel Agency,Corporation,Pilipinas,Davao,,8000
+1855,Large,Import/Export,Food Products,corporation,N/A,Cebu,Mandaue,6038
+1856,Large,Import/Export,Electronics,LLC,Philippines,Davao,,8002
+1857,Large,Food & Beverage,grocery ,LLC,Philippines,,Pagadian,7000
+1858,Unknown,Import/Export,grocery ,Cooperative,ph,Iloilo, cebu city,5000
+1859,small,Telecommunications,electronics,LLC,Philippines,Zamboanga,Unknown,7016
+1860,Large,Retail Trade,Clothing,Partnership,,Metro Manila,Pasay,1770
+1861,Micro,Financial Services,Remittance,Cooperative,,metro manila,,5000
+1862,Micro,food&beverage,Mobile Services,Corporation,Philippines,metro manila,davao ,8105
+1863,,Retail Trade,Pharmacy,corporation,Philippines,metro manila,Panabo,8105
+1864,Small,RETAIL TRADE,, LLC,Philippines,Iloilo,,6100
+1865,Micro,Tourism & Hospitality,Event Planning,Cooperative,Philippines,Cebu,Mandaue,6045
+1866,Small,Construction,Renovation,Cooperative,Philippines,Zamboanga,Zamboanga City,7100
+1867,Large,food&beverage,Commercial,Cooperative,PH,Iloilo,davao ,5000
+1868,lg,Real Estate,misc,Corporation,Philippines,Davao,Panabo,8119
+1869,med,construction ,TEXTILES,Partnership,N/A,Unknown,Kalibo,6100
+1870,Small,N/A,Remittance,Corporation,PH,Cebu,N/A,6015
+1871,Small,manufacturing,Travel Agency,LLC,Philippines,Cebu,Talisay,6014
+1872,N/A,Technology,Software Development,Cooperative, Philippines,Zamboanga,Pagadian,7000
+1873,Micro,N/A, software,Corporation,ph, Davao,Roxas,5600
+1874,MEDIUM,Tourism & Hospitality,Restaurant,Cooperative,Philippines,Davao,Tagum,8000
+1875,large ,N/A, software,Cooperative,Philippines,iloilo ,Bacolod,5000
+1876,Micro,Food & Beverage,electronics,Partnership,N/A,Zamboanga,Pagadian,7100
+1877,Small,Tourism & Hospitality,,Sole Proprietorship,Philippines,iloilo ,N/A,6100
+1878,Small,Other,Commercial,Corporation, Philippines, Davao,Iloilo City,6100
+1879,Large,Telecommunications,grocery ,Partnership,philippines,Iloilo,QUEZON CITY,5000
+1880,Medium,Transportation,grocery ,Cooperative,Philippines,Iloilo,Iloilo City,5000
+1881,Micro,Food & Beverage,Catering,Sole Proprietorship,philippines,Cebu,Mandaue,6038
+1882,Small,Tourism & Hospitality,Restaurant,,PHILIPPINES,Zamboanga,Zamboanga City,7100
+1883,Unknown,Import/Export,Food Products,Partnership,Philippines,Iloilo,Bacolod,6100
+1884,Medium,Healthcare,Laboratory,Sole Proprietorship,Philippines,Cebu,Lapu-Lapu,6000
+1885,Large,Construction,Materials Supply,Partnership,Philippines,Metro Manila,Las Piñas,1400
+1886,Small,Other,Laboratory,N/A,Philippines,N/A,Mandaue,6038
+1887,Small,construction ,Travel Agency,LLC,Philippines,,Cebu City,6038
+1888,Medium,Retail Trade,Clothing,Partnership,Philippines,Metro Manila,QUEZON CITY,1770
+1889,Medium,Manufacturing,Electronics,Cooperative,Philippines,Zamboanga, cebu city,7100
+1890,Medium,Construction,Renovation,Inc.,Philippines,Zamboanga,Pagadian,7000
+1891, Small,Tourism & Hospitality,Hotel,Corporation,Pilipinas, Davao,manila,1550
+1892,Medium,Financial Services,Money Exchange,PARTNERSHIP,Philippines,Unknown,Toledo,6014
+1893,Medium,Technology,Web Design, LLC, Philippines,Davao,Digos,8002
+1894,Large,Technology,E-commerce,Corporation,Philippines,Iloilo, cebu city,5600
+1895,Micro,N/A,Tutorial,coop,Philippines,Davao,Panabo,8100
+1896,Large,N/A,,sole prop,Philippines,Davao,Panabo,8119
+1897,Medium,Retail Trade,Clothing,N/A,N/A,Davao,QUEZON CITY,8002
+1898,Small,Agriculture,Rice Farming,Partnership,Philippines,Davao,Samal,8000
+1899,Large,manufacturing,Property Management,Partnership,,Iloilo,Bacolod,5000
+1900,Large,Financial Services,Remittance,Corporation,Philippines, Davao,Mandaue,6015
+1901,Medium,Manufacturing,Furniture,Sole Proprietorship,Philippines,Zamboanga,Zamboanga City,7000
+1902,Unknown,, software,LLC,N/A,Unknown,Panabo,8105
+1903,Medium,Telecommunications, software,,Philippines,CEBU,Roxas,5600
+1904,Medium,Import/Export,Automotive,Sole Proprietorship,Philippines,Metro Manila,Pasay,1740
+1905,lg,manufacturing,Infrastructure,,Philippines,CEBU,Digos,8002
+1906,,Food & Beverage,electronics,Partnership,Philippines,iloilo ,Pasig,1550
+1907,Micro,Manufacturing,TEXTILES,Partnership,ph,Iloilo,Roxas,6100
+1908,Micro,Technology,Software Development,Cooperative,Philippines,N/A,Tagum,8105
+1909,Medium,Healthcare,Medical Equipment,Corporation,Philippines,Cebu,Talisay,6000
+1910,Medium,Technology, software, LLC,Philippines,N/A,Digos,8105
+1911,Micro,Manufacturing,misc,Sole Proprietorship,,Iloilo,Iloilo City,5800
+1912,MEDIUM,Food & Beverage,electronics,Sole Proprietorship,Philippines,,Samal,8100
+1913,Unknown,Tourism & Hospitality,Hotel, LLC,,Zamboanga,Zamboanga City,7016
+1914,small,Manufacturing,Electronics,Cooperative, Philippines,Cebu,Cebu City,6000
+1915,Medium,Retail Trade,Grocery,Sole Proprietorship,N/A,Iloilo,Roxas,5600
+1916,Micro,Healthcare,electronics,corporation,Philippines,Davao,Samal,8105
+1917,Unknown,Healthcare,Medical Equipment,Corporation,Philippines,Zamboanga,N/A,7016
+1918,Large,manufacturing,Vocational,Corporation,Pilipinas,Cebu, cebu city,6015
+1919,Large,Education,,Partnership,N/A,Iloilo,Kalibo,6100
+1920,med,Financial Services,Remittance,PARTNERSHIP,Philippines,Zamboanga,Pagadian,7000
+1921, Small,Tourism & Hospitality,Resort,corporation,Philippines,Iloilo,Iloilo City,5800
+1922,MEDIUM,manufacturing,Grocery,Cooperative,N/A,Davao,Tagum,8002
+1923,Large,Retail Trade,Hardware,Partnership,N/A,Davao,Tagum,8000
+1924,Medium,,electronics,N/A,Philippines,Davao,Davao City,8000
+1925,Micro,N/A,Industrial Equipment,Cooperative,Philippines,Unknown,Mandaue,6038
+1926,large ,Agriculture,Rice Farming,Corporation,PHILIPPINES,Zamboanga,Pagadian,7100
+1927,Medium,Telecommunications,Internet Provider,,N/A,Metro Manila,N/A,1770
+1928,Large,Import/Export,Industrial Equipment,Inc.,Philippines,Davao,Tagum,8119
+1929,Large,Construction,Materials Supply,Partnership,Philippines,CEBU,Talisay,6000
+1930,Small,Agriculture,Organic Farming,corporation,Philippines,Davao,Tagum,8105
+1931,Large,Transportation,other,coop,Philippines,Iloilo,Unknown,5000
+1932,,Tourism & Hospitality,Travel Agency,LLC,Philippines,Cebu,Lapu-Lapu,6000
+1933,Small,Food & Beverage,Coffee Shop,Sole Proprietorship,Philippines,Davao,manila,8119
+1934,,Food & Beverage,Restaurant,Partnership,Philippines, Davao,Roxas,5800
+1935,Small,Import/Export,Industrial Equipment,Inc.,Philippines,Zamboanga,Zamboanga City,7000
+1936,Micro,Financial Services,Insurance,Partnership, Philippines,Davao,QUEZON CITY,8000
+1937,small,Tourism & Hospitality,Restaurant, LLC,Philippines,Davao,N/A,8105
+1938,Large,construction ,Electronics,PARTNERSHIP,Philippines,Zamboanga,N/A,7100
+1939,,Manufacturing,Food Processing,Corporation,Philippines,Cebu,Talisay,6015
+1940,Unknown,Healthcare,Dental,Cooperative,PH,Zamboanga,Zamboanga City,7016
+1941,Medium,Tourism & Hospitality,electronics,LLC,N/A,Metro Manila,,1770
+1942,Unknown,Financial Services,Money Exchange, LLC,Pilipinas,iloilo ,Pasig,1200
+1943,med,,Food Processing,corporation,Philippines,Unknown,QUEZON CITY,1770
+1944,Large,Other,Pharmacy,Sole Proprietorship,Philippines,metro manila,N/A,8119
+1945,Small,RETAIL TRADE,Textiles,Sole Proprietorship,Philippines,N/A,Quezon City,1200
+1946,large ,Construction,Infrastructure,PARTNERSHIP,Philippines,Davao,Davao City,8000
+1947,Large,Agriculture,Agricultural Supply,Corporation,Philippines,Davao,Tagum,8000
+1948,large ,Technology,Digital Marketing,LLC,N/A,Zamboanga,manila,7000
+1949,small,Import/Export,,Corporation,Philippines,Zamboanga,Pagadian,7100
+1950, Small,Retail Trade,Grocery,Cooperative,Philippines,Metro Manila,davao ,1400
+1951,Small,Telecommunications,Mobile Services,N/A,Philippines,,Iloilo City,5800
+1952,N/A,Transportation,Delivery Services,Partnership,,Unknown,Lapu-Lapu,6000
+1953,Large,manufacturing,Clinic, LLC,PHILIPPINES,Iloilo,Bacolod,5800
+1954,Micro,Technology,E-commerce,Sole Proprietorship,ph,N/A,Pasig,1550
+1955,Medium,Agriculture,Organic Farming,coop,Philippines,Zamboanga,QUEZON CITY,7000
+1956, Small,,Food Products,Corporation,Philippines,Metro Manila,Unknown,1400
+1957,Large,Tourism & Hospitality, software,Corporation,Philippines,Cebu,Toledo,6038
+1958,small,Education,Private School,Partnership,,Metro Manila,Pasig,1000
+1959,Micro,Other,Digital Marketing,Cooperative,Philippines,Iloilo,Roxas,6100
+1960,lg,Education,N/A, LLC, Philippines,Zamboanga,Unknown,7016
+1961,Micro,Telecommunications,,Sole Proprietorship,Philippines,Cebu,Lapu-Lapu,6038
+1962,Small,RETAIL TRADE, software,Partnership,Philippines,Iloilo,manila,6100
+1963,Small,Education,Vocational,Sole Proprietorship,Philippines,Metro Manila,Caloocan,1000
+1964, Small,Healthcare,,Cooperative,Philippines,Davao,Panabo,8100
+1965, Small,Import/Export,Electronics,Cooperative,,Cebu,Unknown,6015
+1966, Small,Financial Services,misc, LLC,Philippines,Davao,N/A,8105
+1967,Micro,food&beverage,Materials Supply,Inc.,Philippines,Davao,QUEZON CITY,8000
+1968,Medium,Real Estate,electronics,Sole Proprietorship,Philippines,metro manila,Digos,8100
+1969,Small,Education,Tutorial,Cooperative,Philippines,Iloilo,Iloilo City,6100
+1970,Small,Real Estate,grocery ,LLC,Philippines,Unknown,Iloilo City,5800
+1971,Medium,Tourism & Hospitality,Travel Agency,Sole Proprietorship,Pilipinas,N/A,Roxas,5800
+1972,Medium,Other,Car Rental,LLC,Philippines,Iloilo, cebu city,5000
+1973,Medium,Manufacturing,Textiles,Sole Proprietorship,philippines,Cebu,Talisay,6038
+1974,small,Tourism & Hospitality,Event Planning,Cooperative,Philippines,Davao,,8119
+1975,Small,,Restaurant,PARTNERSHIP,Philippines,Cebu,Talisay,6000
+1976,Medium,Education, software,Sole Proprietorship,PHILIPPINES,Davao, cebu city,8000
+1977,, Technology,Digital Marketing,Partnership,Philippines,Iloilo,Roxas,5600
+1978,Small,Transportation,other,Corporation,Philippines,Zamboanga,Zamboanga City,7016
+1979,Micro,Transportation,misc,Corporation,N/A,N/A,N/A,8100
+1980,Micro,Other,Network Equipment,N/A,PH,Iloilo,Unknown,5800
+1981,small,Import/Export,,corporation,Pilipinas,iloilo ,Pagadian,7100
+1982,lg, Technology,Hotel,PARTNERSHIP,Philippines,Zamboanga,Unknown,7016
+1983,Large,RETAIL TRADE,Catering,Corporation,Philippines,Unknown,manila,6045
+1984,Medium,Financial Services,Money Exchange,Cooperative,Pilipinas,metro manila,Roxas,5000
+1985,Micro,Telecommunications,Internet Provider,LLC,Philippines,Cebu,Mandaue,6014
+1986,Micro,Import/Export,Food Products,Corporation,ph,Zamboanga,Pagadian,7100
+1987,small,Technology,Web Design,Sole Proprietorship,Philippines,Zamboanga,,7000
+1988,Large,RETAIL TRADE,grocery ,Sole Proprietorship,Philippines,Zamboanga,Dipolog,7016
+1989,Medium,Transportation,electronics,Partnership,Philippines,Cebu,manila,6045
+1990,Large,Food & Beverage,Food Truck,Cooperative,Philippines,Metro Manila,Caloocan,1000
+1991,Medium,Transportation,Trucking,Sole Proprietorship,Philippines,iloilo ,N/A,7100
+1992,med,Food & Beverage,Food Truck,PARTNERSHIP,Philippines,Davao,Panabo,8002
+1993,Small,Food & Beverage,other,Cooperative,ph, Davao, cebu city,5000
+1994,,Retail Trade,Pharmacy,Sole Proprietorship,PH,Iloilo,Kalibo,5600
+1995,N/A,manufacturing,Commercial,Cooperative,Philippines,Zamboanga,Pagadian,7000
+1996,Small,Tourism & Hospitality,grocery ,Inc.,Philippines,Davao,Samal,8119
+1997,Small,Construction,other,Cooperative,Philippines,N/A,Muntinlupa,1740
+1998, Small,food&beverage,Industrial Equipment,Partnership,Philippines,Davao,Panabo,8119
+1999,Medium,food&beverage,Restaurant,sole prop,ph,CEBU,Iloilo City,6100
+2000,N/A,construction ,Travel Agency,Cooperative,Philippines,Zamboanga,N/A,7000
