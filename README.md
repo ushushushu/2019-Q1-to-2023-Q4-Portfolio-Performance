@@ -39,3 +39,9 @@ _Note: NULL values are expressed in actuall NULL, or text values like 'NULL' and
 
 🔗 Link to Tableau dashboard:
 https://public.tableau.com/shared/C3HGMPZ4F?:display_count=n&:origin=viz_share_link
+
+**TOOLS & SKILLS USED:**
+SQL, PostgreSQL, Tableau, Data Cleaning, Data Analysis, Data Visualization, Data Storytelling, Dashboard Creation
+
+**DATASET:**
+Claude AI
