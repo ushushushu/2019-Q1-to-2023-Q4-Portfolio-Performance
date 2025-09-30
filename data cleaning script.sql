@@ -419,7 +419,7 @@ FROM dim_client;
 
 ----------------------------------- LOAN_DETAILS DATA CLEANING -----------------------------------
 
--- 24,870 rows
+-- 24,949 rows
 SELECT *
 FROM loan_details;
 
@@ -577,4 +577,5 @@ SELECT *
 FROM dim_client AS c
 INNER JOIN loan_details AS l
 ON c.client_uuid = l.client_uuid
+
 ORDER BY c.client_uuid;
