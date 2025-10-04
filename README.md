@@ -2,17 +2,21 @@
 
 ### ✏️ Project Brief
 ---
-Golden Triangle is a fictional lending company from the Philippines whose primary target market includes startups or SMEs, while their secondary target market includes large enterprises. Their product lineup includes loan plans that are easy to avail, flexible, and tailored to businesses. They have been dubbed as one of the high-growth companies in Asia-Pacific in 2019, highlighting their need for data analytics. Assume it is January 2024 and the quarantine to combat the COVID-19 pandemic has just been lifted. Both the Sales & Risk Managers are interested in analyzing the company's portfolio from 2019-2023 to create a definitive plan concerning post-pandemic recovery initiatives for the incoming year. The latter is also interested in seeing a snapshot of the data for his team to easily understand the risk performance & trends.
+Golden Triangle is a fictional lending company from the Philippines whose primary target market includes startups or SMEs, while their secondary target market includes large enterprises. Their product lineup includes loan plans that are easy to avail, flexible, and tailored to businesses. Prior to the pandemic, the company's performance had been strong. However, the onset of the COVID-19 pandemic in the Philippines uncovered an underlying critical issue within its operations -- the lack of a credit risk management framework. Golden Triangle's portfolio was severely impacted as continued operational disruptions occured. Now, both the Sales and Risk Managers want to analyze 2019-2023 portfolio performance to understand what happened and inform recovery strategies. The Risk Manager specifically requested the addition of a dashboard for their team to monitor ongoing risk performance and trends.
 
 The deliverables of this project are as follows:
-1. Slide deck
-2. Risk management dashboard
+- **Slide deck:** For both Sales & Risk Manager - portfolio performance insights
+- **Risk management dashboard:** For Risk Manager's team - ongoing monitoring
+
+Insights & recommendations are provided in the following areas:
+- **Client Financing Behavior & Acquisition Trends:** Evaluation of client acquisition volumes, loan origination volume shifts, & changes in average loan size
+- **Portfolio at Risk (PAR):** An analysis of the portfolio's total outstanding balance that's at risk of defaulting
 
 ### 📂 Data Schema
 ---
-<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/a238e8d5-4f1a-480d-83da-117cb94225ba" />
+The database seen below is composed of two tables: dim_client & loan_details. A total of 4,200 rows records were found in the dim_client table, while the latter contained 24,949 records.
 
-_Note: NULL values are expressed in actuall NULL, or text values like 'NULL' and 'N/A'._
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/a238e8d5-4f1a-480d-83da-117cb94225ba" />
 
 ### 💻 Technologies & Skills Used
 ---
@@ -36,27 +40,33 @@ A link to the interactive Tableau dashboard can be found [here](https://public.t
 #### 👥 Client Acquisition
 - There has been a steady increase in client acquisition throughout 2019, peaking at 2,985 clients during the 4th quarter of 2019. The first known COVID-19 patient in the Philippines was declared in the 1st quarter of 2020 and public hasn't felt the negative effects of the pandemic quite yet, which explains the relatively strong performance. However, as the spread of the virus proliferated and disrupted business operations, client acquisition sharply declined by 66.23% in the 2nd quarter of 2020 and as the Philippines' economy officially entered a technical recession
 - Clients from 2020 to 2023 were mostly composed of repeat customers. Since quarantine has been officially lifted in the 3rd quarter of 2020, it signified the country's strong ability to contain the COVID-19 pandemic
-- From 2024 onward, the company should focus on driving client acquisition with a strong focus on securing new clients while maintaining repeat clients. Partner with the Marketing Team to launch “post-pandemic” marketing campaigns, expand market reach, & drive client acquisition
 
 #### 📈 Average Origination Volume & Average Loan Size
 - The average origination volume plummeted in the 2nd quarter of 2020 and while it has been steadily increasing since then, the origination volume is sitll below its 2019 performance and thus, hasn't broken its downward trend.
 - Conversely, clients' average loan size has been maintaining an upward trend since 2019
 - This is indicative of a phenomenon where less and less clients are availing loan plans, yet each individual loan plan's principal amount is steadily increasing. This correlates with the decline in clients back in the 2nd quarter of 2020. The economy's entry to the technical recession could also explain the rise in the principal loan amounts, as companies require funding to sustain operations after disruptions caused by the COVID-19 pandemic
-- From 2024 onwards, the company should consider the following recommendations:
-	1. Re-introduce smaller loan products, since many clients likely need post-pandemic recovery funds
- 	2. Consult with Executive Management a/o the Legal Department to gradually loosen lending policies while maintaining good credit quality
-  	3. Work closely with the Risk Management Team to pinpoint areas for growth
 
 #### 💰 Non-performing vs. Performing Clients & Portfolio at Risk (PAR)
 - The company's non-performing clients only amount to 12.24% of the entire client base, yet they contribute to 39.97% of the portfolio that's at risk of defaulting or are already defaulting. We can infer that clients within the 12.24% are major clients, individuals with high initial loan amounts
 - This also indicates that the portfolio is highly concentrated towards a small group of people, increasing risk
-- From 2024 onwards, the company diversify the portfolio & target underrepresented business segments
 
 #### ⌛ Portfolio at Risk by Delinquency Period
 - Although only 9.13% loan plans are 90+ days overdue, it amounts to 39.97% of the portfolio’s total outstanding balance. In other words, PHP 565.43 million is at risk of loss. 
 - There is a strong possibility that clients with loans plans that are 90+ days overdue have prior bad debts -- money owed to a financial institution / entity that is rendered uncollectible due to the client's inability or unwillingness to pay
 - Bearing this in mind, we can infer that there may have been a lapse in the company's lending policies or credit assessment procedures. If Golden Triangle had a robust system for assessing clients for loan approvals, the issue would've been lessened or kept to a minimum
-- From 2024 onwards, the company should consider the following recommendations:
-	1. 	Review & revise credit assessment & lending policies
- 	2. Intensify & improve collection efforts (also consider restructuring loans)
-	3. Consider taking legal actions against defaulting clients
+
+### 🎯 Recommendations
+---
+
+#### 1️⃣ Recommendations to the Sales Manager
+Based on the uncovered insights, the following recommendations have been provided:
+- The company should focus on driving client acquisition with a strong focus on securing new clients while maintaining repeat clients. Partner with the Marketing Team to launch “post-pandemic” marketing campaigns, expand market reach, & drive client acquisition
+- Re-introduce smaller loan products, since many clients likely need post-pandemic recovery funds
+- Consult with Executive Management a/o the Legal Department to gradually loosen lending policies while maintaining good credit quality
+- Work closely with the Risk Management Team to pinpoint areas for growth
+
+#### 2️⃣ Recommendations to the Risk Manager
+- The company diversify the portfolio & target underrepresented business segments
+- Review & revise credit assessment & lending policies
+- Intensify & improve collection efforts (also consider restructuring loans)
+- Consider taking legal actions against defaulting clients
