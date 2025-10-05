@@ -57,9 +57,9 @@ A link to the interactive Tableau dashboard can be found [here](https://public.t
 
 ### 🎯 Recommendations
 ---
+Based on the uncovered insights, the following recommendations have been provided:
 
 #### 1️⃣ Recommendations to the Sales Manager
-Based on the uncovered insights, the following recommendations have been provided:
 - The company should focus on driving client acquisition with a strong focus on securing new clients while maintaining repeat clients. Partner with the Marketing Team to launch “post-pandemic” marketing campaigns, expand market reach, & drive client acquisition
 - Re-introduce smaller loan products, since many clients likely need post-pandemic recovery funds
 - Consult with Executive Management a/o the Legal Department to gradually loosen lending policies while maintaining good credit quality
