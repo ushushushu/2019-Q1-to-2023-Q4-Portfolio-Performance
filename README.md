@@ -16,7 +16,7 @@ Insights & recommendations are provided in the following areas:
 ---
 The database seen below is primarily composed of two tables: dim_client & loan_details. A total of 4,200 rows records were found in the dim_client table, while the latter contained 24,949 records. During the data visualization process, I discovered that Tableau was unable to gather most clients' city coordinates, which I required for the Geographic Analysis tab in the Risk Management Dashboard. For this reason, the clients' geographical data were extracted for geocoding in [Geoapify](https://www.geoapify.com/tools/geocoding-online/) before it was stored in the geo_data table. The said table is composed of 510 unique records.
 
-<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/0f3e191b-3c8a-4b63-be23-c506e2dda68a" />
+<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/f55206cf-3d08-4cd4-9cc4-f177949cec5b" />
 
 ### 💻 Technologies & Skills Used
 ---
