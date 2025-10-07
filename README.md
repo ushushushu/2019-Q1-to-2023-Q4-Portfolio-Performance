@@ -26,7 +26,7 @@ The database seen below is primarily composed of two tables: dim_client & loan_d
 
 ### 📣 Slide Deck
 ---
-A link to the Canva slide deck can be found [here](https://www.canva.com/design/DAGzInPnv7Y/IVHace-sYd9Iw1ZkjbaVlQ/edit?utm_content=DAGzInPnv7Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+A link to the Canva slide deck can be found [here](https://www.canva.com/design/DAGzInPnv7Y/IVHace-sYd9Iw1ZkjbaVlQ/edit?utm_content=DAGzInPnv7Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). Scroll down to view the Summary of Insights for the Sales & Risk Managers.
 
 ### 📊 Tableau Dashboard
 ---
