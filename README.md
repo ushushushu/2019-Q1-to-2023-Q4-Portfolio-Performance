@@ -1,5 +1,17 @@
 # Golden Triangle Portfolio Performance (2019-2023)
 
+### 📜 Table of Contents
+---
+- [Project Brief](#%EF%B8%8F-project-brief)
+- [Data Schema](#-data-schema)
+- [Technologies & Skills Used](#-technologies--skills-used)
+- [Slide Deck](#-slide-deck)
+- [Tableau Dashboard](#-tableau-dashboard)
+- [Summary of Insights for the Sales & Risk Managers](#-summary-of-insights-for-the-sales--risk-managers)
+- [Recommendations](#-recommendations)
+- [Future Improvements](#-future-improvements)
+- [Contact Information](#-contact-information)
+
 ### ✏️ Project Brief
 ---
 Golden Triangle is a fictional lending company from the Philippines whose primary target market includes startups or SMEs, while their secondary target market includes large enterprises. Their product lineup includes loan plans that are easy to avail, flexible, and tailored to businesses. Prior to the pandemic, the company's performance had been strong. However, the onset of the COVID-19 pandemic in the Philippines uncovered an underlying critical issue within its operations -- the lack of a credit risk management framework. Golden Triangle's portfolio was severely impacted as continued operational disruptions occured. Now, both the Sales and Risk Managers want to analyze 2019-2023 portfolio performance to understand what happened and inform recovery strategies. The Risk Manager specifically requested the addition of a dashboard for their team to monitor ongoing risk performance and trends.
@@ -75,3 +87,16 @@ Based on the uncovered insights, the following recommendations have been provide
 - Review & revise credit assessment & lending policies
 - Intensify & improve collection efforts (also consider restructuring loans)
 - Consider taking legal actions against defaulting clients
+
+### 🧠 Future Improvements?
+---
+1. Incorporate colorblind-accessible designs for UI/UX
+2. Introduce narrative layers into the design, so non-technical audiences can understand the data
+3. Addition of predictive modeling to strengthen dashboard use
+4. Maximize the dashboard lifecycle by creating high-use designs
+
+### 📞 Contact Information
+---
+- **Author:** Usha Nicole C. Cobrado
+- **LinkedIn:** [https://www.linkedin.com/in/usha-nicole-cobrado/](https://www.linkedin.com/in/usha-nicole-cobrado/)
+- **Email:** [usha.cobrado@gmail.com](mailto:usha.cobrado@gmail.com)
